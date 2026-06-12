@@ -1,0 +1,321 @@
+UKM FTSM Chinese Student Portal Search Index
+Source site: https://ftsm.pages.dev
+Generated at (UTC): 2026-04-02T06:52:08.171947+00:00
+
+This file is generated from the public site search index embedded in ftsm.pages.dev.
+It contains titles, summaries, categories, keywords, and source routes for Chinese student support content.
+
+[Portal Entry 1]
+ID: research-journal
+Title: 期刊信息查询
+Category: 学术科研
+Route: /research
+Source URL: https://ftsm.pages.dev/research
+Summary: 整合 JCR 与中科院分区，支持 ISSN / 关键词检索
+Keywords: 期刊, 影响因子, 分区, JCR, SCI, SSCI, 论文, 发表, 学术, 研究, ISSN, 中科院分区, 期刊查询, 期刊检索, 期刊搜索, 期刊数据库, 学术期刊, 期刊投稿
+
+[Portal Entry 2]
+ID: research-scholar
+Title: 谷歌学术搜索
+Category: 学术科研
+Route: /research
+Source URL: https://ftsm.pages.dev/research
+Summary: 快捷使用谷歌学术搜索，支持高级检索语法拼装
+Keywords: Google Scholar, 文献, 学术搜索, 论文, 谷歌学术, 学术, 研究, 发表, 文献搜索, 学术文献, 论文搜索, 高级检索, 检索语法
+
+[Portal Entry 3]
+ID: research-nav
+Title: 科研导航
+Category: 学术科研
+Route: /research
+Source URL: https://ftsm.pages.dev/research
+Summary: 整合多款搜索与常用科研服务入口
+Keywords: 学术导航, 学术搜索, 索引库, 写作翻译, 出版社, 百度学术, 微软学术, 谷歌学术, 中国知网, 万方数据, WoS, Scopus, EI, Proquest, EBSCO, ScienceDirect, Wiley, Nature, IEEE, Springer, ACS, RSC, AAAS, Science, 翻译, Grammarly, Quillbot, DeepL, 科研工具, 学术资源, 科研服务, 学术平台
+
+[Portal Entry 4]
+ID: research-ranking
+Title: 2026 QS世界大学排名
+Category: 学术科研
+Route: /research
+Source URL: https://ftsm.pages.dev/research
+Summary: 查看全球大学排名，支持搜索和按国家筛选
+Keywords: QS排名, 世界大学排名, 大学排名, QS, 排名, 全球排名, 大学, 高校排名, 院校排名, 学校排名, 排行榜, 世界排名, 国际排名
+
+[Portal Entry 5]
+ID: systems-ftsm
+Title: FTSM系统
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: FTSM学院相关系统入口，包含校历、课表、学院地图、硕士课程结构等
+Keywords: FTSM, 学院系统, SMP, 选课, 成绩, 校历, 课表, 课程表, 时间表, 学院地图, 硕士课程, 官网, 官方网站, 学院官网, 课程结构, 学院, 信息科学技术学院
+
+[Portal Entry 6]
+ID: systems-ftsm-home
+Title: FTSM学院官网
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 信息科学技术学院官方网站
+Keywords: FTSM官网, 学院官网, 官方网站, 官网, FTSM, 信息科学技术学院, 学院网站, 学院主页, 官方主页
+
+[Portal Entry 7]
+ID: systems-ftsm-staff
+Title: FTSM教授讲师信息
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 查询信息科学技术学院教授和讲师的信息
+Keywords: 教授, 讲师, 师资, 教师, 老师, 导师, 专家, FTSM教授, FTSM讲师, 学院师资, 师资信息, 教授信息, 讲师信息, 教师信息, 导师信息
+
+[Portal Entry 8]
+ID: systems-ftsm-expertise
+Title: FTSM不同领域专家
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 查询信息科学技术学院各个研究领域的专家
+Keywords: 专家, 研究领域, 领域专家, FTSM专家, 学院专家, 研究方向, 专业领域, 学术专家, 研究专家, 专业方向, 学术方向
+
+[Portal Entry 9]
+ID: systems-coordinator
+Title: 硕士课程协调员
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 硕士课程协调员和秘书联系方式
+Keywords: 协调员, 课程协调员, 硕士协调员, 秘书, 联系方式, 导师, 指导老师, 课程指导, 行政秘书, 课程管理, 课程负责人
+
+[Portal Entry 10]
+ID: systems-timetable
+Title: 硕士课程表（课程模式）
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: FTSM硕士研究生课程时间表（课程模式），包含各专业课程安排
+Keywords: 课表, 课程表, 时间表, 硕士, 研究生, 课程模式, FTSM, 课程安排, 上课时间, 课程时间, 时间安排
+
+[Portal Entry 11]
+ID: systems-cybersecurity-timetable
+Title: 网络安全课表
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 网络安全专业硕士课程时间表
+Keywords: 网络安全, 课表, 课程表, 时间表, 硕士, 研究生, cybersecurity, 安全, 课程安排
+
+[Portal Entry 12]
+ID: systems-datascience-timetable
+Title: 数据科学课表
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 数据科学专业硕士课程时间表
+Keywords: 数据科学, 课表, 课程表, 时间表, 硕士, 研究生, datascience, data science, 数据, 课程安排
+
+[Portal Entry 13]
+ID: systems-healthinformatics-timetable
+Title: 健康信息学课表
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 健康信息学专业硕士课程时间表
+Keywords: 健康信息学, 课表, 课程表, 时间表, 硕士, 研究生, healthinformatics, health informatics, 健康, 医疗, 课程安排
+
+[Portal Entry 14]
+ID: systems-ukm
+Title: UKM系统
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: UKM大学相关系统入口，包含学生档案、上课系统、邮箱、财务等
+Keywords: UKM, 大学系统, 学生系统, 注册, 续签, SMPWEB, 学生档案, FOLIO, 上课系统, SISWAMAIL, 学生邮箱, E-KEWANGAN, 财务系统, 学费, 账单, 教授成果, UKM Sarjana, 图书馆, 电子资源
+
+[Portal Entry 15]
+ID: systems-professor
+Title: UKM 教授成果查询
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 检索教授发表文章及研究方向，方便对接导师
+Keywords: 教授, 教授成果, UKM Sarjana, 发表文章, 研究方向, 导师, 对接导师, 学术成果, 研究, 论文, 发表, 导师查询, 教授查询, 研究成果
+
+[Portal Entry 16]
+ID: systems-smpweb
+Title: SMPWEB 学生档案
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 进行每学期课程注册、查看个人档案与学籍信息
+Keywords: SMPWEB, 学生档案, 课程注册, 个人档案, 学籍信息, 注册, 选课, 成绩, 学生系统, SMP, 档案系统, 学籍
+
+[Portal Entry 17]
+ID: systems-folio
+Title: UKM FOLIO 上课系统
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 课堂教学、作业、小测、课件集中管理，支持移动端访问
+Keywords: FOLIO, 上课系统, 课堂教学, 作业, 小测, 课件, 移动端, 学习系统, 课程管理, 在线学习, 教学平台, 学习平台
+
+[Portal Entry 18]
+ID: systems-siswamail
+Title: UKM SISWAMAIL 学生邮箱
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件
+Keywords: SISWAMAIL, 学生邮箱, SPEEP, Gmail, 邮件, 邮箱, 护照号, 收发邮件, 学生邮箱系统, 电子邮件, 邮箱申请
+
+[Portal Entry 19]
+ID: systems-ekewangan
+Title: UKM E-KEWANGAN 财务系统
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 查询学费账单、付款记录及奖助学金发放情况
+Keywords: E-KEWANGAN, 财务系统, 学费, 账单, 付款记录, 奖助学金, 财务, 费用, 付款, 奖学金, 缴费, 学费查询, 账单查询
+
+[Portal Entry 20]
+ID: systems-library
+Title: UKM Library 电子资源
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）
+Keywords: 图书馆, 电子资源, 期刊数据库, UKM e-Resources, 校园账号, VPN, 学术资源, 数据库, 文献, 图书, 借书, 阅览, 资料, 参考, 研究, 学习, 电子图书, 电子期刊
+
+[Portal Entry 21]
+ID: systems-visa-renewal
+Title: 学生签证办理和续签
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 查询UKMShape最新的国际学生签证程序
+Keywords: 签证, 续签, UKMShape, 国际学生, 签证程序, 办理, 学生签证, 签证申请, 签证办理, 签证流程, 签证服务
+
+[Portal Entry 22]
+ID: systems-emgs-track
+Title: EMGS进度查询
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 查询签证办理的实时进度
+Keywords: EMGS, 进度查询, 签证进度, 实时进度, 办理进度, 签证状态, 教育, 马来西亚, 学生签证, 进度, 状态, 查询, 办理, 签证查询
+
+[Portal Entry 23]
+ID: systems-mdac
+Title: MDAC电子入境卡
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+Keywords: MDAC, 电子入境卡, 入境卡, 官网, 亲朋好友, 办理, 入境, 马来西亚, 移民局, 电子卡, 数字, 在线, 申请, 填写, 入境申请
+
+[Portal Entry 24]
+ID: systems-myrapid
+Title: MyRapid公交路线查询
+Category: 系统导航
+Route: /systems
+Source URL: https://ftsm.pages.dev/systems
+Summary: 查询公交实时位置信息
+Keywords: MyRapid, 公交, 路线查询, 实时位置, 公交查询, 交通, 出行, 巴士, 公交车, 公共交通, 路线, 站点, 时间表, 实时, 位置, 查询, 导航, 公交线路
+
+[Portal Entry 25]
+ID: guide-registration
+Title: UKM注册指南
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: 新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤
+Keywords: 注册, 新生, 体检, 认证, 换签, 护照, 注册指南, 新生注册, 注册流程, 线上注册, 学生注册, 入学注册
+
+[Portal Entry 26]
+ID: guide-renewal
+Title: UKM续签指南
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: 学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤
+Keywords: 续签, 签证, EMGS, 护照, 资料, 续签指南, 签证续签, 续签流程, 学生签证, 签证办理
+
+[Portal Entry 27]
+ID: guide-emgs-visa
+Title: 如何申请首次签证(EMGS申请指南)
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤
+Keywords: EMGS, 首次签证, 签证申请, 账号注册, 付款, 银行卡, Visa, MasterCard, 订单号, EMGS申请, 签证办理, 学生签证, 首次申请
+
+[Portal Entry 28]
+ID: guide-ftsm-course
+Title: FTSM硕士选课指南
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求
+Keywords: 选课, FTSM, SMP, 课程, 注册, CITRA, 马来语, 选课指南, 选课流程, 课程注册, 选课系统, 选课说明, 硕士, 研究生, 课程模式, 硕士选课, 研究生选课
+
+[Portal Entry 29]
+ID: guide-confirmation-letter
+Title: 学生确认信申请指南
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: 学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板
+Keywords: 确认信, 学生信, 申请, 银行, 移民局, 续签, 确认信申请, 学生确认信, 申请流程, 确认信指南, 在读证明
+
+[Portal Entry 30]
+ID: guide-student-card
+Title: 学生卡领取和开卡流程
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: 学生卡预约领取、图书馆激活和RHB银行开户的完整流程指南
+Keywords: 学生卡, 学生证, 领取, 开卡, 激活, 预约, UKMShape, 图书馆, RHB银行, 银行开户, 学生卡申请, 学生卡激活, 学生卡领取, 学生卡开户, 学生卡流程, 学生卡指南, 学生卡办理, 学生卡开通, 学生卡使用, 学生卡功能, 学生卡服务, 学生卡账户, 学生卡银行, 学生卡图书馆, 学生卡进出, 学生卡刷卡, 学生卡保证金, 学生卡退签, 学生卡毕业, 学生卡RM1500, 学生卡EVO Mall, 学生卡Bangi, 学生卡谷歌地图, 学生卡护照, 学生卡offer, 学生卡柜台, 学生卡工作人员, 学生卡右侧, 学生卡刷卡机, 学生卡入口, 学生卡新学生, 学生卡激活, 学生卡两三分钟, 学生卡自由出入, 学生卡恭喜, 学生卡预约时间, 学生卡填写信息, 学生卡姓名, 学生卡邮箱, 学生卡手机号, 学生卡学号, 学生卡学院, 学生卡提交, 学生卡申请, 学生卡链接, 学生卡sprintful, 学生卡appointment, 学生卡my-siswa-card, 学生卡on.sprintful.com
+
+[Portal Entry 31]
+ID: guide-maybank-card
+Title: MayBank银行卡办理流程
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: MayBank银行卡申请、材料准备、提交和激活的完整办理流程指南
+Keywords: MayBank, Maybank, 银行卡, 银行, 银行卡办理, 银行卡申请, 银行卡流程, 银行卡指南, 银行卡开户, 银行卡激活, 银行开户, 银行申请, 银行办理, 银行流程, 银行指南, Pusanika, MAE, Maybank2u, Students Verification Letter, Letter of Students Confirmation, Offer Letter, eVisa, eVal Letter, EMGS Approval Letter, EMGS 100% Status, Confirmation of International Students Status, 签证部, 4楼, 打印, 提交材料, 15-30个工作日, 电话通知, WhatsApp通知, 领取银行卡, RM 250, 现金, 预存, 开卡, 激活, Apple App Store, Google Play, 华为应用商店, MAE by Maybank2u, 应用下载, 手机应用, 银行应用, 银行APP, 银行软件, 银行系统, 银行服务, 银行账户, 银行功能, 银行使用, 银行操作, 银行流程, 银行步骤, 银行材料, 银行文件, 银行证件, 银行证明, 银行信函, 银行确认, 银行验证, 银行审核, 银行审批, 银行处理, 银行办理, 银行申请, 银行开户, 银行激活, 银行通知, 银行领取, 银行预存, 银行现金, 银行费用, 银行收费, 银行服务费, 银行手续费, 银行管理费, 银行年费, 银行维护费, 银行使用费, 银行交易费, 银行转账费, 银行取款费, 银行存款费, 银行查询费, 银行打印费, 银行复印费, 银行证明费, 银行确认费, 银行验证费, 银行审核费, 银行审批费, 银行处理费, 银行办理费, 银行申请费, 银行开户费, 银行激活费, 银行通知费, 银行领取费, 银行预存费, 银行现金费
+
+[Portal Entry 32]
+ID: guide-fees
+Title: 行政费用及罚款/罚金
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明
+Keywords: 费用, 罚款, 罚金, 行政, 签证, 保险, 逾期, 行政费用, 费用说明, 收费标准, 缴费, 费用列表
+
+[Portal Entry 33]
+ID: guide-bus
+Title: UKM公交路线
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划
+Keywords: 公交, 路线, 校园, 出行, 交通, 公交路线, 校园公交, 公交线路, 巴士, 班车, 环线, 站点, 公交地图
+
+[Portal Entry 34]
+ID: guide-contacts
+Title: UKM常用联系方式
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱
+Keywords: 联系方式, 电话, 邮箱, VISA, 财务, 考试, 部门, 联系, 服务, 咨询, 部门电话, 联系电话, 服务电话, 咨询电话
+
+[Portal Entry 35]
+ID: guide-template
+Title: GayaUKM 论文样式模板
+Category: 办事指南
+Route: /guide
+Source URL: https://ftsm.pages.dev/guide
+Summary: UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写
+Keywords: 论文, 模板, 格式, 排版, 引用, 学位, GayaUKM, 论文模板, 论文格式, 论文样式, 学位论文, 毕业论文, 论文写作, 论文规范

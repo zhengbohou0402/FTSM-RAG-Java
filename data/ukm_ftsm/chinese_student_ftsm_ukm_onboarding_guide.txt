@@ -1,0 +1,131 @@
+FTSM Chinese Student Onboarding Guide
+Source type: Student community guide
+Primary community site: https://ftsm.pages.dev/
+Last curated: 2026-05-28
+
+Important note:
+This document is student-maintained practical guidance for Chinese students at UKM FTSM. It is useful for onboarding, registration, renewal, campus navigation, and common student systems, but it is not an official UKM or FTSM policy document. For formal requirements, deadlines, fees, visa status, and academic decisions, verify against official UKM, UKMShape, EMGS, JoinUKM, PKP, or faculty sources.
+
+FTSM Academic and Portal Website for Chinese Students
+The student-maintained FTSM academic and portal website is:
+https://ftsm.pages.dev/
+
+Suggested group display name format:
+Use real name + programme + intake year/semester, for example:
+Zhang Xiaorui-CS-25 Fall
+
+For programmes that are easy to confuse, use the full programme name. Unique programmes can use short labels such as AI, CS, or DS.
+
+Group admission reminder:
+Students who invite new members into the group should check the new student's Full Offer and make sure the student belongs to FTSM. Administrators may not re-check every new member, so inviters should verify this carefully.
+
+UKM Registration Guide
+
+1. Online Registration
+Upload all available documents to the JoinUKM system. This may include the tuition payment receipt, Eval, EMGS documents, and other materials currently available.
+
+2. Medical Examination Process
+
+Option A: UKM Health Centre
+1. Print and complete the Report of Health Examination Form in advance.
+2. Go to the UKM Health Centre.
+3. Go to Window 19.
+4. Submit the form and pay the RM250 medical examination fee.
+5. Complete checks at A3, A2, and A1.
+6. Return to A3 and wait for the medical report.
+7. Return to Window 19 and submit the report.
+8. Wait for the doctor to stamp and sign.
+9. Go to the photocopy room on the second floor of the Health Centre. Photocopying costs about RM5 and may require cash.
+10. Submit the original and photocopy at Window 19.
+11. Scan the medical report, including the original and the first page of the photocopy, and upload it to the JoinUKM system.
+
+Medical examination reminder:
+Blood and urine tests are required. Drink enough water before the test.
+
+Option B: External Designated Hospital
+1. Complete the medical examination at an external designated hospital.
+2. Obtain the medical report.
+3. Bring the X-ray film and report to the UKM Health Centre.
+4. Take a queue number and wait for the doctor to stamp and sign.
+5. Go to the photocopy room on the second floor of the Health Centre. Photocopying costs about RM5 and may require cash.
+6. Scan the medical report, including the original and the first page of the photocopy, and upload it to the JoinUKM system.
+
+3. Certification and Visa Endorsement
+After completing the medical examination:
+1. Go to UKMShape.
+2. Verify whether all JoinUKM documents have been uploaded completely.
+3. Verify tuition fee, personal bond, and visa fee status.
+4. Verify academic qualifications. Bring originals and photocopies of graduation certificate, degree certificate, and notarized documents.
+5. Complete visa endorsement. First scan the QR code and fill in the information. Then submit the medical report, Eval, Evisa, and passport.
+
+4. Passport Collection
+On the second day after EMGS reaches 100%, bring the temporary passport to PKP to collect the passport. PKP is located on Level 4 of Pusanika.
+
+Registration reminders:
+Bring as many original documents and photocopies as possible for offline registration. Bring a laptop to handle unexpected document or system issues.
+Offline payment may only support cash, Visa, or Mastercard. UnionPay may not be supported.
+
+UKM Student Pass Renewal Guide
+
+Required documents may include:
+1. Attendance report.
+2. Grade report.
+3. Passport scan, including cover.
+4. Renewal application form.
+5. Student financial system screenshot.
+6. Student confirmation letter.
+7. Visa processing fee.
+8. EMGS fee.
+
+Renewal steps:
+1. Fill in the renewal Google Form and wait for email notification.
+2. When EMGS reaches 50%, go to PKP and submit the passport.
+3. On the second day after EMGS reaches 100%, bring the temporary passport to PKP to collect the passport.
+
+Renewal application form and renewal Google Form:
+https://www.ukm.my/ukmshape/renewal--application/
+
+UKM Grab Guide
+
+Common Grab destination names:
+Library, Homi Bar, or Visa Office PKP:
+Pusanika - UKM
+
+Faculty:
+FTSM, Fakulti Teknologi & Sains Maklumat - UKM, or Jumpa Cafe FTSM
+
+UKM Health Centre:
+Pusat Kesihatan
+
+UKMShape:
+UKMShape UKM Bangi
+
+UKM Student Systems
+
+1. SMPWEB Student Profile
+URL: https://smplucee.ukm.my/smpweb
+Use: Student profile and course registration each semester.
+
+2. UKM FOLIO Learning System
+URL: https://ukmfolio.ukm.my/
+Use: Lecturers, coursework information, learning materials, and class-related resources.
+
+3. UKM SISWAMAIL Student Email
+First-time setup:
+https://appsmu.ukm.my/speep/index.php
+Initial password may be the passport number.
+
+After activation, use:
+http://mail.google.com/a/siswa.ukm.edu.my
+
+4. UKM E-KEWANGAN Financial System
+URL: https://ekewangan.ukm.my/signin
+Use: Student bills and financial status.
+
+5. UKM Sarjana
+URL: https://ukmsarjana.ukm.my/
+Use: Search professor publications and research interests.
+
+6. UKM Library E-Resources
+URL: https://eresourcesptsl.ukm.remotexs.co/
+Use: Library electronic resources and remote access.

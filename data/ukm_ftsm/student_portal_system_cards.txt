@@ -1,0 +1,82 @@
+UKM FTSM Chinese Student Portal - Systems Page Cards
+Source site: https://ftsm.pages.dev
+Source route: https://ftsm.pages.dev/systems
+Source type: community student portal for FTSM / Chinese student support
+Generated at (UTC): 2026-04-02T07:06:44.417456+00:00
+
+[Systems Card 1]
+ID: academic-calendar
+Name: 校历
+Description: 查看2025-2026学年校历安排
+Link 1 Label: 查看校历
+Link 1 Action: calendar
+
+[Systems Card 2]
+ID: course-timetable
+Name: 硕士课程表（课程模式）
+Description: FTSM硕士研究生课程时间表（课程模式）
+Link 1 Label: 查看课程表
+Link 1 Action: timetable
+
+[Systems Card 3]
+ID: master-program
+Name: 硕士课程结构
+Description: 查看FTSM各硕士课程的详细课程结构
+Link 1 Label: 查看课程结构
+Link 1 Action: master-program
+
+[Systems Card 4]
+ID: cybersecurity-timetable
+Name: 网络安全硕士课程表
+Description: 网络安全硕士2025-2026学年课程时间安排
+Link 1 Label: 查看课程表
+Link 1 Action: cybersecurity-timetable
+
+[Systems Card 5]
+ID: datascience-timetable
+Name: 数据科学硕士课程表
+Description: 数据科学硕士2025-2026学年课程时间安排
+Link 1 Label: 查看课程表
+Link 1 Action: datascience-timetable
+
+[Systems Card 6]
+ID: healthinformatics-timetable
+Name: 健康信息学硕士课程表
+Description: 健康信息学硕士2025-2026学年课程时间安排
+Link 1 Label: 查看课程表
+Link 1 Action: healthinformatics-timetable
+
+[Systems Card 7]
+ID: master-coordinator
+Name: 硕士课程协调员
+Description: 硕士课程协调员及行政秘书联系方式
+Link 1 Label: 查看联系方式
+Link 1 Action: coordinator
+
+[Systems Card 8]
+ID: ftsm-map
+Name: FTSM学院地图
+Description: 交互式学院平面图，点击建筑查看教室分布
+Link 1 Label: 查看学院地图
+Link 1 Action: ftsm-map
+
+[Systems Card 9]
+ID: ftsm-home
+Name: FTSM学院官网
+Description: 信息科学技术学院官方网站
+Link 1 Label: 访问官网
+Link 1 URL: https://ftsm.ukm.my/v6/home
+
+[Systems Card 10]
+ID: ftsm-staff
+Name: FTSM教授讲师信息
+Description: 查询信息科学技术学院教授和讲师的信息
+Link 1 Label: 查看师资
+Link 1 URL: https://ftsm.ukm.my/v6/staff-academic
+
+[Systems Card 11]
+ID: ftsm-expertise
+Name: FTSM不同领域专家
+Description: 查询信息科学技术学院各个研究领域的专家
+Link 1 Label: 查看专家
+Link 1 URL: https://ftsm.ukm.my/v6/expertise

@@ -1,0 +1,54 @@
+UKM FTSM Programmes and Admissions
+Source URLs:
+- https://ftsm.ukm.my/v6/undergraduate
+- https://ftsm.ukm.my/v6/master-program
+- https://ftsm.ukm.my/v6/accreditation-status
+- https://www.ftsm.ukm.my/calon/
+
+Undergraduate programmes:
+- The official undergraduate page says FTSM offers bachelor degree programmes in:
+  - Bachelor in Computer Science with Honours
+  - Bachelor in Information Technology with Honours
+  - Bachelor in Software Engineering with Honours
+- The accreditation page also lists:
+  - Bachelor of Software Engineering (Multimedia System Development) with Honours
+  - Bachelor of Software Engineering (Information System Development) with Honours
+
+Undergraduate admissions notes from official pages:
+- Applications for full-time study programmes for STPM, matriculation, foundation, diploma, or equivalent routes are handled through the Ministry of Higher Education Malaysia online application process.
+- The undergraduate page says advertisements for those programmes are typically published between December and February each year.
+- The page also says second-channel intake advertisements for full-time programmes are published in November each year and applications are submitted via UKM Online Application.
+- The undergraduate page states that non-citizen and international candidates interested in full-time undergraduate study should apply through UKM's online application process.
+- The same page states that, at the time of the published material, undergraduate courses at UKM use Bahasa Melayu as the medium of instruction.
+
+Postgraduate programmes:
+- The official master programme page says FTSM offers eleven master's programmes:
+  - Master of Software Engineering
+  - Master of Artificial Intelligence
+  - Master of Information Technology
+  - Master of Information Science
+  - Master of Creative Media Technology
+  - Master of Information System
+  - Master of Computer Science
+  - Master of Computing
+  - Master of Cyber Security
+  - Master of Health Informatics
+  - Master of Data Science
+
+Postgraduate structure notes:
+- The master programme page indicates that some programmes are offered by coursework, some by coursework and research, some by module, and some in research-oriented formats.
+- The page also provides postgraduate prospectus links and administrative forms.
+
+Accreditation note:
+- The accreditation page lists undergraduate and master's programme accreditation categories and should be used as the reference point for official programme status.
+
+Admissions and FAQ notes from the Calon FTSM page:
+- The page includes contact information for intake-related queries through intakeftsm@ukm.edu.my.
+- It includes a FAQ that says administrative office hours are weekdays from 8:00 AM to 5:00 PM.
+- It notes that postgraduate application status can be checked through the School of Graduate Studies.
+- It also says FTSM offers undergraduate, graduate, and Doctor of Philosophy studies.
+
+Time-sensitive note:
+- The Calon FTSM page contained a 2025 undergraduate screening notice with a submission period from 21 April 2025 to 25 June 2025.
+- That intake window is date-specific and should not be treated as a standing schedule for future intakes.
+- Users should always verify the latest admission cycle directly on the official FTSM or UKM admission page.

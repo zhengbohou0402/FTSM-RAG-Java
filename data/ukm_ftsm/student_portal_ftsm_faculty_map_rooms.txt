@@ -1,0 +1,202 @@
+FTSM Faculty Map Rooms and Facilities
+====================================
+
+Source type: Student portal / FTSM faculty map room list
+Primary source: FTSM faculty map UI and provided map screenshot
+Audience: FTSM students and visitors looking for rooms, labs, offices, lecture rooms, tutorial rooms, and facilities by building block.
+Note: This is a location guide for navigation. For formal office changes, room availability, or access rules, verify with FTSM or the relevant office.
+
+Overview
+--------
+The FTSM faculty map groups rooms and facilities by building blocks A, B, C, D, E, F, G, and H. Students can use the block name and level to locate lecture rooms, tutorial rooms, labs, offices, common rooms, and service areas.
+
+Block A
+-------
+
+Lower Level:
+- Academic Management Unit Office
+- Deputy Dean's Room (Academic)
+- Assistant Dean's Room (Students & Alumni Affairs)
+- Head of Master Programme Room
+- Head of Doctoral Programme Room
+- Senior Assistant Registrar Room
+- Student Centre
+
+Upper Level:
+- Assistant Dean's Room (Entrepreneurship & Creativity)
+- Head of Artificial Intelligence Programme Room
+- Head of Information Technology Programme Room
+- Head of Software Engineering Programme Room
+- Head of Software Networking Programme Room
+- Programme Coordinator (Master By Module) Room
+- Glass Discussion Room
+
+Block B
+-------
+
+Ground Floor:
+- Meeting Room 1
+- Meeting Room 2
+- Viva Room
+
+Level 1:
+- Lecture Room 1
+- Lecture Room 2
+- Lecture Room 3
+
+Level 2:
+- Lecture Room 4
+- Lecture Room 5
+- Lecture Room 6
+
+Block C
+-------
+
+Ground Floor:
+- Autonomous Robotics & Vision System (ARVIS) Lab
+- Network & Pervasive (MyXLab)
+- Artificial Intelligence Lab
+
+Level 1:
+- Teaching Lab 3
+- Software Engineering Lab
+- Real-Time Lab
+
+Level 2:
+- Teaching Lab 1
+- Teaching Lab 2
+
+Block D
+-------
+
+Level 1:
+- Innovation Space
+- Discussion Room 1
+- Discussion Room 2
+- Discussion Room 3
+- Student Association Room
+
+Level 2:
+- Innovation Studio
+- Audio Room
+- Distributed & Platform Technology Lab
+
+Level 3:
+- Innovation Farm
+
+Block E
+-------
+
+Level 1:
+- Lecturer Rooms
+
+Level 2:
+- Lecturer Rooms
+
+Level 3:
+- Lecturer Rooms
+
+Level 4:
+- Lecturer Rooms
+- Tutorial Rooms 5
+
+Block F
+-------
+
+Level Ground:
+- BK10
+- BK11
+- BK12
+- BK13
+
+Level 1:
+- BK14
+- BK15
+- BK16
+- BK17
+
+Block G
+-------
+
+Ground Floor:
+- Multimedia Hall
+- Industrial Lab
+- Cyber Security Lab
+- Data Science Lab
+- Cyber Executive Seminar Room
+- Postgraduate Common Room
+- ICT Service Center
+- Cafeteria / Photostat Service
+
+Level 1:
+- Dean's Office
+- Dean's Room
+- Deputy Dean's Room (Research & Innovation)
+- Deputy Dean's Room (Industry Engagement, Alumni and Income Generation)
+- Assistant Dean's Room (Quality & Strategy)
+- Assistant Dean's Room (Teaching and CITRA)
+- Head of HEJIM Room
+- Head of Assistant Registrar Room
+- Head of ICT Unit Room
+- Information Technology Officer's Room
+- Finance Office (Zone 2)
+- Lecture Room 7
+- Lecture Room 8
+- Lecture Room 9
+
+Level 2:
+- Executive Discussion Room
+- Lecturer Rooms
+- Tutorial Room 1
+- Tutorial Room 2
+
+Level 3:
+- Lecturer Rooms
+- Tutorial Room 3
+- Tutorial Room 4
+
+Block H
+-------
+
+Level 1:
+- CYBER Research Labs
+- Meeting Room
+
+Level 2:
+- Research Center Office
+- CAIT Chairperson's Room
+- SOFTAM Chairperson's Room
+- CYBER Chairperson's Room
+- CAIT Research Labs
+- Meeting Room
+- Resource Center
+
+Level 3:
+- SOFTAM Research Labs
+- Meeting Room
+
+Level 4:
+- CAIT Research Labs
+- Meeting Room
+
+Quick Lookup
+------------
+- Lecture Room 1, Lecture Room 2, and Lecture Room 3 are in Block B Level 1.
+- Lecture Room 4, Lecture Room 5, and Lecture Room 6 are in Block B Level 2.
+- Lecture Room 7, Lecture Room 8, and Lecture Room 9 are in Block G Level 1.
+- Tutorial Room 1 and Tutorial Room 2 are in Block G Level 2.
+- Tutorial Room 3 and Tutorial Room 4 are in Block G Level 3.
+- Tutorial Rooms 5 is in Block E Level 4.
+- BK10, BK11, BK12, and BK13 are in Block F Level Ground.
+- BK14, BK15, BK16, and BK17 are in Block F Level 1.
+- The Student Centre is in Block A Lower Level.
+- The Postgraduate Common Room is in Block G Ground Floor.
+- The Cafeteria / Photostat Service is in Block G Ground Floor.
+- The ICT Service Center is in Block G Ground Floor.
+- The Dean's Office and Dean's Room are in Block G Level 1.
+- The Academic Management Unit Office is in Block A Lower Level.
+- Innovation Farm is in Block D Level 3.
+- Innovation Space, Discussion Room 1, Discussion Room 2, Discussion Room 3, and Student Association Room are in Block D Level 1.
+- ARVIS Lab, MyXLab, and Artificial Intelligence Lab are in Block C Ground Floor.
+- Teaching Lab 1 and Teaching Lab 2 are in Block C Level 2.
+- Teaching Lab 3, Software Engineering Lab, and Real-Time Lab are in Block C Level 1.

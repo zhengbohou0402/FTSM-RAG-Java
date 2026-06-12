@@ -1,0 +1,103 @@
+UKM FTSM Chinese Student Portal - General Master Course Timetable
+Source site: https://ftsm.pages.dev
+Source route: https://ftsm.pages.dev/systems
+Source type: community student portal for FTSM / Chinese student support
+Generated at (UTC): 2026-04-02T07:06:44.417456+00:00
+
+[Semester 1]
+MONDAY:
+Time: 09:00–13:00
+- TR6144 | Emerging Technology and Innovation | Instructor: Syaimak | Location: BK16, Block F
+- TA6054 | Advanced Numerical Analysis | Instructor: Khatim | Location: BK15, Block F
+- TH6214 | Visual Thinking | Instructor: Tan Siok Yee | Location: BK14, Block F
+Time: 14:00–18:00
+- TC6544 | Advanced Artificial Intelligence | Instructor: Masri/Salwani | Location: BK16, Block F
+
+TUESDAY:
+Time: 09:00–13:00
+- TP6534 | Natural Language Processing | Instructor: Nazlia/Lailatul Qadri | Location: BK16, Block F
+- TU6314 | Analytics and Business Intelligence | Instructor: Zalinda | Location: BK15, Block F
+- TH6104 | Game Programming | Instructor: HadiAffendy | Location: BK17, Block F
+- TM6124 | Advanced Research Methods in Computing | Instructor: Coordinator – TDS | Location: Online
+Time: 14:00–18:00
+- TE6404 | Software Project Management | Instructor: Yazrina | Location: BK16, Block F
+- TP6084 | Information Retrieval | Instructor: Shahrul | Location: BK15, Block F
+
+WEDNESDAY:
+Time: 09:00–13:00
+- TC6404 | Image Processing and Computer Vision | Instructor: Azizi | Location: BK16, Block F
+- TR6514 | Ubiquitous and Mobile Computing | Instructor: Lam | Location: BK14, Block F
+- TH6254 | Serious Game and Gamification | Instructor: Zurina | Location: BK17, Block F
+- TU6454 | Information Technology and Innovation Management | Instructor: Dian | Location: BK15, Block F
+
+THURSDAY:
+Time: 09:00–13:00
+- TA6024 | Theory of Computation | Instructor: Bahari | Location: BK15, Block F
+- TP6014 | Information Policies and Ethics | Instructor: Umi Asma' | Location: BK16, Block F
+- TR6354 | Data Analytics | Instructor: Shahnorbanun | Location: BK17, Block F
+Time: 14:00–18:00
+- TE6204 | Empirical Software Engineering | Instructor: Rozilawati | Location: BK16, Block F
+
+FRIDAY:
+Time: 09:00–13:00
+- TP6544 | Knowledge Technology | Instructor: Saidah | Location: BK17, Block F
+- TE6104 | Software Engineering Paradigm | Instructor: Hidayah | Location: BK15, Block F
+- TC6244 | Advanced Machine Learning | Instructor: Nur Samsiah/Shahnorbanun | Location: BK16, Block F
+Time: 15:00–19:00
+- TA6434 | Advanced Algorithm and Data Structure | Instructor: Ravie Chandren | Location: BK15, Block F
+
+SATURDAY:
+Time: 09:00–13:00
+- TM6112 | Research Method in Computing | Instructor: Program Coordinator | Location: Online
+- TM6114 | Set 1 Research Method in Computing | Instructor: Program Coordinator | Location: Online
+
+SUNDAY:
+Time: 09:00–13:00
+- TM6114 | Set 2 Research Method in Computing | Instructor: Program Coordinator | Location: Online
+
+[Semester 2]
+MONDAY:
+Time: 09:00–13:00
+- TC6244 | Advanced Machine Learning | Instructor: NurSamsiah/Shanorbanun | Location: BK16, Block F
+- TE6304 | Software Engineering Practice | Instructor: Zulkefli | Location: BK14, Block F
+- TN6014 | Network Modeling and Simulation | Instructor: Azana Hafizah | Location: BK15, Block F
+Time: 14:00–18:00
+- TH6124 | Interface Design | Instructor: Tengku Siti Meriam Tg Wook/Siti Fadzilah | Location: BK15, Block F
+
+TUESDAY:
+Time: 09:00–13:00
+- TP6084 | Information Retrieval | Instructor: Shahrul Azman Mohd Noah, Nurlzyan | Location: BK16, Block F
+- TN6224 | Computer Security and Defense | Instructor: MKamrul | Location: BK14, Block F
+- TM6124 | Advanced Research Methods in Computing | Instructor: Program Coordinator | Location: Online
+Time: 14:00–18:00
+- TC6544 | Advanced Artificial Intelligence | Instructor: Salwani/Amirin | Location: BK16, Block F
+- TH6234 | Mix Reality | Instructor: Lam Meng Chun | Location: BK15, Block F
+Time: 15:00–19:00
+- TR6244 | Simulation Modelling | Instructor: Zainal Rasyid | Location: MP2, Block B
+
+WEDNESDAY:
+Time: 09:00–13:00
+- TP6554 | Computational Social Science | Instructor: Masnizah | Location: BK14, Block F
+- TU6234 | Data Warehousing | Instructor: MFaidzul | Location: BK15, Block F
+
+THURSDAY:
+Time: 09:00–13:00
+- TC6414 | Knowledge Discovery and Data Mining | Instructor: Zalinda | Location: BK14, Block F
+- TN6484 | System and Network Management | Instructor: Azana Hafizah | Location: BK16, Block F
+Time: 14:00–18:00
+- TH6114 | Game Art and 3D Modeling | Instructor: Hafizah/Rimaniza | Location: BK12, Block F
+- TU6294 | Project and Change Management | Instructor: Yazrina | Location: BK16, Block F
+
+FRIDAY:
+Time: 09:00–13:00
+- TA6434 | Advanced Algorithm and Data Structure | Instructor: Kauthar/Syshanim | Location: BK16, Block F
+- TU6134 | Business Process Management | Instructor: Dalbir Singh | Location: BK14, Block F
+
+SATURDAY:
+Time: 09:00–13:00
+- TM6112 | Research Method in Computing | Instructor: Program Coordinator | Location: Online
+- TM6114 | Set 1 Research Method in Computing | Instructor: Program Coordinator | Location: Online
+
+SUNDAY:
+Time: 09:00–13:00
+- TM6114 | Set 2 Research Method in Computing | Instructor: Program Coordinator | Location: Online

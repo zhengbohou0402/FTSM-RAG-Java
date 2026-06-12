@@ -1,0 +1,809 @@
+UKM FTSM Academic Staff Expertise Index
+Source Directory: https://ftsm.ukm.my/v6/staff-academic
+Scrape Date: 2026-04-02
+
+Each entry is a condensed expertise profile intended to improve advisor and supervisor retrieval.
+
+## 1. Assoc. Prof. Ts. Dr. Abdul Hadi Abd Rahman
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Computer Vision; Machine Intelligence; Autonomous Robots
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Contact Details: +6 03 - 8921 6177 / 8921 6712; tdpftsm@ukm.edu.my; abdulhadi@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021817
+
+## 2. Ts. Dr. Afzan Adam
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Data Analytics; Digital Pathology; Image Processing; Machine Learning
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Medical Computing (MC)
+- Contact Details: +6 03 - 8921 6986; afzan@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K016599
+
+## 3. Dr. Ahmad Tarmizi Abdul Ghani
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Data Analytics; IT Governance; Service Science
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Contact Details: +6 03 - 8921 6707; atag@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K016064
+
+## 4. Dr. Amelia Natasya Abdul Wahab
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: IT in Manufacturing
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Contact Details: +6 03 - 8921 6725; anaw@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011434
+
+## 5. Assoc. Prof. Dr. Azana Hafizah Mohd Aman
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Computer Networking; Computer System; Database; Mobile Networks
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Contact Details: +6 03 - 8921 6662; azana@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022644
+
+## 6. Assoc. Prof. Dr. Azizi Abdullah
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Computer Vision; Data Analytics; Machine Learning; Pattern Recognition
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Contact Details: +6 03 - 8921 6656; azizia@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007762
+
+## 7. Ts. Dr. Azura Ishak
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Expertise Keywords: Computer Education; Educational Technology; Instructional Design; Online Learning; Statistic Education; Multimedia In Education
+- Contact Details: +6 03 - 8921 6721; azura@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K013634
+
+## 8. Prof. Dr. Azuraliza Abu Bakar
+- Academic Rank: Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Data Analytics; Data Mining
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921 6794; azuraliza@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K012964
+
+## 9. Dr. Bahari Idrus
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Formal Method; Simulation and Modeling; Quantum Computation
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Contact Details: +6 03 - 8921 6185 / 8921 6663; bahari@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011513
+
+## 10. Dr. Dahlila Putri Dahnil Sikumbang
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Wireless Sensor Network; Internet of Things (IoT)
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Contact Details: +6 03 - 8921 6831; dahlilaputri@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021318
+
+## 11. Assoc. Prof. Dr. Dalbir Singh a/l Valbir Singh
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Interaction Design; Information System Management; Software Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8921 6727; dalbir@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K018530
+
+## 12. Dr. Dian Indrayani Jambari
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Information System Development; Information System Management; Management Information Systems
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8921 6664; dian@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014370
+
+## 13. Assoc. Prof. Ts. Dr. Elankovan A. Sundararajan
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Big Data; Computer and Sensor Network; Cloud Technology; Parallel and Distributed Computing
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Contact Details: +6 03 - 8921 7135 / 8921 6665; tdpraftsm@ukm.edu.my; elan@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007924
+
+## 14. Dr. Fadhilah Rosdi
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Multimodel Interaction; Speech Processing
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6182 / 8921 6723; fadhilah.rosdi@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021918
+
+## 15. Ts. Dr. Fadilla 'Atyka Nor Rashid
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Computer Vision; Deep Learning
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Contact Details: +6 03 - 8921 6756; fadilla@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025641
+
+## 16. Dr. Fahad Taha Naji AL-Dhief
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Artificial Intelligence; Modelling and Framework; Software Engineering
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Contact Details: +6 03 - 8921 6717; fahad@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K027000
+
+## 17. Dr. Faizan Qamar
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Internet of Things (IoT); Network Quality of Service; Wireless Network Design; 5G Cellular Communications
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Contact Details: +6 03 - 8921 6084; faizanqamar@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023466
+
+## 18. Dr. Fatin Filzahti Ismail
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Software Management; Software Testing
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8921 6723; fatinfilzahti@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K026608
+
+## 19. Ts. Dr. Fazlina Mohd Ali
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Parallel and Distributed Computing; Data Management (Replication); Cloud Computing; ICT Project Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Contact Details: +6 03 - 8921 6811; fazlina.mohdali@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025620
+
+## 20. Dr. Hadi Affendy Dahlan
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Remote Monitoring
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Contact Details: +6 03 - 8921 6181 / 8921 6070; had86@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022637
+
+## 21. Dr. Hafiz Mohd Sarim
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Behavioural A.I.; Machine Learning; Database; Artificial Intelligence in Games; Serious Games Development; 3D Modelling
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921 6799; hms@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010546
+
+## 22. Dr. Hairulliza Mohamad Judi
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Learning Technology; Games; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6653; hmj@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007838
+
+## 23. Assoc. Prof. Dr. Hasimi Sallehudin
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Information System Development; Information System Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8921 6729; hasimi@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022372
+
+## 24. Dr. Hazura Mohamed
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Performance Evaluation; Data Analytics
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Contact Details: +6 03 - 8921 6655; hazura.mohamed@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011536
+
+## 25. Ts. Dr. Ibrahim Mohamed
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Information Systems Audit; Business Process Modelling; Information System Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8921 6812 / 8921; tdsftsm@ukm.edu.my; ibrahim@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007991
+
+## 26. Ms. Junaidah Mohamed Kassim
+- Academic Rank: Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Database; Web Programming
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: The Applied Ontology and Semantic Search (ONTOS)
+- Contact Details: +6 03 - 8921 6669; junaidah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010396
+
+## 27. Dr. Kauthar Mohd Daud
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Artificial Intelligence; Optimization; Bioinformatics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Medical Computing (MC)
+- Contact Details: +6 03 - 8921 6714; kauthar.md@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023762
+
+## 28. Dr. Kerk Yi Wen
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Computational Intelligence; Fuzzy Systems; Risk Management
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921; ykerk@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023782
+
+## 29. Assoc. Prof. Dr. Khairul Akram Zainol Ariffin
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Cyber Security; Digital Forensics
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Contact Details: +6 03 - 8921 6088 / 8921 6349; k.akram@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021704
+
+## 30. Ts. Dr. Khairul Azmi Abu Bakar
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Mobile Networks; Computer System Security
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Contact Details: +6 03 - 8921 6711 / 8921 6759; pdcitra.ftsm@ukm.edu.my; khairul.azmi@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021445
+
+## 31. Dr. Kok Ven Jyn
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Computer and Machine Vision; Pattern Recognition
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Contact Details: +6 03 - 8921 6810; vj.kok@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021829
+
+## 32. Dr. Lailatul Qadri Zakaria
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Natural Language Processing; Ontology; Semantic; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Asian Language Processing (ASLAN)
+- Contact Details: +6 03 - 8921 6719; mobiliti.ftsm@ukm.edu.my; lailatul.qadri@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014364
+
+## 33. Dr. Lam Meng Chun
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Human Computer Interaction; Virtual Reality; Mixed Reality; Mobile Application
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Mixed Reality and Pervasive (MyxLab)
+- Contact Details: +6 03 - 8921 6076; hejimftsm@ukm.edu.my; lammc@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K020820
+
+## 34. Assoc. Prof. Dr. Maryati Mohd Yusof
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Information System in Healthcare; Information System Management; Business Process and Service
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8921 7088 / 8921 6649; maryati.yusof@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007542
+
+## 35. Assoc. Prof. Dr. Masnizah Mohd.
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Cyber Intelligence; Information Seeking and Retrieval; Natural Language Processing; Data Analytics
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Contact Details: +6 03 - 8921 6743; masnizah.mohd@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011456
+
+## 36. Prof. Dr. Masri Ayob
+- Academic Rank: Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Combinatorial Optimization; Heuristic Search; Scheduling; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921 6726; masri@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K008009
+
+## 37. Ts. Masura Rahmat
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Contact Details: +6 03 - 8921 6706; masura@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014827
+
+## 38. Dr. Mohamad Khairulamirin Md Razali
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Optimization; Artificial Intelligence; Heuristic Search Algorithms; Programming
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Contact Details: +6 03 - 8911 8268; khairulamirin@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K026945
+
+## 39. Assoc. Prof. Dr. Mohammad Faidzul Nasrudin
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Image Processing; Optimization; Pattern Recognition
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Contact Details: +6 03 - 8921 6670; mfn@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K012092
+
+## 40. Assoc. Prof. Ts. Dr. Mohammad Kamrul Hasan
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Artificial Intelligence; Mobile Communication; Sensor Network
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Contact Details: +6 03 - 8921 6167; mkhasan@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023208
+
+## 41. Assoc. Prof. Dr. Mohammad Khatim Hasan
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Computational Science; Quality Models; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Contact Details: +6 03 - 8921 6652; mkh@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K009646
+
+## 42. Prof. Dr. Mohd Juzaiddin Ab Aziz
+- Academic Rank: Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Knowledge Work and Automation
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Contact Details: +6 03 - 8921 6743; juzaiddin@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007915
+
+## 43. Ts. Dr. Mohd Nor Akmal Khalid
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Artificial Intelligence; Simulation and Modeling; Game Informatics; Computational Optimization
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921 6672; akmal@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025910
+
+## 44. Assoc. Prof. Dr. Mohd Ridzwan Yaakub
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Ontology; Opinion Mining; Text Mining; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Sentiment Analysis (SA)
+- Contact Details: +6 03 - 8921 6178 / 8921 6757; tdjiam.ftsm@ukm.edu.my; ridzwanyaakub@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011466
+
+## 45. Assoc. Prof. Dr. Mohd Zakree Ahmad Nazri
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Data Analytics; Decision Support Systems
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921; zakree@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010400
+
+## 46. Dr. Nazatul Aini Abd Majid
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Quality Models; IT in Manufacturing; Multimedia Application; Augmented Reality; Virtual Reality; Mixed Reality
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Mixed Reality and Pervasive (MyxLab)
+- Contact Details: +6 03 - 8921 6185 / 8921 6809; nazatulaini@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014397
+
+## 47. Ts. Dr. Nazhatul Hafizah Kamarudin
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Artificial Intelligence; Cyber Security; Authentication; Sensor Network
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Contact Details: +6 03 - 8921 6751; nazhatulhafizah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025652
+
+## 48. Assoc. Prof. Dr. Nazlia Omar
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Computational Linguistics; Natural Language Processing; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Asian Language Processing (ASLAN)
+- Contact Details: +6 03 - 8921 6733; nazlia@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007009
+
+## 49. Ts. Dr. Noor Faridatul Ainun Zainal
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Expertise Keywords: E-Learning Technology; Programming Education; Database
+- Contact Details: +6 03 - 8921 6738; faridatul@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014802
+
+## 50. Ts. Dr. Noorayisahbe Mohd Yaacob
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Information System; Software Testing; Business Process Modelling; Modelling and Framework; Software Engineering; Health & Biomedical Informatics; Requirements Engineering; Human Computer Interaction; Software Risk & IT Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8921; noorayisah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025823
+
+## 51. Dr. Noorazean Mohd. Ali
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Learning Technology; Programming Education
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6657; aliazean@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K012339
+
+## 52. Assoc. Prof. Ts. Dr. Nor Samsiah Sani
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Machine Learning; Data Analytics; Chemical informatics/ Chemoinformatics; Data Mining; Evolutionary Algorithms
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921 / 8921 6705; norsamsiahsani@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K017269
+
+## 53. Ms. Norleyza Jailani
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: e-Service Adoption; Agent Technology
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Contact Details: +6 03 - 8921 6740; njailani@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K006573
+
+## 54. Assoc. Prof. Dr. Nur Fazidah Elias
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Performance Evaluation; Predictive Model; e-Service Adoption
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Contact Details: +6 03 - 8921 6786 / 8921 6748; pdkualiti.ftsm@ukm.edu.my; fazidah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010341
+
+## 55. Ts. Dr. Nur Hanis Sabrina Suhaimi
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Satellite & Mobile Communication; Wireless Network Performance; Network Security; Radiowave Propagation
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Contact Details: +6 03 - 8921 6743; sabrinasuhaimi@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025929
+
+## 56. Dr. Nur Izyan Yasmin Saat
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Recommender System; Ontology; Knowledge Graph and Ontology Creation; Information Retrieval
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: The Applied Ontology and Semantic Search (ONTOS)
+- Contact Details: +6 03 - 8921; izyanyasmin@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K026866
+
+## 57. Ts. Dr. Nurhidayah Bahar
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Information System Development; Information System in Healthcare; Information System Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8921 6752; nbahar@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K024359
+
+## 58. Prof. Dr. Nurhizam Safie Mohd Satar
+- Academic Rank: Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Learning Technology; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6348; nurhizam@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021309
+
+## 59. Dr. Rimaniza Zainal Abidin
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Augmented Reality; Virtual Reality; Mixed Reality; Human Computer Interaction; Mobile Programming; Extended Reality
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6644; nizazainal@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K026265
+
+## 60. Ts. Dr. Rodziah Latih
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: E-Learning Technology; Programming Education; Software Testing; Software Engineering
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6648; rodziah.latih@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010009
+
+## 61. Ts. Rohizah Abd Rahman
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Expertise Keywords: Database; Management Information Systems; Teaching and Learning; Programming Language Technology
+- Contact Details: +6 03 - 8921 6739; rohizah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014829
+
+## 62. Prof. Dr. Rosilah Hassan
+- Academic Rank: Professor
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Computer Network; Computer Systems and Network Technology
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Contact Details: +6 03 - 8921 6186; rosilah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K008025
+
+## 63. Dr. Rossilawati Sulaiman
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Computer System Security; Information Security
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Contact Details: +6 03 - 8921 6651; rossilawati@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011439
+
+## 64. Assoc. Prof. Dr. Rozilawati Razali
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Requirements Engineering; Software Management; Software Testing
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8911 8270; rozilawati@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K013047
+
+## 65. Dr. Ruzzakiah Jenal
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Performance Evaluation; Value Co-Creation; e-Service Adoption
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Contact Details: +6 03 - 8921 6659; ruzzakiahjenal@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011467
+
+## 66. Assoc. Prof. Dr. Sabrina Tiun
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Computational Linguistics; Natural Language Processing; Speech Processing; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Asian Language Processing (ASLAN)
+- Contact Details: +6 03 - 8921 6730; sabrinatiun@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K019335
+
+## 67. Dr. Saidah Saad
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Information Retrieval; Natural Language Processing; Data Analytics; Knowledge Graph and Ontology Creation
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: The Applied Ontology and Semantic Search (ONTOS)
+- Contact Details: +6 03 - 8921 6763 / 8921 6668; hesu.ftsm@ukm.edu.my; saidah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K009939
+
+## 68. Prof. Dr. Salwani Abdullah
+- Academic Rank: Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Combinatorial Optimization; Operations Research; Data Analytics; Data Mining
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921 6667; salwani@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K008253
+
+## 69. Assoc. Prof. Dr. Shahnorbanun Sahran
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Image Processing; Simulation and Modeling; Data Analytics; Programming Language Technology
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Medical Computing (MC)
+- Contact Details: +6 03 - 8921 6660; shahnorbanun@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K008010
+
+## 70. Ts. Shahrina Shahrani
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Contact Details: +6 03 - 8921 6722; shahrina@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014828
+
+## 71. Prof. Dr. Shahrul Azman Mohd Noah
+- Academic Rank: Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Natural Language Processing; Ontology; Data and Text Analytics; Recommender System
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: The Applied Ontology and Semantic Search (ONTOS)
+- Contact Details: +6 03 - 8921 6173 / 8921 6812; dftsm@ukm.edu.my; shahrul@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K006906
+
+## 72. Ms. Siti Aishah Hanawi
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Predictive Model; Data Analytics
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Contact Details: +6 03 - 8921 6658; ctaishah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007175
+
+## 73. Ts. Dr. Siti Fadzilah Mat Noor
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: E-Learning Technology; Human Computer Interaction; Multimedia In Education; Serious Game
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6673; fadzilah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007983
+
+## 74. Prof. Dr. Siti Norul Huda Sheikh Abdullah
+- Academic Rank: Professor
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Artificial Intelligence; Computer Vision; Pattern Recognition
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Contact Details: +6 03 - 8911 8271; snhsabdullah@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007984
+
+## 75. Ms. Siti Solehah Mohd Hamid
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Contact Details: +6 03 - 8921 6716; solehah.mhamid@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025401
+
+## 76. Dr. Siti Zahidah Abdullah
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Human Computer Interaction; Information Visualization; UI/UX; User/Games Engagement
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6645; zahida@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=KS18985
+
+## 77. Assoc. Prof. Dr. Suhaila Zainudin
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Data Analytics; Biology Data Mining; Data Mining; E-Learning Technology
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921 6086 / 8921 6709; suhaila.zainudin@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007989
+
+## 78. Dr. Syahanim Mohd Salleh
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Learning Technology; Programming Education
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6703; syahanim@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007919
+
+## 79. Assoc. Prof. Dr. Syaimak Abdul Shukor
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: CAD/CAM; IT in Manufacturing; Supply Chain Management
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Contact Details: +6 03 - 8921 6661; syaimak@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010342
+
+## 80. Dr. Tan Siok Yee
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Augmented Reality; Image Processing; Mobile Programming; Virtual Reality
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Mixed Reality and Pervasive (MyxLab)
+- Contact Details: +6 03 - 8921 7194; esther@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022355
+
+## 81. Assoc. Prof. Dr. Tengku Siti Meriam Tengku Wook
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: E-Learning Technology; Human Computer Interaction; Interaction Design; Multimedia Application; Games; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 7136 / 8921 6078; tsmeriam@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K009682
+
+## 82. Assoc. Prof. Dr. Umi Asma' Mokhtar
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Record Management
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Contact Details: +6 03 - 8921 6813 / 8921 6198; umimokhtar@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K015787
+
+## 83. Dr. Wan Fariza Paizi@Fauzi
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Natural Language Processing; Semantic Technology; Data Analytics; Information Processing and Management
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Contact Details: +6 03 - 8921 6976; fariza.fauzi@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022081
+
+## 84. Dr. Wandeep Kaur a/p Ratan Singh
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Natural Language Processing; Sentiment and Emotion Analysis; Explainable Artificial Intelligence; Language Models and Optimization
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Sentiment Analysis (SA)
+- Contact Details: +6 03 - 8921 6176 / 8921; sarjanakhas.ftsm@ukm.edu.my; wandeep@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023728
+
+## 85. Assoc. Prof. Dr. Yazrina Yahya
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Information System Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Contact Details: +6 03 - 8921 6723; yazrina@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007327
+
+## 86. Dr. Zaihosnita Hood
+- Academic Rank: Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Interaction Design; Learning Technology; Information System; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6710; nitahood@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007918
+
+## 87. Dr. Zainal Rasyid Mahayuddin
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Computer Vision; Simulation and Modeling; Vision Language Model; Mixed Reality
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Mixed Reality and Pervasive (MyxLab)
+- Contact Details: +6 03 - 8921 6650; zainalr@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014629
+
+## 88. Assoc. Prof. Dr. Zalinda Othman
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Expertise Keywords: Combinatorial Optimization; Data Analytics; Data Mining; IT in Manufacturing
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Contact Details: +6 03 - 8921 6734; zalinda@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014819
+
+## 89. Prof. Dr. Zarina Shukur
+- Academic Rank: Professor
+- Faculty Unit: Center for Cyber Security
+- Expertise Keywords: Formal Method; Computer System Security; Software Engineering
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Contact Details: +6 03 - 8921 6466; zarinashukur@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007299
+
+## 90. Assoc. Prof. Dr. Zulkefli Mansor
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: Curriculum Design and Development; Software Project Management; Agile Methodology; Applied AI in Software Engineering
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Contact Details: +6 03 - 8921 6732; kefflee@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K020832
+
+## 91. Dr. Zurina Muda
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Expertise Keywords: E-Learning Technology; Instructional Design; Multimedia Application; Multimedia In Education; Serious Game; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Contact Details: +6 03 - 8921 6180 / 8921 6647; hepftsm@ukm.edu.my; zurinam@ukm.edu.my
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007925
