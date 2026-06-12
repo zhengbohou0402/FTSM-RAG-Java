@@ -1,0 +1,210 @@
+================================================================================
+FTSM 硕士课程表 (课程模式) - 第二学期 2025/2026
+FTSM Postgraduate Timetable (Course Work Mode) - Semester 2, 2025/2026
+来源: https://ftsm.pages.dev/
+================================================================================
+
+本课程表适用于: FTSM 硕士研究生（课程模式 / Course Work Mode）
+
+================================================================================
+课程总览 / Course Overview
+================================================================================
+
+【星期一 / Monday】
+
+上午时段 (09:00 - 13:00):
+
+1. TC6244 - Advanced Machine Learning (高级机器学习)
+   - 讲师: Nur Samsiah / Shanorbanun
+   - 地点: BK16, Block F
+   - 时间: 4小时
+
+2. TE6304 - Software Engineering Practice (软件工程实践)
+   - 讲师: Zulkefli
+   - 地点: BK14, Block F
+   - 时间: 4小时
+
+3. TN6014 - Network Modeling and Simulation (网络建模与仿真)
+   - 讲师: Azana Hafizah
+   - 地点: BK15, Block F
+   - 时间: 4小时
+
+下午时段 (14:00 - 18:00):
+
+4. TH6124 - Interface Design (界面设计)
+   - 讲师: Tengku Siti Meriam Tg Wook / Siti Fadzilah
+   - 地点: BK15, Block F
+   - 时间: 4小时
+
+【星期二 / Tuesday】
+
+上午时段 (09:00 - 13:00):
+
+1. TP6084 - Information Retrieval (信息检索)
+   - 讲师: Shahrul Azman Mohd Noah, Nurlzyan
+   - 地点: BK16, Block F
+   - 时间: 4小时
+
+2. TN6224 - Computer Security and Defense (计算机安全与防御)
+   - 讲师: M. Kamrul
+   - 地点: BK14, Block F
+   - 时间: 4小时
+
+3. TM6124 - Advanced Research Methods in Computing (计算机高级研究方法)
+   - 讲师: Program Coordinator (项目协调员)
+   - 地点: Online (线上)
+   - 时间: 4小时
+   - 备注: 在线课程
+
+下午时段 (14:00 - 18:00):
+
+4. TC6544 - Advanced Artificial Intelligence (高级人工智能)
+   - 讲师: Salwani / Amirin
+   - 地点: BK16, Block F
+   - 时间: 4小时
+
+5. TH6234 - Mix Reality (混合现实)
+   - 讲师: Lam Meng Chun
+   - 地点: BK15, Block F
+   - 时间: 4小时
+
+下午时段 (15:00 - 19:00):
+
+6. TR6244 - Simulation Modelling (仿真建模)
+   - 讲师: Zainal Rasyid
+   - 地点: MP2, Block B
+   - 时间: 4小时
+   - 备注: 注意上课时间为 15:00-19:00
+
+【星期三 / Wednesday】
+
+上午时段 (09:00 - 13:00):
+
+1. TP6554 - Computational Social Science (计算社会科学)
+   - 讲师: Masnizah
+   - 地点: BK14, Block F
+   - 时间: 4小时
+
+2. TU6234 - Data Warehousing (数据仓库)
+   - 讲师: M. Faidzul
+   - 地点: BK15, Block F
+   - 时间: 4小时
+
+【星期四 / Thursday】
+
+上午时段 (09:00 - 13:00):
+
+1. TC6414 - Knowledge Discovery and Data Mining (知识发现与数据挖掘)
+   - 讲师: Zalinda
+   - 地点: BK14, Block F
+   - 时间: 4小时
+
+2. TN6484 - System and Network Management (系统与网络管理)
+   - 讲师: Azana Hafizah
+   - 地点: BK16, Block F
+   - 时间: 4小时
+
+下午时段 (14:00 - 18:00):
+
+3. TH6114 - Game Art and 3D Modeling (游戏艺术与3D建模)
+   - 讲师: Hafizah / Rimaniza
+   - 地点: BK12, Block F
+   - 时间: 4小时
+
+4. TU6294 - Project and Change Management (项目与变更管理)
+   - 讲师: Yazrina
+   - 地点: BK16, Block F
+   - 时间: 4小时
+
+【星期五 / Friday】
+
+上午时段 (09:00 - 13:00):
+
+1. TA6434 - Advanced Algorithm and Data Structure (高级算法与数据结构)
+   - 讲师: Kauthar / Syshanim
+   - 地点: BK16, Block F
+   - 时间: 4小时
+
+2. TU6134 - Business Process Management (业务流程管理)
+   - 讲师: Dalbir Singh
+   - 地点: BK14, Block F
+   - 时间: 4小时
+
+【星期六 / Saturday】
+
+上午时段 (09:00 - 13:00):
+
+1. TM6112 - Research Method in Computing (计算机研究方法)
+   - 讲师: Program Coordinator
+   - 地点: Online (线上)
+   - 时间: 4小时
+
+2. TM6114 (Set 1) - Research Method in Computing
+   - 讲师: Program Coordinator
+   - 地点: Online (线上)
+   - 时间: 4小时
+   - 备注: 分班授课 Set 1
+
+【星期日 / Sunday】
+
+上午时段 (09:00 - 13:00):
+
+1. TM6114 (Set 2) - Research Method in Computing
+   - 讲师: Program Coordinator
+   - 地点: Online (线上)
+   - 时间: 4小时
+   - 备注: 分班授课 Set 2
+
+================================================================================
+教室位置说明 / Classroom Locations
+================================================================================
+
+Block F (主要教学楼):
+- BK12, BK14, BK15, BK16 - 标准教室
+
+Block B:
+- MP2 - 多媒体实验室
+
+线上课程 (Online):
+- TM6124, TM6112, TM6114 - 通过大学在线平台授课
+
+================================================================================
+硕士课程协调员联系方式 / Master's Programme Coordinators
+================================================================================
+
+【硕士 (课程模式) / Master's (Course Work Mode)】
+
+协调员 / Coordinator:
+- Dr. Ahmad Tarmizi Abdul Ghani
+- 邮箱 / Email: atag@ukm.edu.my
+
+行政秘书 / Administrative Secretary:
+- Nur Iffah Syaheera Md Khair
+- 邮箱 / Email: nuriffahsyaheera@ukm.edu.my
+
+【硕士 (混合模式) / Master's (Mixed Mode)】
+
+协调员 / Coordinator:
+- Dr. Wandeep Kaur a/p Ratan Singh
+- 邮箱 / Email: wandeep@ukm.edu.my
+
+行政秘书 / Administrative Secretary:
+- Syafiqah Najwa Jamali
+- 邮箱 / Email: snajwajamali@ukm.edu.my
+
+================================================================================
+选课注意事项 / Course Registration Notes
+================================================================================
+
+1. 课程时间: 所有课程为 4 小时/周 (每次上课4小时)
+2. 教室分布: 主要在 Block F，少数在 Block B
+3. 在线课程: 研究方法类课程通常在线授课，周末开课
+4. 分班: 部分课程有多个班次 (Set 1, Set 2)，请确认自己的班级
+5. 协调员: 选课问题请联系对应模式的协调员
+
+建议: 
+- 提前查看教室位置，避免迟到
+- 在线课程需提前测试网络和设备
+- 有冲突请及时联系协调员调整
+
+================================================================================

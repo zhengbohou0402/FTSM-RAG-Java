@@ -1,0 +1,156 @@
+UKM FTSM Chinese Student Portal - Academic Calendar 2025-2026
+Source site: https://ftsm.pages.dev
+Source route: https://ftsm.pages.dev/systems
+Source type: community student portal for FTSM / Chinese student support
+Generated at (UTC): 2026-04-02T07:06:44.417456+00:00
+
+[Academic Events]
+Event 1: 新学生注册
+Date Range: 2025-09-19 to 2025-10-05
+Type: registration
+
+Event 2: 本科生注册
+Date Range: 2025-09-27 to 2025-10-05
+Type: registration
+
+Event 3: 第一学期上课
+Date Range: 2025-10-06 to 2025-11-16
+Type: class
+
+Event 4: 期中休息
+Date Range: 2025-11-17 to 2025-11-23
+Type: break
+
+Event 5: 第53届UKM毕业典礼
+Date Range: 2025-11-22 to 2025-11-28
+Type: graduation
+
+Event 6: 第一学期上课
+Date Range: 2025-11-24 to 2026-01-18
+Type: class
+
+Event 7: 期末复习周
+Date Range: 2026-01-19 to 2026-01-25
+Type: review
+
+Event 8: 期末考试
+Date Range: 2026-01-26 to 2026-02-15
+Type: exam
+
+Event 9: 第一学期假期
+Date Range: 2026-02-16 to 2026-03-08
+Type: holiday
+
+Event 10: 第二学期新学生注册
+Date Range: 2026-02-23 to 2026-03-08
+Type: registration
+
+Event 11: 第二学期上课
+Date Range: 2026-03-09 to 2026-03-22
+Type: class
+
+Event 12: 开斋节假期
+Date Range: 2026-03-23 to 2026-03-29
+Type: holiday
+
+Event 13: 第二学期上课
+Date Range: 2026-03-30 to 2026-05-03
+Type: class
+
+Event 14: 期中休息
+Date Range: 2026-05-04 to 2026-05-10
+Type: break
+
+Event 15: 第二学期上课
+Date Range: 2026-05-11 to 2026-06-28
+Type: class
+
+Event 16: 期末复习周
+Date Range: 2026-06-29 to 2026-07-05
+Type: review
+
+Event 17: 期末考试
+Date Range: 2026-07-06 to 2026-07-26
+Type: exam
+
+Event 18: 第二学期假期
+Date Range: 2026-07-20 to 2026-09-27
+Type: holiday
+
+Event 19: 第三学期上课
+Date Range: 2026-07-27 to 2026-09-13
+Type: class
+
+Event 20: 第三学期期末考试
+Date Range: 2026-09-14 to 2026-09-20
+Type: exam
+
+[Public Holidays]
+Holiday 1: Deepavali
+Date: 2025-10-20
+
+Holiday 2: Sultan of Selangor's Birthday
+Date: 2025-12-11
+
+Holiday 3: Christmas Day
+Date: 2025-12-25
+
+Holiday 4: New Year's Day
+Date: 2026-01-01
+
+Holiday 5: Federal Territory Day
+Date: 2026-02-01
+
+Holiday 6: Thaipusam Day
+Date: 2026-02-01
+
+Holiday 7: Thaipusam Holiday
+Date: 2026-02-02
+
+Holiday 8: Chinese New Year
+Date: 2026-02-17
+
+Holiday 9: Chinese New Year
+Date: 2026-02-18
+
+Holiday 10: Nuzul Quran
+Date: 2026-03-07
+
+Holiday 11: Hari Raya Aidil Fitri
+Date: 2026-03-21
+
+Holiday 12: Hari Raya Aidil Fitri
+Date: 2026-03-22
+
+Holiday 13: Hari Raya Aidil Fitri Holiday
+Date: 2026-03-23
+
+Holiday 14: Labour Day
+Date: 2026-05-01
+
+Holiday 15: Hari Raya Aidil Adha
+Date: 2026-05-27
+
+Holiday 16: Harvest Festival
+Date: 2026-05-30
+
+Holiday 17: Harvest Festival / Wesak Day
+Date: 2026-05-31
+
+Holiday 18: Hari Gawai / Birthday of Yang di-Pertuan Agong
+Date: 2026-06-01
+
+Holiday 19: Hari Gawai
+Date: 2026-06-02
+
+Holiday 20: Awal Muharram
+Date: 2026-06-17
+
+Holiday 21: Maulidur Rasul
+Date: 2026-08-25
+
+Holiday 22: National Day
+Date: 2026-08-30
+
+Holiday 23: Malaysia Day
+Date: 2026-09-16

@@ -1,0 +1,126 @@
+UKM Chinese Student Practical Guide: Registration, Renewal, Grab Destinations, and Core Systems
+Source type: community student guide provided by user
+Source language: Chinese
+Reliability note: This is practical student-contributed guidance. Always verify time-sensitive requirements, fees, counters, and document lists against the latest UKM / UKMShape / EMGS official notices.
+Last updated in knowledge base: 2026-04-02
+
+[Topic 1] UKM Registration Guide / UKM注册指南
+
+Section: Online Registration / 线上注册
+- Upload all currently available materials to the JoinUKM system.
+- Suggested documents include tuition payment receipt, Eval, EMGS, and other documents already in hand.
+
+Section: Health Check Process / 体检流程
+
+Option A: UKM Health Centre / 校医院
+- Print and fill in the "Report of Health Examination Form" in advance.
+- Go to the UKM health centre.
+- Go to counter/window 19.
+- Submit the form and pay the medical examination fee of 250 MYR.
+- Complete the checks in A3, A2, and A1.
+- Return to A3 and wait for the report.
+- Return to window 19 to submit the report.
+- Wait for your number to be called and ask the doctor to stamp and sign.
+- Go to the photocopy room on level 2 of the health centre to make copies. Approximate fee: 5 MYR, cash only.
+- Return to window 19 and submit the original and photocopy.
+- Scan the medical report and upload it to JoinUKM. Upload the original report together with the first page of the photocopy set.
+- Important reminder: blood test and urine test are required. Drink more water in advance.
+
+Option B: External Clinic / 校外医院
+- Go to an approved external clinic or designated hospital for the medical examination.
+- After receiving the medical report, bring the X-ray film and the report to the UKM health centre.
+- Queue for the doctor to stamp and sign the report.
+- Make photocopies on level 2 of the health centre. Approximate fee: 5 MYR, cash only.
+- Scan the medical report and upload it to JoinUKM. Upload the original report together with the first page of the photocopy set.
+
+Section: Verification and Visa Renewal / 认证与换签
+- After the medical examination is completed, go to UKMShape.
+- Verify whether all JoinUKM documents have been uploaded completely.
+- Verify tuition payment, personal bond / deposit, and visa fee payment.
+- Verify academic credentials. Bring original and photocopies of graduation certificate, degree certificate, and notarized documents.
+- For visa renewal / endorsement, first scan the QR code and fill in the form, then submit:
+  - medical report
+  - Eval
+  - eVisa
+  - passport
+
+Section: Passport Collection / 领取护照
+- On the second day after EMGS reaches 100%, bring the temporary passport receipt/document to PKP for collection.
+- Collection location: Pusanika, level 4.
+
+Special Reminders / 特别提醒
+- Bring as many documents as possible during in-person registration, including originals and photocopies.
+- Bring a laptop in case temporary uploads or form submissions are needed.
+- On-site payment supports cash, Visa, and Mastercard. UnionPay is not supported.
+
+[Topic 2] UKM Renewal Guide / UKM续签指南
+
+Required Documents / 所需资料
+- attendance report / 出勤报告
+- academic results / 成绩报告
+- scanned passport copy including cover / 护照扫描件（含封面）
+- renewal application form / 续签申请表
+- screenshot from student financial system / 学生财务系统截图
+- student confirmation letter / 学生确认信
+- visa processing fee / 签证处理费
+- EMGS fee / EMGS费用
+
+Renewal Steps / 续签步骤
+- Fill in the renewal Google Form and wait for the email notification.
+- When EMGS reaches 50%, go to PKP and submit the passport.
+- On the second day after EMGS reaches 100%, bring the temporary passport receipt/document to PKP to collect the passport.
+
+Renewal Form and Google Form / 续签申请表和续签谷歌表格
+- Official page: https://www.ukm.my/ukmshape/renewal--application/
+
+[Topic 3] UKM Grab Destination Guide / UKM Grab指南
+
+Recommended destination names when using Grab:
+- Library / Haomiba / Visa office (PKP): Pusanika - UKM
+- Faculty: FTSM (Fakulti Teknologi & Sains Maklumat - UKM) or Jumpa Cafe FTSM
+- Health centre: Pusat Kesihatan
+- UKMShape: UKMShape UKM Bangi
+
+[Topic 4] UKM Core Systems / UKM各个系统
+
+System 1: SMPWEB Student Profile / SMPWEB 学生档案
+- URL: https://smplucee.ukm.my/smpweb
+- Main use: semester course registration
+
+System 2: UKM FOLIO Learning System / UKM FOLIO 上课系统
+- URL: https://ukmfolio.ukm.my/
+- Main use: course instructors, assignments, teaching materials, and course information
+
+System 3: UKM SISWAMAIL Student Email / UKM SISWAMAIL 学生邮箱
+- First-time setup:
+  - Log in to https://appsmu.ukm.my/speep/index.php
+  - Initial password is the passport number
+  - Complete the mailbox application
+- Subsequent login:
+  - URL: http://mail.google.com/a/siswa.ukm.edu.my
+
+System 4: UKM E-KEWANGAN Financial System / UKM E-KEWANGAN 财务系统
+- URL: https://ekewangan.ukm.my/signin
+- Main use: student billing and financial status
+
+System 5: UKM Research and Publication Search / UKM 查教授发表文章和研究方向
+- URL: https://ukmsarjana.ukm.my/
+- Main use: search professors' publications and research areas
+
+System 6: UKM Library / UKM Library
+- URL: https://eresourcesptsl.ukm.remotexs.co/
+- Main use: library electronic resources access
+
+[Topic 5] Suggested QA Triggers / 建议问法
+- UKM注册怎么做？
+- JoinUKM需要上传什么？
+- UKM体检流程是什么？
+- 去校医院体检要准备什么？
+- UKM续签需要哪些材料？
+- EMGS到50%或100%之后该做什么？
+- Grab打车去PKP怎么填地址？
+- SMPWEB是干什么的？
+- UKM FOLIO在哪里登录？
+- SISWAMAIL学生邮箱怎么开通？
+- E-KEWANGAN怎么看账单？
+- 在哪里查UKM老师的论文和研究方向？

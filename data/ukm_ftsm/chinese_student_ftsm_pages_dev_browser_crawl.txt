@@ -1,0 +1,7622 @@
+FTSM Chinese Student Portal Browser Crawl
+Source type: Student community guide
+Primary source: https://ftsm.pages.dev/
+Crawled at: 2026-05-28T18:37:08.503261
+
+Important note:
+This document is browser-rendered content from a student-maintained portal. It captures route text, button-triggered modules, map interactions, media asset references, and readable strings from bundled JavaScript. It is useful for practical onboarding and navigation, but it is not an official UKM or FTSM policy document. Verify formal requirements against official UKM, FTSM, UKMShape, EMGS, JoinUKM, or faculty sources.
+
+================================================================================
+
+[Route /]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 2 查看假期 / 🗓️ 马来西亚公共假期 2026-2027年马来西亚各州公共假期查询 查看假期]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+🇲🇾 马来西亚公共假期
+
+Malaysia Public Holidays
+
+2026年
+2027年
+
+共有 59 个假期
+
+1月
+1月1日
+星期四
+元旦新年
+所有州属除了 柔佛, 吉打,吉兰丹, 玻璃市 & 登嘉楼
+1月14日
+星期三
+森美兰州元首诞辰
+森美兰州
+1月17日
+星期六
+穆罕默德迁移日
+吉打, 森美兰州, 玻璃市 & 登嘉楼
+1月18日
+星期日
+穆罕默德迁移日 (补假)
+登嘉楼
+2月
+2月1日
+星期日
+大宝森节
+柔佛, 吉隆坡, 森美兰州, 槟城, 霹雳, 布城 & 雪兰莪
+2月1日
+星期日
+联邦直辖区日
+吉隆坡, 纳闽 & 布城
+2月2日
+星期一
+联邦直辖区日 (补假)
+吉隆坡, 纳闽 & 布城
+2月2日
+星期一
+大宝森节 (补假)
+柔佛, 吉隆坡, 森美兰州, 槟城, 霹雳, 布城 & 雪兰莪
+2月17日
+星期二
+农历新年
+所有州属
+2月18日
+星期三
+农历新年第2天
+所有州属
+2月19日
+星期四
+斋戒月首日
+柔佛 & 吉打
+2月20日
+星期五
+宣布独立纪念日
+马六甲
+3月
+3月4日
+星期三
+登嘉楼苏丹登基日
+登嘉楼
+3月7日
+星期六
+可兰经降世日
+所有州属除了 柔佛, 吉打, 马六甲, 森美兰州, 沙巴 & 砂劳越
+3月8日
+星期日
+可兰经降世日 (补假)
+吉兰丹 & 登嘉楼
+3月21日
+星期六
+开斋节
+所有州属
+3月22日
+星期日
+开斋节第2天
+所有州属
+3月23日
+星期一
+柔佛苏丹诞辰
+柔佛
+3月23日
+星期一
+开斋节 (补假)
+所有州属除了 吉打
+3月24日
+星期二
+开斋节 (补假)
+马六甲
+3月30日
+星期一
+沙巴元首诞辰
+沙巴
+4月
+4月3日
+星期五
+耶稣受难日
+沙巴 & 砂劳越
+4月26日
+星期日
+登嘉楼苏丹诞辰
+登嘉楼
+5月
+5月1日
+星期五
+劳动节
+所有州属
+5月3日
+星期日
+劳动节 (补假)
+吉打
+5月17日
+星期日
+玻璃市拉惹诞辰
+玻璃市
+5月18日
+星期一
+玻璃市拉惹诞辰 (补假)
+玻璃市
+5月22日
+星期五
+彭亨祭祀日
+彭亨
+5月26日
+星期二
+阿拉法特日
+吉兰丹 & 登嘉楼
+5月27日
+星期三
+哈芝节
+所有州属
+5月28日
+星期四
+哈芝节第2天
+吉打, 吉兰丹, 玻璃市 & 登嘉楼
+5月30日
+星期六
+丰收节
+纳闽 & 沙巴
+5月31日
+星期日
+卫塞节
+所有州属
+5月31日
+星期日
+丰收节第2天
+纳闽 & 沙巴
+6月
+6月1日
+星期一
+达雅节
+砂劳越
+6月1日
+星期一
+国家最高元首诞辰
+所有州属
+6月1日
+星期一
+卫塞节 (补假)
+所有州属除了 吉打, 吉兰丹 & 登嘉楼
+6月2日
+星期二
+达雅节第2天
+砂劳越
+6月17日
+星期三
+回历元旦
+所有州属
+6月21日
+星期日
+吉打苏丹诞辰
+吉打
+7月
+7月7日
+星期二
+乔治市世界遗产日
+槟城
+7月11日
+星期六
+槟城元首诞辰
+槟城
+7月21日
+星期二
+柔佛已故苏丹忌日
+柔佛
+7月22日
+星期三
+砂劳越自治日
+砂劳越
+7月31日
+星期五
+彭亨苏丹诞辰
+彭亨
+8月
+8月24日
+星期一
+马六甲元首诞辰
+马六甲
+8月25日
+星期二
+回教先知穆罕默德诞辰
+所有州属
+8月31日
+星期一
+国庆日
+所有州属
+9月
+9月16日
+星期三
+马来西亚成立日
+所有州属
+9月29日
+星期二
+吉兰丹苏丹诞辰
+吉兰丹
+9月30日
+星期三
+吉兰丹苏丹诞辰第2天
+吉兰丹
+10月
+10月10日
+星期六
+砂劳越元首诞辰
+砂劳越
+11月
+11月6日
+星期五
+霹雳苏丹诞辰
+霹雳
+11月8日
+星期日
+屠妖节
+所有州属除了 砂劳越
+11月9日
+星期一
+屠妖节 (补假)
+所有州属除了 吉打, 吉兰丹, 砂劳越 & 登嘉楼
+12月
+12月11日
+星期五
+雪兰莪苏丹诞辰
+雪兰莪
+12月24日
+星期四
+圣诞节前夕
+沙巴
+12月25日
+星期五
+圣诞节
+所有州属
+12月27日
+星期日
+圣诞节 (补假)
+吉打
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 3 查看校历 / 📅 校历 查看2025-2026学年校历安排 查看校历]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+UKM 2025-2026 学年校历
+×
+‹
+2026年 五月
+›
+今天
+日
+一
+二
+三
+四
+五
+六
+1
+三月十五
+2
+三月十六
+3
+三月十七
+4
+三月十八
+5
+三月十九
+6
+三月二十
+7
+三月廿一
+8
+三月廿二
+9
+三月廿三
+10
+三月廿四
+11
+三月廿五
+12
+三月廿六
+13
+三月廿七
+14
+三月廿八
+15
+三月廿九
+16
+三月三十
+17
+四月初一
+18
+四月初二
+19
+四月初三
+20
+四月初四
+21
+四月初五
+22
+四月初六
+23
+四月初七
+24
+四月初八
+25
+四月初九
+26
+四月初十
+27
+四月十一
+28
+四月十二
+29
+四月十三
+30
+四月十四
+31
+四月十五
+图例说明
+注册
+上课
+期中休息
+毕业典礼
+期末复习周
+期末考试
+假期
+公共假期
+2026-05-28
+第二学期上课
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 4 查看课程表 / 📚 硕士课程表（课程模式） FTSM硕士研究生课程时间表（课程模式） 查看课程表]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FACULTY OF INFORMATION SCIENCE AND TECHNOLOGY
+
+POSTGRADUATE TIMETABLE (COURSE WORK MODE)
+
+×
+最新
+SEM 2 · 2025/2026
+已过期
+SEM 1 · 2025/2026
+星期一
+09:00–13:00
+TC6244
+Advanced Machine Learning
+讲师:
+NurSamsiah/Shanorbanun
+地点:
+BK16, Block F
+TE6304
+Software Engineering Practice
+讲师:
+Zulkefli
+地点:
+BK14, Block F
+TN6014
+Network Modeling and Simulation
+讲师:
+Azana Hafizah
+地点:
+BK15, Block F
+14:00–18:00
+TH6124
+Interface Design
+讲师:
+Tengku Siti Meriam Tg Wook/Siti Fadzilah
+地点:
+BK15, Block F
+星期二
+09:00–13:00
+TP6084
+Information Retrieval
+讲师:
+Shahrul Azman Mohd Noah, Nurlzyan
+地点:
+BK16, Block F
+TN6224
+Computer Security and Defense
+讲师:
+MKamrul
+地点:
+BK14, Block F
+TM6124
+Advanced Research Methods in Computing
+讲师:
+Program Coordinator
+地点:
+Online
+14:00–18:00
+TC6544
+Advanced Artificial Intelligence
+讲师:
+Salwani/Amirin
+地点:
+BK16, Block F
+TH6234
+Mix Reality
+讲师:
+Lam Meng Chun
+地点:
+BK15, Block F
+15:00–19:00
+TR6244
+Simulation Modelling
+讲师:
+Zainal Rasyid
+地点:
+MP2, Block B
+星期三
+09:00–13:00
+TP6554
+Computational Social Science
+讲师:
+Masnizah
+地点:
+BK14, Block F
+TU6234
+Data Warehousing
+讲师:
+MFaidzul
+地点:
+BK15, Block F
+星期四
+09:00–13:00
+TC6414
+Knowledge Discovery and Data Mining
+讲师:
+Zalinda
+地点:
+BK14, Block F
+TN6484
+System and Network Management
+讲师:
+Azana Hafizah
+地点:
+BK16, Block F
+14:00–18:00
+TH6114
+Game Art and 3D Modeling
+讲师:
+Hafizah/Rimaniza
+地点:
+BK12, Block F
+TU6294
+Project and Change Management
+讲师:
+Yazrina
+地点:
+BK16, Block F
+星期五
+09:00–13:00
+TA6434
+Advanced Algorithm and Data Structure
+讲师:
+Kauthar/Syshanim
+地点:
+BK16, Block F
+TU6134
+Business Process Management
+讲师:
+Dalbir Singh
+地点:
+BK14, Block F
+星期六
+09:00–13:00
+TM6112
+Research Method in Computing
+讲师:
+Program Coordinator
+地点:
+Online
+TM6114
+Set 1 Research Method in Computing
+讲师:
+Program Coordinator
+地点:
+Online
+星期日
+09:00–13:00
+TM6114
+Set 2 Research Method in Computing
+讲师:
+Program Coordinator
+地点:
+Online
+
+注意:
+
+课程时间表可能会根据实际情况进行调整，请以最新通知为准。
+最后更新：2026年03月15日 2025/2026第2学期课程表。
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 5 查看学院地图 / 🗺️ FTSM学院地图 交互式学院平面图，点击建筑查看教室分布 查看学院地图 访问学院官网]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+选择一栋建筑以查看教室列表
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 6 查看公交路线 / 🚌 UKM公交线路和各部门联系方式 查看UKM校园公交路线和运营时间，以及各部门的联系方式。 查看公交路线 查看联系方式]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+UKM公交路线
+×
+ZON 1
+ZON 2
+ZON 3
+ZON 4
+ZON 5
+ZON 6
+ZON 7
+ZON 8
+ZON 1
+23 个站点
+📷 查看平面图
+KPZ
+FUU
+PPA
+FKAB
+FPEND(PBL)
+KBH
+KUO(FST)
+PUSANIKA
+FPI(CANSELORI)
+DECTAR
+KRK
+UKMSHAPE(DANAU)
+PENGAJARAN(GSB UKM)
+KIZ
+KRK(STADIUM)
+KDO
+FSSK(CANSELORI)
+PTSL
+KIY(FST)
+KBH(PKU)
+FPEND
+FKAB
+KPZ
+路线说明
+
+ZON 1 是一条环线公交路线，共经过 23 个站点。
+
+运营时间
+运营时间：
+工作日早上7:30-晚上11:30
+发车频率：
+每30分钟一班
+休息时间：
+下午1:00-2:00、晚上7:00-8:00
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 7 查看联系方式 / 🚌 UKM公交线路和各部门联系方式 查看UKM校园公交路线和运营时间，以及各部门的联系方式。 查看公交路线 查看联系方式]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+UKM常用联系方式
+问题
+电话号码
+E-Mail
+VISA & Student Pass
+016-3566066
+visashape@ukm.edu.my
+Admission / Registration of New Students
+03-8927 2112 / 2129
+admission.shape@ukm.edu.my
+Finance
+03-8927 2110 / 03-8927 2108 / 011-29824629
+accshape@ukm.edu.my
+Course Registration / Student Records
+03-8927 2111 / 03-8927 2114
+upprpshape@ukm.edu.my
+Undergraduate UKMi
+03-8927-2115
+ukm.i@ukm.edu.my
+Postgraduate International
+03-8927-2123
+pgi@ukm.edu.my
+HEET Training (Formally known as PEP)
+03-8927 2122
+HEETtrain@ukm.edu.my
+Examinations / Convocation
+03-8927 2111 / 03-8927 2114
+uppshape@ukm.edu.my
+Microsoft Teams / Microsoft 365 / Siswa Email
+03-8921 7070
+helpdeskptm@ukm.edu.my
+UKMShape System Technical issues
+03-8927 2118 / 03-8921 6131 / 03-8921 6187 / 011-29824781
+aduanbptm@ukm.edu.my
+General Info
+03-8927 2100
+–
+Accommodation / Student Card / Goodies / Financial Aid
+03-8927 2116 / 03-8927 2117 / 03-8927 2139 / 010- 7760500
+ukmcare@ukm.edu.my
+Marketing / Agent
+03-8927 2134
+marketingshape@ukm.edu.my
+Pre-University
+03-8927-2113 / 011-5755 0593
+sp.shape@ukm.edu.my
+Gifted & Talented International (GTI)
+–
+gtishape@ukm.edu.my
+Flexible Education (FlexEd)
+03-8927-2126
+flexed@ukm.edu.my
+Open and Distance Learning – ODL UKM
+03- 8927 2120 / 010-8070049
+akademik.odl@ukm.edu.my
+APEL
+03-8927-2120
+apel.ukmshape@ukm.edu.my
+Micro-credential & Professional Certificate
+03- 8927 2124 / 017-8112270
+studymc@ukm.edu.my
+Human Resource / Reading Material
+03-8927 2106 / 019-2272 2174
+ptdshape@ukm.edu.my
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 8 🔒 网络安全课表 / 🚀 快速导航 网络安全、数据科学、健康信息、协调员 🔒 网络安全课表 📊 数据科学课表 🏥 健康信息课表 👥 协调员信息]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+网络安全硕士课程时间表
+第一学期
+第二学期
+2025-2026 第一学期
+2025年10月6日-2025年10月10日
+[C] TTTX6114 COMPUTER SECURITY
+地点：Cyber Security Lab
+讲师：DR ROSSILAWATI SULAIMAN
+2025年10月13日-2025年10月17日
+[C] TTTX6144 INFORMATION SECURITY MANAGEMENT
+地点：BK7, Block G
+讲师：DR ROZILAWATI RAZALI
+2025年10月13日-2025年10月17日
+[E] TTTX6254 SECURITY AUDIT AND ASSESSMENT
+地点：Cyber Security Lab
+讲师：DR. IBRAHIM MOHAMED
+2025年11月3日-2025年11月7日
+[C] TTTX6124 NETWORK SECURITY
+地点：Cyber Security Lab
+讲师：DR KHAIRUL AZMI ABU BAKAR
+2025年11月3日-2025年11月7日
+[C] TTTX6134 CYBERLAW AND ETHICS
+地点：BK7, Block G
+讲师：AP DR MASNIZAH MOHD
+2025年11月17日-2025年11月21日
+[E] TTTD6214 DATA RECOVERY & ANALYSIS
+地点：Cyber Security Lab
+讲师：AP DR KHAIRUL AKRAM ZAINOLARIFFIN
+2025年12月1日-2025年12月5日
+[E] TTTD6314 DIGITAL MEDIA FORENSIC ANALYSIS
+地点：Cyber Security Lab
+讲师：DR KOK VEN JYN
+2025年12月15日-2025年12月19日
+[E] TTTX6244 ETHICAL HACKING AND PENETRATION TESTING
+地点：Cyber Security Lab
+讲师：DR WAN FARIZA
+2026年1月26日-2026年2月15日
+考试周
+
+注意：
+
+[C] = 核心模块，[E] = 选修模块
+所有课程（全日制和非全日制）均以面授形式进行，时间为周一至周五上午 8:30 至下午 5:30
+所提供模块的开课时间取决于课程最低名额，如有取消，恕不另行通知
+以上时间表可能会有所变更
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 9 📊 数据科学课表 / 🚀 快速导航 网络安全、数据科学、健康信息、协调员 🔒 网络安全课表 📊 数据科学课表 🏥 健康信息课表 👥 协调员信息]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+数据科学硕士课程时间表
+第一学期
+第二学期
+2025-2026 第一学期
+2025年10月6日-2025年10月10日
+[C] TTTC6424 FUNDAMENTAL OF DATA SCIENCE
+地点：Data Science Lab
+讲师：PROF DR AZURALIZA ABU BAKAR & AP DR SUHAILA ZAINUDIN
+2025年11月3日-2025年11月7日
+[C] TTTR6124 STATISTICAL METHODS FOR DATA ANALYTICS
+地点：Data Science Lab
+讲师：AP DR SHAHNORBANUN SAHRAN & PN SITI AISHAH HANAWI
+2025年11月17日-2025年11月21日
+[C] TTTC6444 MACHINE LEARNING FOR DATA SCIENCE
+地点：Data Science Lab
+讲师：AP DR NOR SAMSIAH SANI & DR AFZAN ADAM
+2025年12月1日-2025年12月5日
+[E] TTTU6434 BIG DATA ANALYTICS AND MANAGEMENT
+地点：Data Science Lab
+讲师：AP DR MOHD RIDZWAN YAAKUB & AP DR ELANKOVAN A. SUNDARARAJAN
+2025年12月1日-2025年12月5日
+[C] TTTU6314 BUSINESS ANALYTICS
+地点：BK7, Block G
+讲师：AP DR MOHD ZAKREE AHMAD NAZRI & DR KAUTHAR MD DAUD
+2025年12月15日-2025年12月19日
+[E] TTTP6234 UNSTRUCTURED DATA ANALYTICS
+地点：Data Science Lab
+讲师：AP DR NAZLIA OMAR
+2026年1月26日-2026年2月15日
+考试周
+
+注意：
+
+[C] = 核心模块，[E] = 选修模块
+所有课程（全日制和非全日制）均以面授形式进行，时间为周一至周五上午 8:30 至下午 5:30
+所提供模块的开课时间取决于课程最低名额，如有取消，恕不另行通知
+以上时间表可能会有所变更
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 10 🏥 健康信息课表 / 🚀 快速导航 网络安全、数据科学、健康信息、协调员 🔒 网络安全课表 📊 数据科学课表 🏥 健康信息课表 👥 协调员信息]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+健康信息学硕士课程时间表
+第一学期
+第二学期
+2025-2026 第一学期
+2025年10月6日-2025年10月10日
+[E] TTTC6424 FUNDAMENTAL OF DATA SCIENCE
+地点：Data Science Lab
+讲师：PROF DR AZURALIZA ABU BAKAR & AP DR SUHAILA ZAINUDIN
+2025年10月13日-2025年10月17日
+[C] TTTS6024 INFORMATION MODELING AND DATABASES
+地点：Data Science Lab
+讲师：DR HAFIZ MOHD SARIM & PROF DR ZULAIHA ALI OTHMAN
+2025年11月3日-2025年11月7日
+[E] TTTX6134 CYBERLAW AND ETHICS
+地点：BK7, Block G
+讲师：AP DR MASNIZAH MOHD
+2025年11月17日-2025年11月21日
+[C] TTTY6024 HEALTH INFORMATICS
+地点：BK7, Block G
+讲师：AP DR MARYATI MOHD YUSOF
+2025年11月17日-2025年11月21日
+[E] TTTC6444 MACHINE LEARNING FOR DATA SCIENCE
+地点：Data Science Lab
+讲师：AP DR NOR SAMSIAH SANI & DR AFZAN ADAM
+2025年12月1日-2025年12月5日
+[E] TTTU6314 BUSINESS ANALYTICS
+地点：BK7, Block G
+讲师：AP DR MOHD ZAKREE AHMAD NAZRI & DR KAUTHAR MD DAUD
+2025年12月15日-2025年12月19日
+[C] TTTY6034 ANALYSIS AND DESIGN OF HEALTH INFORMATION SYSTEMS
+地点：BK7, Block G
+讲师：DR. HASIMI SALLEHUDDIN & DR ZAIHOSNITA HOOD
+2026年1月26日-2026年2月15日
+考试周
+
+注意：
+
+[C] = 核心模块，[E] = 选修模块
+所有课程（全日制和非全日制）均以面授形式进行，时间为周一至周五上午 8:30 至下午 5:30
+所提供模块的开课时间取决于课程最低名额，如有取消，恕不另行通知
+以上时间表可能会有所变更
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route / / Button 11 👥 协调员信息 / 🚀 快速导航 网络安全、数据科学、健康信息、协调员 🔒 网络安全课表 📊 数据科学课表 🏥 健康信息课表 👥 协调员信息]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+硕士课程协调员
+硕士（课程模式）
+协调员
+Dr. Ahmad Tarmizi Abdul Ghani
+atag@ukm.edu.my
+行政秘书
+Nur Iffah Syaheera Md Khair
+nuriffahsyaheera@ukm.edu.my
+硕士（混合模式）
+协调员
+Dr. Wandeep Kaur a/p Ratan Singh
+wandeep@ukm.edu.my
+行政秘书
+Syafiqah Najwa Jamali
+snajwajamali@ukm.edu.my
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map modal visible text]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+选择一栋建筑以查看教室列表
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map media assets]
+
+Image: alt='UKM'; size=1488x860; src=https://ftsm.pages.dev/assets/UKMOfficialLogo.svg
+Image: alt='map'; size=2164x1439; src=https://ftsm.pages.dev/assets/ftsm-satellite.png
+Image: alt='map'; size=2558x1418; src=https://ftsm.pages.dev/assets/ftsm-plan.png
+imageUrls: https://ftsm.pages.dev/assets/UKMOfficialLogo.svg
+imageUrls: https://ftsm.pages.dev/assets/ftsm-plan.png
+imageUrls: https://ftsm.pages.dev/assets/ftsm-satellite.png
+
+------------------------------------------------------------
+
+[FTSM map block Block A at (805, 564)]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+Block A
+Rooms & Facilities
+清除
+Lower Level
+Academic Management Unit Office
+Deputy Dean's Room (Academic)
+Assistant Dean's Room (Students & Alumni Affairs)
+Head of Master Programme Room
+Head of Doctoral Programme Room
+Senior Assistant Registrar Room
+Student Centre
+Upper Level
+Assistant Dean's Room (Entrepreneurship & Creativity)
+Head of Artificial Intelligence Programme Room
+Head of Information Technology Programme Room
+Head of Software Engineering Programme Room
+Head of Software Networking Programme Room
+Programme Coordinator (Master By Module) Room
+Glass Discussion Room
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map block Block B at (847, 473)]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+Block B
+Rooms & Facilities
+清除
+Ground Floor
+Meeting Room 1
+Meeting Room 2
+Viva Room
+Level 1
+Lecture Room 1
+Lecture Room 2
+Lecture Room 3
+Level 2
+Lecture Room 4
+Lecture Room 5
+Lecture Room 6
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map block Block C at (957, 512)]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+Block C
+Rooms & Facilities
+清除
+Ground Floor
+Autonomous Robotics & Vision System (ARVIS) Lab
+Network & Pervasive (MyXLab)
+Artificial Intelligence Lab
+Level 1
+Teaching Lab 3
+Software Engineering Lab
+Real-Time Lab
+Level 2
+Teaching Lab 1
+Teaching Lab 2
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map block Block D at (917, 600)]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+Block D
+Rooms & Facilities
+清除
+Level 1
+Innovation Space
+Discussion Room 1
+Discussion Room 2
+Discussion Room 3
+Student Association Room
+Level 2
+Innovation Studio
+Audio Room
+Distributed & Platform Technology Lab
+Level 3
+Innovation Farm
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map block Block E at (795, 653)]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+Block E
+Rooms & Facilities
+清除
+Level 1
+Lecturer Rooms
+Level 2
+Lecturer Rooms
+Level 3
+Lecturer Rooms
+Level 4
+Lecturer Rooms
+Tutorial Rooms 5
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map block Block F at (821, 738)]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+Block F
+Rooms & Facilities
+清除
+Level Ground
+BK10
+BK11
+BK12
+BK13
+Level 1
+BK14
+BK15
+BK16
+BK17
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map block Block G at (695, 743)]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+Block G
+Rooms & Facilities
+清除
+Ground Floor
+Multimedia Hall
+Industrial Lab
+Cyber Security Lab
+Data Science Lab
+Cyber Executive Seminar Room
+Postgraduate Common Room
+ICT Service Center
+Cafeteria / Photostat Service
+Level 1
+Dean's Office
+Dean's Room
+Deputy Dean's Room (Research & Innovation)
+Deputy Dean's Room (Industry Engagement, Alumni and Income Generation)
+Assistant Dean's Room (Quality & Strategy)
+Assistant Dean's Room (Teaching and CITRA)
+Head of HEJIM Room
+Head of Assistant Registrar Room
+Head of ICT Unit Room
+Information Technology Officer's Room
+Finance Office (Zone 2)
+Lecture Room 7
+Lecture Room 8
+Lecture Room 9
+Level 2
+Executive Discussion Room
+Lecturer Rooms
+Tutorial Room 1
+Tutorial Room 2
+Level 3
+Lecturer Rooms
+Tutorial Room 3
+Tutorial Room 4
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map block Block H at (790, 835)]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+Block H
+Rooms & Facilities
+清除
+Level 1
+CYBER Research Labs
+Meeting Room
+Level 2
+Research Center Office
+CAIT Chairperson's Room
+SOFTAM Chairperson's Room
+CYBER Chairperson's Room
+CAIT Research Labs
+Meeting Room
+Resource Center
+Level 3
+SOFTAM Research Labs
+Meeting Room
+Level 4
+CAIT Research Labs
+Meeting Room
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[FTSM map block Dewan Multimedia at (614, 659)]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+📢
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+常用服务
+
+快速访问常用功能
+
+🗓️
+马来西亚公共假期
+
+2026-2027年马来西亚各州公共假期查询
+
+查看假期
+📅
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+📚
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+🗺️
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+访问学院官网
+🚌
+UKM公交线路和各部门联系方式
+
+查看UKM校园公交路线和运营时间，以及各部门的联系方式。
+
+查看公交路线
+查看联系方式
+💻
+UKM FOLIO上课系统
+
+课堂教学、作业、小测、课件集中管理
+
+访问 UKM FOLIO
+🚀
+快速导航
+
+网络安全、数据科学、健康信息、协调员
+
+🔒
+网络安全课表
+📊
+数据科学课表
+🏥
+健康信息课表
+👥
+协调员信息
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+Dewan Multimedia
+Rooms & Facilities
+清除
+Main Hall
+Multimedia Hall
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /research]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+学术科研导航
+收起
+谷歌学术搜索
+快捷使用谷歌学术搜索，支持高级检索语拼装
+期刊信息查询
+整合 JCR 与中科院分区，支持 ISSN / 关键词检索
+科研导航
+整合多款搜索与常用科研服务入口
+CCF推荐国际学术会议
+中国计算机学会推荐 A/B/C 类会议列表
+📋
+CCF推荐国际学术期刊
+中国计算机学会推荐 A/B/C 类期刊列表
+📚
+2026 QS世界大学排名
+查看全球大学排名，支持搜索和按国家筛选
+🏆
+Scholar
+搜索
+
+提示：按 Enter 直接打开 Google Scholar，新窗口中可以使用高级筛选。 常用检索语
+
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /research / Button 3 谷歌学术搜索 快捷使用谷歌学术搜索，支持高级检索语拼装]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+学术科研导航
+收起
+谷歌学术搜索
+快捷使用谷歌学术搜索，支持高级检索语拼装
+期刊信息查询
+整合 JCR 与中科院分区，支持 ISSN / 关键词检索
+科研导航
+整合多款搜索与常用科研服务入口
+CCF推荐国际学术会议
+中国计算机学会推荐 A/B/C 类会议列表
+📋
+CCF推荐国际学术期刊
+中国计算机学会推荐 A/B/C 类期刊列表
+📚
+2026 QS世界大学排名
+查看全球大学排名，支持搜索和按国家筛选
+🏆
+Scholar
+搜索
+
+提示：按 Enter 直接打开 Google Scholar，新窗口中可以使用高级筛选。 常用检索语
+
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /research / Button 4 期刊信息查询 整合 JCR 与中科院分区，支持 ISSN / 关键词检索]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+学术科研导航
+收起
+谷歌学术搜索
+快捷使用谷歌学术搜索，支持高级检索语拼装
+期刊信息查询
+整合 JCR 与中科院分区，支持 ISSN / 关键词检索
+科研导航
+整合多款搜索与常用科研服务入口
+CCF推荐国际学术会议
+中国计算机学会推荐 A/B/C 类会议列表
+📋
+CCF推荐国际学术期刊
+中国计算机学会推荐 A/B/C 类期刊列表
+📚
+2026 QS世界大学排名
+查看全球大学排名，支持搜索和按国家筛选
+🏆
+查询
+仅显示 Top 期刊
+示例：
+Nature Communications
+IEEE Access
+PeerJ Computer Science
+请输入检索式开始查询
+
+请输入期刊名称、关键词或ISSN进行查询
+
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /research / Button 5 科研导航 整合多款搜索与常用科研服务入口]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+学术科研导航
+收起
+谷歌学术搜索
+快捷使用谷歌学术搜索，支持高级检索语拼装
+期刊信息查询
+整合 JCR 与中科院分区，支持 ISSN / 关键词检索
+科研导航
+整合多款搜索与常用科研服务入口
+CCF推荐国际学术会议
+中国计算机学会推荐 A/B/C 类会议列表
+📋
+CCF推荐国际学术期刊
+中国计算机学会推荐 A/B/C 类期刊列表
+📚
+2026 QS世界大学排名
+查看全球大学排名，支持搜索和按国家筛选
+🏆
+Bing
+Google
+谷歌学术
+微软学术
+ORCID
+搜索
+常用服务
+AI工具
+学术搜索
+索引库(商)
+写作翻译
+出版社(商)
+寻找期刊
+会议查询
+学者搜索
+常用服务
+WoS
+ScienceDirect
+EI
+ResearchGate
+ResearchRabbit
+Consensus
+ChatGPT
+DeepSeek
+豆包
+Kimi
+谷歌翻译
+百度翻译
+百度学术
+元素周期表
+Github
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /research / Button 6 CCF推荐国际学术会议 中国计算机学会推荐 A/B/C 类会议列表 📋]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+学术科研导航
+收起
+谷歌学术搜索
+快捷使用谷歌学术搜索，支持高级检索语拼装
+期刊信息查询
+整合 JCR 与中科院分区，支持 ISSN / 关键词检索
+科研导航
+整合多款搜索与常用科研服务入口
+CCF推荐国际学术会议
+中国计算机学会推荐 A/B/C 类会议列表
+📋
+CCF推荐国际学术期刊
+中国计算机学会推荐 A/B/C 类期刊列表
+📚
+2026 QS世界大学排名
+查看全球大学排名，支持搜索和按国家筛选
+🏆
+Scholar
+搜索
+
+提示：按 Enter 直接打开 Google Scholar，新窗口中可以使用高级筛选。 常用检索语
+
+CCF 推荐国际学术会议
+×
+所有分类
+A 类
+B 类
+C 类
+所有专业领域
+交叉/综合/新兴
+人工智能
+人机交互与普适计算
+数据库/数据挖掘/内容检索
+网络与信息安全
+计算机体系结构/并行与分布计算/存储系统
+计算机图形学与多媒体
+计算机科学理论
+计算机网络
+软件工程/系统软件/程序设计语言
+
+共找到 364 个会议
+
+A类
+B类
+C类
+序号 会议简称 会议全称 分类 类型 专业领域
+1 PPoPP ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming A 会议 计算机体系结构/并行与分布计算/存储系统
+2 FAST USENIX Conference on File and Storage Technologies A 会议 计算机体系结构/并行与分布计算/存储系统
+3 DAC Design Automation Conference A 会议 计算机体系结构/并行与分布计算/存储系统
+4 HPCA IEEE International Symposium on High Performance Computer Architecture A 会议 计算机体系结构/并行与分布计算/存储系统
+5 MICRO IEEE/ACM International Symposium on Microarchitecture A 会议 计算机体系结构/并行与分布计算/存储系统
+6 SC International Conference for High Performance Computing, Networking, Storage, and Analysis A 会议 计算机体系结构/并行与分布计算/存储系统
+7 ASPLOS International Conference on Architectural Support for Programming Languages and Operating Systems A 会议 计算机体系结构/并行与分布计算/存储系统
+8 ISCA International Symposium on Computer Architecture A 会议 计算机体系结构/并行与分布计算/存储系统
+9 USENIX ATC USENIX Annual Technical Conference A 会议 计算机体系结构/并行与分布计算/存储系统
+10 EuroSys European Conference on Computer Systems A 会议 计算机体系结构/并行与分布计算/存储系统
+1 SOCC ACM Symposium on Cloud Computing B 会议 计算机体系结构/并行与分布计算/存储系统
+2 SPAA ACM Symposium on Parallelism in Algorithms and Architectures B 会议 计算机体系结构/并行与分布计算/存储系统
+3 PODC ACM Symposium on Principles of Distributed Computing B 会议 计算机体系结构/并行与分布计算/存储系统
+4 FPGA ACM/SIGDA International Symposium on Field-Programmable Gate Arrays B 会议 计算机体系结构/并行与分布计算/存储系统
+5 CGO The International Symposium on Code Generation and Optimization B 会议 计算机体系结构/并行与分布计算/存储系统
+6 DATE Design, Automation & Test in Europe B 会议 计算机体系结构/并行与分布计算/存储系统
+7 HOT CHIPS Hot Chips: A Symposium on High Performance Chips B 会议 计算机体系结构/并行与分布计算/存储系统
+8 CLUSTER IEEE International Conference on Cluster Computing B 会议 计算机体系结构/并行与分布计算/存储系统
+9 ICCD International Conference on Computer Design B 会议 计算机体系结构/并行与分布计算/存储系统
+10 ICCAD International Conference on Computer-Aided Design B 会议 计算机体系结构/并行与分布计算/存储系统
+11 ICDCS IEEE International Conference on Distributed Computing Systems B 会议 计算机体系结构/并行与分布计算/存储系统
+12 CODES+ISSS International Conference on Hardware/Software Co-design and System Synthesis B 会议 计算机体系结构/并行与分布计算/存储系统
+13 HiPEAC International Conference on High Performance and Embedded Architectures and Compilers B 会议 计算机体系结构/并行与分布计算/存储系统
+14 SIGMETRICS International Conference on Measurement and Modeling of Computer Systems B 会议 计算机体系结构/并行与分布计算/存储系统
+15 PACT International Conference on Parallel Architectures and Compilation Techniques B 会议 计算机体系结构/并行与分布计算/存储系统
+16 ICPP International Conference on Parallel Processing B 会议 计算机体系结构/并行与分布计算/存储系统
+17 ICS International Conference on Supercomputing B 会议 计算机体系结构/并行与分布计算/存储系统
+18 VEE International Conference on Virtual Execution Environments B 会议 计算机体系结构/并行与分布计算/存储系统
+19 IPDPS IEEE International Parallel & Distributed Processing Symposium B 会议 计算机体系结构/并行与分布计算/存储系统
+20 Performance International Symposium on Computer Performance, Modeling, Measurements and Evaluation B 会议 计算机体系结构/并行与分布计算/存储系统
+21 HPDC The International ACM Symposium on High-Performance Parallel and Distributed Computing B 会议 计算机体系结构/并行与分布计算/存储系统
+22 ITC International Test Conference B 会议 计算机体系结构/并行与分布计算/存储系统
+23 LISA Large Installation system Administration Conference B 会议 计算机体系结构/并行与分布计算/存储系统
+24 MSST Mass Storage Systems and Technologies B 会议 计算机体系结构/并行与分布计算/存储系统
+25 RTAS IEEE Real-Time and Embedded Technology and ApplicationsSymposium B 会议 计算机体系结构/并行与分布计算/存储系统
+26 Euro-Par European Conference on Parallel and Distributed Computing B 会议 计算机体系结构/并行与分布计算/存储系统
+1 CF ACM International Conference on Computing Frontiers C 会议 计算机体系结构/并行与分布计算/存储系统
+2 SYSTOR ACM International Systems and Storage Conference C 会议 计算机体系结构/并行与分布计算/存储系统
+3 NOCS ACM/IEEE International Symposium on Networks-on-Chip C 会议 计算机体系结构/并行与分布计算/存储系统
+4 ASAP IEEE International Conference on Application-Specific Systems, Architectures, and Processors C 会议 计算机体系结构/并行与分布计算/存储系统
+5 ASP-DAC Asia and South Pacific Design Automation Conference C 会议 计算机体系结构/并行与分布计算/存储系统
+6 ETS IEEE European Test Symposium C 会议 计算机体系结构/并行与分布计算/存储系统
+7 FPL International Conference on Field-Programmable Logic and Applications C 会议 计算机体系结构/并行与分布计算/存储系统
+8 FCCM IEEE Symposium on Field-Programmable Custom Computing Machines C 会议 计算机体系结构/并行与分布计算/存储系统
+9 GLSVLSI Great Lakes Symposium on VLSI C 会议 计算机体系结构/并行与分布计算/存储系统
+10 ATS IEEE Asian Test Symposium C 会议 计算机体系结构/并行与分布计算/存储系统
+11 HPCC IEEE International Conference on High Performance Computing and Communications C 会议 计算机体系结构/并行与分布计算/存储系统
+12 HiPC IEEE International Conference on High Performance Computing, Data and Analytics C 会议 计算机体系结构/并行与分布计算/存储系统
+13 MASCOTS International Symposium on Modeling, Analysis, andSimulation of Computer and Telecommunication Systems C 会议 计算机体系结构/并行与分布计算/存储系统
+14 ISPA IEEE International Symposium on Parallel and Distributed Processing with Applications C 会议 计算机体系结构/并行与分布计算/存储系统
+15 CCGRID IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing C 会议 计算机体系结构/并行与分布计算/存储系统
+16 NPC IFIP International Conference on Network and Parallel Computing C 会议 计算机体系结构/并行与分布计算/存储系统
+17 ICA3PP International Conference on Algorithms and Architectures for Parallel Processing C 会议 计算机体系结构/并行与分布计算/存储系统
+18 CASES International Conference on Compilers, Architectures, and Synthesis for Embedded Systems C 会议 计算机体系结构/并行与分布计算/存储系统
+19 FPT International Conference on Field-Programmable Technology C 会议 计算机体系结构/并行与分布计算/存储系统
+20 ICPADS International Conference on Parallel and Distributed Systems C 会议 计算机体系结构/并行与分布计算/存储系统
+21 ISCAS IEEE International Symposium on Circuits and Systems C 会议 计算机体系结构/并行与分布计算/存储系统
+22 ISLPED International Symposium on Low Power Electronics and Design C 会议 计算机体系结构/并行与分布计算/存储系统
+23 ISPD International Symposium on Physical Design C 会议 计算机体系结构/并行与分布计算/存储系统
+24 HOTI IEEE Symposium on High-Performance Interconnects C 会议 计算机体系结构/并行与分布计算/存储系统
+25 VTS IEEE VLSI Test Symposium C 会议 计算机体系结构/并行与分布计算/存储系统
+26 ITC-Asia International Test Conference in Asia C 会议 计算机体系结构/并行与分布计算/存储系统
+1 SIGCOMM ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication A 会议 计算机网络
+2 MobiCom ACM International Conference on Mobile Computing and Networking A 会议 计算机网络
+3 INFOCOM IEEE International Conference on Computer Communications A 会议 计算机网络
+4 NSDI Symposium on Network System Design and Implementation A 会议 计算机网络
+1 SenSys ACM Conference on Embedded Networked Sensor Systems B 会议 计算机网络
+2 CoNEXT ACM International Conference on emerging Networking EXperiments and Technologies B 会议 计算机网络
+3 SECON IEEE International Conference on Sensing, Communication, and Networking B 会议 计算机网络
+4 IPSN International Conference on Information Processing in Sensor Networks B 会议 计算机网络
+5 MobiSys ACM International Conference on Mobile Systems, Applications, and Services B 会议 计算机网络
+6 ICNP IEEE International Conference on Network Protocols B 会议 计算机网络
+7 MobiHoc International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing B 会议 计算机网络
+8 NOSSDAV International Workshop on Network and Operating System Support for Digital Audio and Video B 会议 计算机网络
+9 IWQoS IEEE/ACM International Workshop on Quality of Service B 会议 计算机网络
+10 IMC ACM Internet Measurement Conference B 会议 计算机网络
+1 ANCS ACM/IEEE Symposium on Architectures for Networking and Communication Systems C 会议 计算机网络
+2 APNOMS Asia-Pacific Network Operations and Management Symposium C 会议 计算机网络
+3 FORTE International Conference on Formal Techniques for Distributed Objects, Components, and Systems C 会议 计算机网络
+4 LCN IEEE Conference on Local Computer Networks C 会议 计算机网络
+5 GLOBECOM IEEE Global Communications Conference C 会议 计算机网络
+6 ICC IEEE International Conference on Communications C 会议 计算机网络
+7 ICCCN IEEE International Conference on Computer Communications and Networks C 会议 计算机网络
+8 MASS IEEE International Conference on Mobile Ad-hoc and Sensor Systems C 会议 计算机网络
+9 P2P IEEE International Conference on P2P Computing C 会议 计算机网络
+10 IPCCC IEEE International Performance Computing and Communications Conference C 会议 计算机网络
+11 WoWMoM IEEE International Symposium on a World of Wireless Mobile and Multimedia Networks C 会议 计算机网络
+12 ISCC IEEE Symposium on Computers and Communications C 会议 计算机网络
+13 WCNC IEEE Wireless Communications and Networking Conference C 会议 计算机网络
+14 Networking IFIP International Conferences on Networking C 会议 计算机网络
+15 IM IFIP/IEEE International Symposium on Integrated NetworkManagement C 会议 计算机网络
+16 MSN International Conference on Mobility, Sensing and Networking C 会议 计算机网络
+17 MSWiM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems C 会议 计算机网络
+18 WASA The International Conference on Wireless Artificial Intelligent Computing Systems and Applications C 会议 计算机网络
+19 HotNets ACM The Workshop on Hot Topics in Networks C 会议 计算机网络
+20 APNet Asia-Pacific Workshop on Networking C 会议 计算机网络
+1 CCS ACM Conference on Computer and Communications Security A 会议 网络与信息安全
+2 EUROCRYPT International Conference on the Theory and Applications of Cryptographic Techniques A 会议 网络与信息安全
+3 S&P IEEE Symposium on Security and Privacy A 会议 网络与信息安全
+4 CRYPTO International Cryptology Conference A 会议 网络与信息安全
+5 USENIX Security USENIX Security Symposium A 会议 网络与信息安全
+6 NDSS Network and Distributed System Security Symposium A 会议 网络与信息安全
+1 ACSAC Annual Computer Security Applications Conference B 会议 网络与信息安全
+2 ASIACRYPT Annual International Conference on the Theory and Application of Cryptology and Information Security B 会议 网络与信息安全
+3 ESORICS European Symposium on Research in Computer Security B 会议 网络与信息安全
+4 FSE Fast Software Encryption B 会议 网络与信息安全
+5 CSFW IEEE Computer Security Foundations Workshop B 会议 网络与信息安全
+6 SRDS IEEE International Symposium on Reliable Distributed Systems B 会议 网络与信息安全
+7 CHES International Conference on Cryptographic Hardware and Embedded Systems B 会议 网络与信息安全
+8 DSN International Conference on Dependable Systems and Networks B 会议 网络与信息安全
+9 RAID International Symposium on Recent Advances in Intrusion Detection B 会议 网络与信息安全
+10 PKC International Workshop on Practice and Theory in Public Key Cryptography B 会议 网络与信息安全
+11 TCC Theory of Cryptography Conference B 会议 网络与信息安全
+1 WiSec ACM Conference on Security and Privacy in Wireless and Mobile Networks C 会议 网络与信息安全
+2 SACMAT ACM Symposium on Access Control Models and Technologies C 会议 网络与信息安全
+3 DRM ACM Workshop on Digital Rights Management C 会议 网络与信息安全
+4 IH&MMSec ACM Workshop on Information Hiding and Multimedia Security C 会议 网络与信息安全
+5 ACNS International Conference on Applied Cryptography and Network Security C 会议 网络与信息安全
+6 AsiaCCS ACM Asia Conference on Computer and Communications Security C 会议 网络与信息安全
+7 ACISP AustralasiaConferenceonInformation SecurityandPrivacy C 会议 网络与信息安全
+8 CT-RSA The Cryptographer’s Track at RSA Conference C 会议 网络与信息安全
+9 DIMVA Conference on Detection of Intrusions and Malware & VulnerabilityAssessment C 会议 网络与信息安全
+10 DFRWS Digital Forensic Research Workshop C 会议 网络与信息安全
+11 FC Financial Cryptography and Data Security C 会议 网络与信息安全
+12 TrustCom IEEE International Conference on Trust,Security and Privacy in Computing and Communications C 会议 网络与信息安全
+13 SEC IFIP International Information Security Conference C 会议 网络与信息安全
+14 IFIP WG 11.9 IFIP Working Group 11.9 International Conference on Digital Forensics C 会议 网络与信息安全
+15 ISC Information Security Conference C 会议 网络与信息安全
+16 ICDF2C International Conference on Digital Forensics & Cyber Crime C 会议 网络与信息安全
+17 ICICS International Conference on Information and Communications Security C 会议 网络与信息安全
+18 SecureComm International Conference on Security and Privacy in Communication Networks C 会议 网络与信息安全
+19 NSPW New Security Paradigms Workshop C 会议 网络与信息安全
+20 PAM Passive and Active Measurement Conference C 会议 网络与信息安全
+21 PETS Privacy Enhancing Technologies Symposium C 会议 网络与信息安全
+22 SAC Selected Areas in Cryptography C 会议 网络与信息安全
+23 SOUPS Symposium On Usable Privacy and Security C 会议 网络与信息安全
+24 HotSec C 会议 网络与信息安全
+25 EuroS&P IEEE European Symposium on Security and Privacy C 会议 网络与信息安全
+26 Inscrypt International Conference on Information Security and Cryptology C 会议 网络与信息安全
+1 PLDI ACM SIGPLAN Conference on Programming Language Design and Implementation A 会议 软件工程/系统软件/程序设计语言
+2 POPL ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages A 会议 软件工程/系统软件/程序设计语言
+3 FSE ACM International Conference on the Foundations of Software Engineering A 会议 软件工程/系统软件/程序设计语言
+4 SOSP ACM Symposium on Operating Systems Principles A 会议 软件工程/系统软件/程序设计语言
+5 OOPSLA Conference on Object-Oriented Programming Systems, Languages,and Applications A 会议 软件工程/系统软件/程序设计语言
+6 ASE International Conference on Automated Software Engineering A 会议 软件工程/系统软件/程序设计语言
+7 ICSE International Conference on Software Engineering A 会议 软件工程/系统软件/程序设计语言
+8 ISSTA International Symposium on Software Testing and Analysis A 会议 软件工程/系统软件/程序设计语言
+9 OSDI USENIX Symposium on Operating Systems Design and Implementations A 会议 软件工程/系统软件/程序设计语言
+10 FM International Symposium on Formal Methods A 会议 软件工程/系统软件/程序设计语言
+1 ECOOP European Conference on Object-Oriented Programming B 会议 软件工程/系统软件/程序设计语言
+2 ETAPS European Joint Conferences on Theory and Practice of Software B 会议 软件工程/系统软件/程序设计语言
+3 ICPC IEEE International Conference on Program Comprehension B 会议 软件工程/系统软件/程序设计语言
+4 RE IEEE International Requirements Engineering Conference B 会议 软件工程/系统软件/程序设计语言
+5 CAiSE International Conference on Advanced Information Systems Engineering B 会议 软件工程/系统软件/程序设计语言
+6 ICFP ACM SIGPLAN International Conference on Function Programming B 会议 软件工程/系统软件/程序设计语言
+7 LCTES ACM SIGPLAN/SIGBED International Conference on Languages, Compilers andTools for Embedded Systems B 会议 软件工程/系统软件/程序设计语言
+8 MoDELS ACM/IEEE International Conference on Model Driven Engineering Languages and Systems B 会议 软件工程/系统软件/程序设计语言
+9 CP International Conference on Principles and Practice of Constraint Programming B 会议 软件工程/系统软件/程序设计语言
+10 ICSOC International Conference on Service Oriented Computing B 会议 软件工程/系统软件/程序设计语言
+11 SANER IEEE International Conference on Software Analysis, Evolution,and Reengineering B 会议 软件工程/系统软件/程序设计语言
+12 ICSME International Conference on Software Maintenance and Evolution B 会议 软件工程/系统软件/程序设计语言
+13 VMCAI International Conference on Verification,Model Checking, and Abstract Interpretation B 会议 软件工程/系统软件/程序设计语言
+14 ICWS IEEE International Conference on Web Services B 会议 软件工程/系统软件/程序设计语言
+15 Middleware International Middleware Conference B 会议 软件工程/系统软件/程序设计语言
+16 SAS International Static Analysis Symposium B 会议 软件工程/系统软件/程序设计语言
+17 ESEM International Symposium on Empirical Software Engineering and Measurement B 会议 软件工程/系统软件/程序设计语言
+18 ISSRE IEEE International Symposium on Software Reliability Engineering B 会议 软件工程/系统软件/程序设计语言
+19 HotOS USENIX Workshop on Hot Topics in Operating Systems B 会议 软件工程/系统软件/程序设计语言
+1 PEPM ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation C 会议 软件工程/系统软件/程序设计语言
+2 PASTE ACMSIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering C 会议 软件工程/系统软件/程序设计语言
+3 APLAS Asian Symposium on Programming Languages and Systems C 会议 软件工程/系统软件/程序设计语言
+4 APSEC Asia-Pacific Software Engineering Conference C 会议 软件工程/系统软件/程序设计语言
+5 EASE International Conference on Evaluation and Assessment in Software Engineering C 会议 软件工程/系统软件/程序设计语言
+6 ICECCS International Conference on Engineering of Complex Computer Systems C 会议 软件工程/系统软件/程序设计语言
+7 ICST IEEE International Conference on Software Testing, Verification and Validation C 会议 软件工程/系统软件/程序设计语言
+8 ISPASS IEEE International Symposium on Performance Analysis of Systems and Software C 会议 软件工程/系统软件/程序设计语言
+9 SCAM IEEE International Working Conference on Source Code Analysis and Manipulation C 会议 软件工程/系统软件/程序设计语言
+10 COMPSAC International Computer Software and Applications Conference C 会议 软件工程/系统软件/程序设计语言
+11 ICFEM International Conference on Formal Engineering Methods C 会议 软件工程/系统软件/程序设计语言
+12 SSE IEEE International Conference on Software Services Engineering C 会议 软件工程/系统软件/程序设计语言
+13 ICSSP International Conference on Software and System Process C 会议 软件工程/系统软件/程序设计语言
+14 SEKE International Conference on Software Engineering and Knowledge Engineering C 会议 软件工程/系统软件/程序设计语言
+15 QRS International Conference on Software Quality, Reliability and Security C 会议 软件工程/系统软件/程序设计语言
+16 ICSR International Conference on Software Reuse C 会议 软件工程/系统软件/程序设计语言
+17 ICWE International Conference on Web Engineering C 会议 软件工程/系统软件/程序设计语言
+18 SPIN International Symposium on Model Checking of Software C 会议 软件工程/系统软件/程序设计语言
+19 ATVA International Symposium on Automated Technology for Verification and Analysis C 会议 软件工程/系统软件/程序设计语言
+20 LOPSTR International Symposium on Logic-based Program Synthesis and Transformation C 会议 软件工程/系统软件/程序设计语言
+21 TASE Theoretical Aspects of Software Engineering Conference C 会议 软件工程/系统软件/程序设计语言
+22 MSR Mining Software Repositories C 会议 软件工程/系统软件/程序设计语言
+23 REFSQ Requirements Engineering: Foundation for Software Quality C 会议 软件工程/系统软件/程序设计语言
+24 WICSA Working IEEE/IFIP Conference on Software Architecture C 会议 软件工程/系统软件/程序设计语言
+25 Internetware Asia-Pacific Symposium on Internetware C 会议 软件工程/系统软件/程序设计语言
+26 RV International Conference on Runtime Verification C 会议 软件工程/系统软件/程序设计语言
+1 SIGMOD ACM SIGMOD Conference A 会议 数据库/数据挖掘/内容检索
+2 SIGKDD ACM SIGKDD Conference on Knowledge Discovery and Data Mining A 会议 数据库/数据挖掘/内容检索
+3 ICDE IEEE International Conference on Data Engineering A 会议 数据库/数据挖掘/内容检索
+4 SIGIR International ACM SIGIR Conference on Research and Development in Information Retrieval A 会议 数据库/数据挖掘/内容检索
+5 VLDB International Conference on Very Large Data Bases A 会议 数据库/数据挖掘/内容检索
+1 CIKM ACM International Conference on Information and Knowledge Management B 会议 数据库/数据挖掘/内容检索
+2 WSDM ACM International Conference on Web Search and Data Mining B 会议 数据库/数据挖掘/内容检索
+3 PODS ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems B 会议 数据库/数据挖掘/内容检索
+4 DASFAA International Conference on Database Systems for Advanced Applications B 会议 数据库/数据挖掘/内容检索
+5 ECML-PKDD European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases B 会议 数据库/数据挖掘/内容检索
+6 ISWC IEEE International Semantic Web Conference B 会议 数据库/数据挖掘/内容检索
+7 ICDM IEEE International Conference on Data Mining B 会议 数据库/数据挖掘/内容检索
+8 ICDT International Conference on Database Theory B 会议 数据库/数据挖掘/内容检索
+9 EDBT International Conference on Extending DatabaseTechnology B 会议 数据库/数据挖掘/内容检索
+10 CIDR Conference on Innovative DataSystems Research B 会议 数据库/数据挖掘/内容检索
+11 SDM SIAM International Conference on Data Mining B 会议 数据库/数据挖掘/内容检索
+12 RecSys ACM Conference on Recommender Systems B 会议 数据库/数据挖掘/内容检索
+1 APWeb Asia Pacific Web Conference C 会议 数据库/数据挖掘/内容检索
+2 DEXA International Conference on Database and Expert System Applications C 会议 数据库/数据挖掘/内容检索
+3 ECIR European Conference on Information Retrieval C 会议 数据库/数据挖掘/内容检索
+4 ESWC Extended Semantic Web Conference C 会议 数据库/数据挖掘/内容检索
+5 WebDB International Workshop on Web andDatabases C 会议 数据库/数据挖掘/内容检索
+6 ER International Conference on Conceptual Modeling C 会议 数据库/数据挖掘/内容检索
+7 MDM International Conference on Mobile Data Management C 会议 数据库/数据挖掘/内容检索
+8 SSDBM International Conference on Scientific andStatistical Database Management C 会议 数据库/数据挖掘/内容检索
+9 WAIM International Conference on Web Age Information Management C 会议 数据库/数据挖掘/内容检索
+10 SSTD International Symposium on Spatial and Temporal Databases C 会议 数据库/数据挖掘/内容检索
+11 PAKDD Pacific-Asia Conference on Knowledge Discovery and Data Mining C 会议 数据库/数据挖掘/内容检索
+12 WISE Web Information Systems Engineering C 会议 数据库/数据挖掘/内容检索
+13 ADMA International Conference on Advanced Data Mining and Applications C 会议 数据库/数据挖掘/内容检索
+1 STOC ACM Symposium on Theory of Computing A 会议 计算机科学理论
+2 SODA ACM-SIAM Symposium on Discrete Algorithms A 会议 计算机科学理论
+3 CAV International Conference on Computer Aided Verification A 会议 计算机科学理论
+4 FOCS IEEE Annual Symposium on Foundations of Computer Science A 会议 计算机科学理论
+5 LICS ACM/IEEE Symposium on Logic in Computer Science A 会议 计算机科学理论
+1 SoCG International Symposium on Computational Geometry B 会议 计算机科学理论
+2 ESA European Symposium on Algorithms B 会议 计算机科学理论
+3 CCC Conference on Computational Complexity B 会议 计算机科学理论
+4 ICALP International Colloquium on Automata, Languages and Programming B 会议 计算机科学理论
+5 International Conference on Automated Deduction/International Joint Conference on Automated Reasoning B 会议 计算机科学理论
+6 CONCUR International Conference on Concurrency Theory B 会议 计算机科学理论
+7 HSCC International Conference on Hybrid Systems: Computation and Control B 会议 计算机科学理论
+8 SAT International Conference on Theory and Applications of Satisfiability Testing B 会议 计算机科学理论
+9 COCOON International Computing and Combinatorics Conference B 会议 计算机科学理论
+1 CSL Computer Science Logic C 会议 计算机科学理论
+2 FMCAD Formal Method in Computer-Aided Design C 会议 计算机科学理论
+3 FSTTCS Foundations of Software Technology and Theoretical Computer Science C 会议 计算机科学理论
+4 DSAA IEEE International Conference on Data Science and Advanced Analytics C 会议 计算机科学理论
+5 ICTAC International Colloquium on Theoretical Aspects of Computing C 会议 计算机科学理论
+6 IPCO International Conference on Integer Programming and Combinatorial Optimization C 会议 计算机科学理论
+7 RTA International Conference on Rewriting Techniques and Applications C 会议 计算机科学理论
+8 ISAAC International Symposium on Algorithms and Computation C 会议 计算机科学理论
+9 MFCS International Conference on Mathematical Foundations of Computer Science C 会议 计算机科学理论
+10 STACS Symposium on Theoretical Aspects of Computer Science C 会议 计算机科学理论
+11 SETTA International Symposium on Dependable Software Engineering: Theories, Tools, and Applications C 会议 计算机科学理论
+1 ACM MM ACM International Conference on Multimedia A 会议 计算机图形学与多媒体
+2 SIGGRAPH ACM Special Interest Group on Computer Graphics A 会议 计算机图形学与多媒体
+3 VR IEEE Virtual Reality A 会议 计算机图形学与多媒体
+4 IEEE VIS IEEE Visualization Conference A 会议 计算机图形学与多媒体
+1 ICMR ACM SIGMM International Conference on Multimedia Retrieval B 会议 计算机图形学与多媒体
+2 I3D ACM SIGGRAPH Symposium onInteractive 3D Graphics and Games B 会议 计算机图形学与多媒体
+3 SCA ACM SIGGRAPH/Eurographics Symposium on Computer Animation B 会议 计算机图形学与多媒体
+4 DCC Data Compression Conference B 会议 计算机图形学与多媒体
+5 Eurographics Annual Conference of the European Association for Computer Graphics B 会议 计算机图形学与多媒体
+6 EuroVis Eurographics Conference on Visualization B 会议 计算机图形学与多媒体
+7 SGP Eurographics Symposium on Geometry Processing B 会议 计算机图形学与多媒体
+8 EGSR Eurographics Symposium on Rendering B 会议 计算机图形学与多媒体
+9 ICASSP IEEE International Conference on Acoustics,Speech and Signal Processing B 会议 计算机图形学与多媒体
+10 ICME IEEE International Conference on Multimedia& Expo B 会议 计算机图形学与多媒体
+11 ISMAR International Symposium on Mixed and Augmented Reality B 会议 计算机图形学与多媒体
+12 PG Pacific Conference on Computer Graphics and Applications B 会议 计算机图形学与多媒体
+13 SPM Symposium on Solid and Physical Modeling B 会议 计算机图形学与多媒体
+1 VRST ACM Symposium on Virtual Reality Software and Technology C 会议 计算机图形学与多媒体
+2 CASA International Conference on Computer Animation and Social Agents C 会议 计算机图形学与多媒体
+3 CGI Computer Graphics International C 会议 计算机图形学与多媒体
+4 INTERSPEECH Conference of the International Speech Communication Association C 会议 计算机图形学与多媒体
+5 GMP Geometric Modeling and Processing C 会议 计算机图形学与多媒体
+6 PacificVis IEEE Pacific Visualization Symposium C 会议 计算机图形学与多媒体
+7 3DV International Conference on 3D Vision C 会议 计算机图形学与多媒体
+8 CAD/Graphics International Conference on Computer-Aided Design and Computer Graphics C 会议 计算机图形学与多媒体
+9 ICIP IEEE International Conference on Image Processing C 会议 计算机图形学与多媒体
+10 MMM International Conference on Multimedia Modeling C 会议 计算机图形学与多媒体
+11 MMAsia ACM Multimedia Asia C 会议 计算机图形学与多媒体
+12 SMI Shape Modeling International C 会议 计算机图形学与多媒体
+13 ICVRV International Conference on Virtual Reality and Visualization C 会议 计算机图形学与多媒体
+14 CVM Computational Visual Media C 会议 计算机图形学与多媒体
+15 PRCV Chinese Conference on Pattern Recognition and Computer Vision C 会议 计算机图形学与多媒体
+1 AAAI AAAI Conference on Artificial Intelligence A 会议 人工智能
+2 NeurIPS Conference on Neural Information Processing Systems A 会议 人工智能
+3 ACL Annual Meeting of the Association for Computational Linguistics A 会议 人工智能
+4 CVPR IEEE/CVF Computer Vision and Pattern Recognition Conference A 会议 人工智能
+5 ICCV International Conference on Computer Vision A 会议 人工智能
+6 ICML International Conference on Machine Learning A 会议 人工智能
+7 IJCAI International Joint Conference on Artificial Intelligence A 会议 人工智能
+1 COLT Annual Conference on Computational Learning Theory B 会议 人工智能
+2 EMNLP Conference on Empirical Methods in Natural Language Processing B 会议 人工智能
+3 ECAI European Conference on Artificial Intelligence B 会议 人工智能
+4 ECCV European Conference on Computer Vision B 会议 人工智能
+5 ICRA IEEE International Conference on Robotics and Automation B 会议 人工智能
+6 ICAPS International Conference on Automated Planning and Scheduling B 会议 人工智能
+7 ICCBR International Conference on Case-Based Reasoning B 会议 人工智能
+8 COLING International Conference on Computational Linguistics B 会议 人工智能
+9 KR International Conference on Principles of Knowledge Representation and Reasoning B 会议 人工智能
+10 UAI Conference on Uncertainty in ArtificialIntelligence B 会议 人工智能
+11 AAMAS International Joint Conference on Autonomous Agents and Multi-agent Systems B 会议 人工智能
+12 PPSN Parallel Problem Solving from Nature B 会议 人工智能
+13 NAACL North American Chapter of the Associationfor Computational Linguistics B 会议 人工智能
+1 AISTATS International Conference on Artificial Intelligence and Statistics C 会议 人工智能
+2 ACCV Asian Conference on Computer Vision C 会议 人工智能
+3 ACML Asian Conference on Machine Learning C 会议 人工智能
+4 BMVC British Machine Vision Conference C 会议 人工智能
+5 NLPCC CCF International Conference on Natural Language Processing and Chinese Computing C 会议 人工智能
+6 CoNLL Conference on Computational Natural Language Learning C 会议 人工智能
+7 GECCO Genetic and Evolutionary Computation Conference C 会议 人工智能
+8 ICTAI IEEE International Conference on Tools with Artificial Intelligence C 会议 人工智能
+9 IROS IEEE/RSJ International Conference on Intelligent Robots and Systems C 会议 人工智能
+10 ALT International Conference on Algorithmic Learning Theory C 会议 人工智能
+11 ICANN International Conference on Artificial Neural Networks C 会议 人工智能
+12 FG IEEE International Conference on AutomaticFace and Gesture Recognition C 会议 人工智能
+13 ICDAR International Conference on Document Analysis and Recognition C 会议 人工智能
+14 ILP International Conference on Inductive Logic Programming C 会议 人工智能
+15 KSEM International conference on Knowledge Science,Engineering and Management C 会议 人工智能
+16 ICONIP International Conference on Neural Information Processing C 会议 人工智能
+17 ICPR International Conference on Pattern Recognition C 会议 人工智能
+18 IJCB International Joint Conference onBiometrics C 会议 人工智能
+19 IJCNN International Joint Conference on Neural Networks C 会议 人工智能
+20 PRICAI Pacific Rim International Conference on Artificial Intelligence C 会议 人工智能
+1 CSCW ACM Conference on Computer Supported Cooperative Work and Social Computing A 会议 人机交互与普适计算
+2 CHI ACM Conference on Human Factors in Computing Systems A 会议 人机交互与普适计算
+3 UbiComp/IMWUT ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies A 会议 人机交互与普适计算
+4 UIST ACM Symposium on User Interface Software and Technology A 会议 人机交互与普适计算
+1 GROUP ACM International Conference on Supporting Group Work B 会议 人机交互与普适计算
+2 IUI ACM International Conference on Intelligent User Interfaces B 会议 人机交互与普适计算
+3 ISS ACM International Conference on Interactive Surfaces and Spaces B 会议 人机交互与普适计算
+4 ECSCW European Conference on Computer Supported Cooperative Work B 会议 人机交互与普适计算
+5 PERCOM IEEE International Conference on Pervasive Computing and Communications B 会议 人机交互与普适计算
+6 MobileHCI ACM International Conference on Mobile Human-Computer Interaction B 会议 人机交互与普适计算
+7 ICWSM The International AAAI Conference on Web and Social Media B 会议 人机交互与普适计算
+1 DIS ACM SIGCHI Conference on Designing Interactive Systems C 会议 人机交互与普适计算
+2 ICMI ACM International Conference on Multimodal Interaction C 会议 人机交互与普适计算
+3 ASSETS International ACM SIGACCESS Conference on Computers and Accessibility C 会议 人机交互与普适计算
+4 GI Graphics Interface C 会议 人机交互与普适计算
+5 UIC IEEE International Conference on Ubiquitous Intelligence and Computing C 会议 人机交互与普适计算
+6 IEEE World Haptics Conference C 会议 人机交互与普适计算
+7 INTERACT International Conference on Human- Computer Interaction of International Federation for Information Processing C 会议 人机交互与普适计算
+8 IDC ACM Interaction Design and Children C 会议 人机交互与普适计算
+9 CollaborateCom International Conference on Collaborative Computing:Networking, Applications and Worksharing C 会议 人机交互与普适计算
+10 CSCWD International Conference on Computer Supported Cooperative Work in Design C 会议 人机交互与普适计算
+11 CoopIS International Conference on Cooperative Information Systems C 会议 人机交互与普适计算
+12 MobiQuitous International Conference on Mobile and Ubiquitous Systems: Computing,Networking and Services C 会议 人机交互与普适计算
+13 AVI International Working Conference on Advanced Visual Interfaces C 会议 人机交互与普适计算
+1 WWW International World Wide Web Conference A 会议 交叉/综合/新兴
+2 RTSS IEEE Real-Time Systems Symposium A 会议 交叉/综合/新兴
+3 WINE Conference on Web and Internet Economics A 会议 交叉/综合/新兴
+1 CogSci Annual Meeting of the Cognitive Science Society B 会议 交叉/综合/新兴
+2 BIBM IEEE International Conference on Bioinformatics and Biomedicine B 会议 交叉/综合/新兴
+3 EMSOFT International Conference on Embedded Software B 会议 交叉/综合/新兴
+4 ISMB International conference on Intelligent Systems for Molecular Biology B 会议 交叉/综合/新兴
+5 RECOMB Annual International Conference on Research inComputational Molecular Biology B 会议 交叉/综合/新兴
+6 MICCAI International Conference on Medical Image Computing and Computer-Assisted Intervention B 会议 交叉/综合/新兴
+1 AMIA American Medical Informatics Association Annual Symposium C 会议 交叉/综合/新兴
+2 APBC Asia Pacific Bioinformatics Conference C 会议 交叉/综合/新兴
+3 IEEE BigData IEEE International Conference on Big Data C 会议 交叉/综合/新兴
+4 IEEE CLOUD IEEE International Conference on Cloud Computing C 会议 交叉/综合/新兴
+5 SMC IEEE International Conference on Systems, Man, and Cybernetics C 会议 交叉/综合/新兴
+6 COSIT International Conference on Spatial Information Theory C 会议 交叉/综合/新兴
+7 ISBRA International Symposium on Bioinformatics Research and Applications C 会议 交叉/综合/新兴
+8 SAGT International Symposium on Algorithmic Game Theory C 会议 交叉/综合/新兴
+9 SIGSPATIAL ACM Special Interest Group on Spatial Information C 会议 交叉/综合/新兴
+10 ICIC International Conference on Intelligent Computing C 会议 交叉/综合/新兴
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /research / Button 7 CCF推荐国际学术期刊 中国计算机学会推荐 A/B/C 类期刊列表 📚]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+学术科研导航
+收起
+谷歌学术搜索
+快捷使用谷歌学术搜索，支持高级检索语拼装
+期刊信息查询
+整合 JCR 与中科院分区，支持 ISSN / 关键词检索
+科研导航
+整合多款搜索与常用科研服务入口
+CCF推荐国际学术会议
+中国计算机学会推荐 A/B/C 类会议列表
+📋
+CCF推荐国际学术期刊
+中国计算机学会推荐 A/B/C 类期刊列表
+📚
+2026 QS世界大学排名
+查看全球大学排名，支持搜索和按国家筛选
+🏆
+Scholar
+搜索
+
+提示：按 Enter 直接打开 Google Scholar，新窗口中可以使用高级筛选。 常用检索语
+
+CCF 推荐国际学术期刊
+×
+所有分类
+A 类
+B 类
+C 类
+所有专业领域
+交叉/综合/新兴
+人工智能
+人机交互与普适计算
+数据库/数据挖掘/内容检索
+网络与信息安全
+计算机体系结构/并行与分布计算/存储系统
+计算机图形学与多媒体
+计算机科学理论
+计算机网络
+软件工程/系统软件/程序设计语言
+
+共找到 281 个期刊
+
+A类
+B类
+C类
+序号 刊物简称 刊物全称 分类 类型 专业领域
+1 TOCS ACM Transactions on Computer Systems A 期刊 计算机体系结构/并行与分布计算/存储系统
+2 TOS ACM Transactions on Storage A 期刊 计算机体系结构/并行与分布计算/存储系统
+3 TCAD IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems A 期刊 计算机体系结构/并行与分布计算/存储系统
+4 TC IEEE Transactions on Computers A 期刊 计算机体系结构/并行与分布计算/存储系统
+5 TPDS IEEE Transactions on Parallel and Distributed Systems A 期刊 计算机体系结构/并行与分布计算/存储系统
+6 TACO ACM Transactions on Architecture and Code Optimization A 期刊 计算机体系结构/并行与分布计算/存储系统
+1 TAAS ACM Transactions on Autonomous and Adaptive Systems B 期刊 计算机体系结构/并行与分布计算/存储系统
+2 TODAES ACM Transactions on Design Automation of Electronic Systems B 期刊 计算机体系结构/并行与分布计算/存储系统
+3 TECS ACM Transactions on Embedded Computing Systems B 期刊 计算机体系结构/并行与分布计算/存储系统
+4 TRETS ACM Transactions on Reconfigurable Technology and Systems B 期刊 计算机体系结构/并行与分布计算/存储系统
+5 TVLSI IEEE Transactions on Very Large Scale Integration (VLSI) Systems B 期刊 计算机体系结构/并行与分布计算/存储系统
+6 JPDC Journal of Parallel and Distributed Computing B 期刊 计算机体系结构/并行与分布计算/存储系统
+7 JSA Journal of Systems Architecture: Embedded Software Design B 期刊 计算机体系结构/并行与分布计算/存储系统
+8 Parallel Computing B 期刊 计算机体系结构/并行与分布计算/存储系统
+9 Performance Evaluation: An International Journal B 期刊 计算机体系结构/并行与分布计算/存储系统
+1 JETC ACM Journal on Emerging Technologies in Computing Systems C 期刊 计算机体系结构/并行与分布计算/存储系统
+2 Concurrency and Computation: Practice and Experience C 期刊 计算机体系结构/并行与分布计算/存储系统
+3 DC Distributed Computing C 期刊 计算机体系结构/并行与分布计算/存储系统
+4 FGCS Future Generation Computer Systems C 期刊 计算机体系结构/并行与分布计算/存储系统
+5 TCC IEEE Transactions on Cloud Computing C 期刊 计算机体系结构/并行与分布计算/存储系统
+6 Integration Integration, the VLSI Journal C 期刊 计算机体系结构/并行与分布计算/存储系统
+7 JETTA Journal of Electronic Testing-Theory and Applications C 期刊 计算机体系结构/并行与分布计算/存储系统
+8 JGC The Journal of Grid computing C 期刊 计算机体系结构/并行与分布计算/存储系统
+9 RTS Real-Time Systems C 期刊 计算机体系结构/并行与分布计算/存储系统
+10 TJSC The Journal of Supercomputing C 期刊 计算机体系结构/并行与分布计算/存储系统
+11 TCASI IEEE Transactions on Circuits and Systems I: Regular Papers C 期刊 计算机体系结构/并行与分布计算/存储系统
+12 CCF-THPC CCF Transactions on High Performance Computing C 期刊 计算机体系结构/并行与分布计算/存储系统
+13 TSUSC IEEE Transactions on Sustainable Computing C 期刊 计算机体系结构/并行与分布计算/存储系统
+1 JSAC IEEE Journal on Selected Areas in Communications A 期刊 计算机网络
+2 TMC IEEE Transactions on Mobile Computing A 期刊 计算机网络
+3 TON IEEE/ACM Transactions on Networking A 期刊 计算机网络
+1 TOIT ACM Transactions on Internet Technology B 期刊 计算机网络
+2 TOMM ACM Transactions on Multimedia Computing, Communications and Applications B 期刊 计算机网络
+3 TOSN ACM Transactions on Sensor Networks B 期刊 计算机网络
+4 CN Computer Networks B 期刊 计算机网络
+5 TCOM IEEE Transactions on Communications B 期刊 计算机网络
+6 TWC IEEE Transactions on Wireless Communications B 期刊 计算机网络
+1 Ad hoc Networks C 期刊 计算机网络
+2 CC Computer Communications C 期刊 计算机网络
+3 TNSM IEEE Transactions on Network and Service Management C 期刊 计算机网络
+4 IET Communications C 期刊 计算机网络
+5 JNCA Journal of Network and Computer Applications C 期刊 计算机网络
+6 MONET Mobile Networks and Applications C 期刊 计算机网络
+7 Networks C 期刊 计算机网络
+8 PPNA Peer-to-Peer Networking and Applications C 期刊 计算机网络
+9 WCMC Wireless Communications and Mobile Computing C 期刊 计算机网络
+10 Wireless Networks C 期刊 计算机网络
+11 IOT IEEE Internet of Things Journal C 期刊 计算机网络
+1 TDSC IEEE Transactions on Dependable and Secure Computing A 期刊 网络与信息安全
+2 TIFS IEEE Transactions on Information Forensics and Security A 期刊 网络与信息安全
+3 Journal of Cryptology A 期刊 网络与信息安全
+1 TOPS ACM Transactions on Privacy and Security B 期刊 网络与信息安全
+2 Computers & Security B 期刊 网络与信息安全
+3 Designs, Codes and Cryptography B 期刊 网络与信息安全
+4 JCS Journal of Computer Security B 期刊 网络与信息安全
+1 CLSR Computer Law & Security Review C 期刊 网络与信息安全
+2 EURASIP Journal on Information Security C 期刊 网络与信息安全
+3 IET Information Security C 期刊 网络与信息安全
+4 IMCS Information and Computer Security C 期刊 网络与信息安全
+5 IJICS International Journal of Information and Computer Security C 期刊 网络与信息安全
+6 IJISP International Journal of Information Security and Privacy C 期刊 网络与信息安全
+7 JISA Journal of Information Security and Applications C 期刊 网络与信息安全
+8 SCN Security and Communication Networks C 期刊 网络与信息安全
+9 Cybersecurity C 期刊 网络与信息安全
+1 TOPLAS ACM Transactions on Programming Languages and Systems A 期刊 软件工程/系统软件/程序设计语言
+2 TOSEM ACM Transactions on Software Engineering and Methodology A 期刊 软件工程/系统软件/程序设计语言
+3 TSE IEEE Transactions on Software Engineering A 期刊 软件工程/系统软件/程序设计语言
+4 TSC IEEE Transactions on Services Computing A 期刊 软件工程/系统软件/程序设计语言
+1 ASE Automated Software Engineering B 期刊 软件工程/系统软件/程序设计语言
+2 ESE Empirical Software Engineering B 期刊 软件工程/系统软件/程序设计语言
+3 IETS IET Software B 期刊 软件工程/系统软件/程序设计语言
+4 IST Information and Software Technology B 期刊 软件工程/系统软件/程序设计语言
+5 JFP Journal of Functional Programming B 期刊 软件工程/系统软件/程序设计语言
+6 Journal of Software: Evolution and Process B 期刊 软件工程/系统软件/程序设计语言
+7 JSS Journal of Systems and Software B 期刊 软件工程/系统软件/程序设计语言
+8 RE Requirements Engineering B 期刊 软件工程/系统软件/程序设计语言
+9 SCP Science of Computer Programming B 期刊 软件工程/系统软件/程序设计语言
+10 SoSyM Software and Systems Modeling B 期刊 软件工程/系统软件/程序设计语言
+11 STVR Software Testing, Verification and Reliability B 期刊 软件工程/系统软件/程序设计语言
+12 SPE Software: Practice and Experience B 期刊 软件工程/系统软件/程序设计语言
+1 CL Computer Languages, Systems and Structures C 期刊 软件工程/系统软件/程序设计语言
+2 IJSEKE International Journal of Software Engineering and Knowledge Engineering C 期刊 软件工程/系统软件/程序设计语言
+3 STTT International Journal of Software Tools for Technology Transfer C 期刊 软件工程/系统软件/程序设计语言
+4 JLAMP Journal of Logical and Algebraic Methods in Programming C 期刊 软件工程/系统软件/程序设计语言
+5 JWE Journal of Web Engineering C 期刊 软件工程/系统软件/程序设计语言
+6 SOCA Service Oriented Computing and Applications C 期刊 软件工程/系统软件/程序设计语言
+7 SQJ Software Quality Journal C 期刊 软件工程/系统软件/程序设计语言
+8 TPLP Theory and Practice of Logic Programming C 期刊 软件工程/系统软件/程序设计语言
+9 PACM PL Proceedings of the ACM on Programming Languages C 期刊 软件工程/系统软件/程序设计语言
+1 TODS ACM Transactions on Database Systems A 期刊 数据库/数据挖掘/内容检索
+2 TOIS ACM Transactions on Information Systems A 期刊 数据库/数据挖掘/内容检索
+3 TKDE IEEE Transactions on Knowledge and Data Engineering A 期刊 数据库/数据挖掘/内容检索
+4 VLDBJ The VLDB Journal A 期刊 数据库/数据挖掘/内容检索
+1 TKDD ACM Transactions on Knowledge Discovery from Data B 期刊 数据库/数据挖掘/内容检索
+2 TWEB ACM Transactions on the Web B 期刊 数据库/数据挖掘/内容检索
+3 AEI Advanced Engineering Informatics B 期刊 数据库/数据挖掘/内容检索
+4 DKE Data & Knowledge Engineering B 期刊 数据库/数据挖掘/内容检索
+5 DMKD Data Mining and Knowledge Discovery B 期刊 数据库/数据挖掘/内容检索
+6 EJIS European Journal of Information Systems B 期刊 数据库/数据挖掘/内容检索
+7 GeoInformatica B 期刊 数据库/数据挖掘/内容检索
+8 IPM Information Processing and Management B 期刊 数据库/数据挖掘/内容检索
+9 Information Sciences B 期刊 数据库/数据挖掘/内容检索
+10 IS Information Systems B 期刊 数据库/数据挖掘/内容检索
+11 JASIST Journal of the Association for Information Science and Technology B 期刊 数据库/数据挖掘/内容检索
+12 JWS Journal of Web Semantics B 期刊 数据库/数据挖掘/内容检索
+13 KAIS Knowledge and Information Systems B 期刊 数据库/数据挖掘/内容检索
+1 DPD Distributed and Parallel Databases C 期刊 数据库/数据挖掘/内容检索
+2 I&M Information & Management C 期刊 数据库/数据挖掘/内容检索
+3 IPL Information Processing Letters C 期刊 数据库/数据挖掘/内容检索
+4 IR Information Retrieval Journal C 期刊 数据库/数据挖掘/内容检索
+5 IJCIS International Journal of Cooperative Information Systems C 期刊 数据库/数据挖掘/内容检索
+6 IJGIS International Journal of Geographical Information Science C 期刊 数据库/数据挖掘/内容检索
+7 IJIS International Journal of Intelligent Systems C 期刊 数据库/数据挖掘/内容检索
+8 IJKM International Journal of Knowledge Management C 期刊 数据库/数据挖掘/内容检索
+9 IJSWIS International Journal on Semantic Web and Information Systems C 期刊 数据库/数据挖掘/内容检索
+10 JCIS Journal of Computer Information Systems C 期刊 数据库/数据挖掘/内容检索
+11 JDM Journal of Database Management C 期刊 数据库/数据挖掘/内容检索
+12 JGITM Journal of Global Information Technology Management C 期刊 数据库/数据挖掘/内容检索
+13 JIIS Journal of Intelligent Information Systems C 期刊 数据库/数据挖掘/内容检索
+14 JSIS The Journal of Strategic Information Systems C 期刊 数据库/数据挖掘/内容检索
+15 DSE Data Science and Engineering C 期刊 数据库/数据挖掘/内容检索
+1 TIT IEEE Transactions on Information Theory A 期刊 计算机科学理论
+2 IANDC Information and Computation A 期刊 计算机科学理论
+3 SICOMP SIAM Journal on Computing A 期刊 计算机科学理论
+1 TALG ACM Transactions on Algorithms B 期刊 计算机科学理论
+2 TOCL ACM Transactions on Computational Logic B 期刊 计算机科学理论
+3 TOMS ACM Transactions on Mathematical Software B 期刊 计算机科学理论
+4 Algorithmica Algorithmica B 期刊 计算机科学理论
+5 CC Computational complexity B 期刊 计算机科学理论
+6 FAC Formal Aspects of Computing B 期刊 计算机科学理论
+7 FMSD Formal Methods in System Design B 期刊 计算机科学理论
+8 INFORMS INFORMS Journal on Computing B 期刊 计算机科学理论
+9 JCSS Journal of Computer and System Sciences B 期刊 计算机科学理论
+10 JGO Journal of Global Optimization B 期刊 计算机科学理论
+11 JSC Journal of Symbolic Computation B 期刊 计算机科学理论
+12 MSCS Mathematical Structures in Computer Science B 期刊 计算机科学理论
+13 TCS Theoretical Computer Science B 期刊 计算机科学理论
+1 ACTA Acta Informatica C 期刊 计算机科学理论
+2 APAL Annals of Pure and Applied Logic C 期刊 计算机科学理论
+3 DAM Discrete Applied Mathematics C 期刊 计算机科学理论
+4 FUIN Fundamenta Informaticae C 期刊 计算机科学理论
+5 IPL Information Processing Letters C 期刊 计算机科学理论
+6 JCOMPLEXITY Journal of Complexity C 期刊 计算机科学理论
+7 LOGCOM Journal of Logic and Computation C 期刊 计算机科学理论
+8 JSL The Journal of Symbolic Logic C 期刊 计算机科学理论
+9 LMCS Logical Methods in Computer Science C 期刊 计算机科学理论
+10 SIDMA SIAM Journal on Discrete Mathematics C 期刊 计算机科学理论
+11 Theory of Computing Systems C 期刊 计算机科学理论
+1 TOG ACM Transactions on Graphics A 期刊 计算机图形学与多媒体
+2 TIP IEEE Transactions on Image Processing A 期刊 计算机图形学与多媒体
+3 TVCG IEEE Transactions on Visualization and Computer Graphics A 期刊 计算机图形学与多媒体
+1 TOMM ACM Transactions on Multimedia Computing,Communications and Applications B 期刊 计算机图形学与多媒体
+2 CAGD Computer Aided Geometric Design B 期刊 计算机图形学与多媒体
+3 CGF Computer Graphics Forum B 期刊 计算机图形学与多媒体
+4 CAD Computer-Aided Design B 期刊 计算机图形学与多媒体
+5 GM Graphical Models B 期刊 计算机图形学与多媒体
+6 TCSVT IEEE Transactions on Circuits and Systems for Video Technology B 期刊 计算机图形学与多媒体
+7 TMM IEEE Transactions on Multimedia B 期刊 计算机图形学与多媒体
+8 JASA The Journal of the Acoustical Society of America B 期刊 计算机图形学与多媒体
+9 SIIMS SIAM Journal on Imaging Sciences B 期刊 计算机图形学与多媒体
+10 SPECOM Speech Communication B 期刊 计算机图形学与多媒体
+1 CGTA Computational Geometry: Theory and Applications C 期刊 计算机图形学与多媒体
+2 CAVW computer animation & virtual worlds C 期刊 计算机图形学与多媒体
+3 C&G Computers & Graphics C 期刊 计算机图形学与多媒体
+4 DCG Discrete & Computational Geometry C 期刊 计算机图形学与多媒体
+5 SPL IEEE Signal Processing Letters C 期刊 计算机图形学与多媒体
+6 IET-IPR IET Image Processing C 期刊 计算机图形学与多媒体
+7 JVCIR Journal of Visual Communication and Image Representation C 期刊 计算机图形学与多媒体
+8 MS Multimedia Systems C 期刊 计算机图形学与多媒体
+9 MTA Multimedia Tools and Applications C 期刊 计算机图形学与多媒体
+10 SIGPRO Signal Processing C 期刊 计算机图形学与多媒体
+11 IMAGE Signal Processing: Image Communication C 期刊 计算机图形学与多媒体
+12 TVC The Visual Computer C 期刊 计算机图形学与多媒体
+13 CVMJ Computational Visual Media C 期刊 计算机图形学与多媒体
+1 AI Artificial Intelligence A 期刊 人工智能
+2 TPAMI IEEE Transactions on Pattern Analysis and Machine Intelligence A 期刊 人工智能
+3 IJCV International Journal of Computer Vision A 期刊 人工智能
+4 JMLR Journal of Machine Learning Research A 期刊 人工智能
+1 TAP ACM Transactions on Applied Perception B 期刊 人工智能
+2 AAMAS Autonomous Agents and Multi-Agent Systems B 期刊 人工智能
+3 Computational Linguistics B 期刊 人工智能
+4 CVIU Computer Vision and Image Understanding B 期刊 人工智能
+5 DKE Data & Knowledge Engineering B 期刊 人工智能
+6 Evolutionary Computation B 期刊 人工智能
+7 TAC IEEE Transactions on Affective Computing B 期刊 人工智能
+8 TASLP IEEE/ACM Transactions on Audio, Speech and Language Processing B 期刊 人工智能
+9 IEEE Transactions on Cybernetics B 期刊 人工智能
+10 TEC IEEE Transactions on Evolutionary Computation B 期刊 人工智能
+11 TFS IEEE Transactions on Fuzzy Systems B 期刊 人工智能
+12 TNNLS IEEE Transactions on Neural Networks and learning systems B 期刊 人工智能
+13 IJAR International Journal of Approximate Reasoning B 期刊 人工智能
+14 JAIR Journal of Artificial Intelligence Research B 期刊 人工智能
+15 Journal of Automated Reasoning B 期刊 人工智能
+16 JSLHR Journal of Speech, Language, and Hearing Research B 期刊 人工智能
+17 Machine Learning B 期刊 人工智能
+18 Neural Computation B 期刊 人工智能
+19 Neural Networks B 期刊 人工智能
+20 PR Pattern Recognition B 期刊 人工智能
+21 TACL Transactions of the Association for Computational Linguistics B 期刊 人工智能
+1 TALLIP ACM Transactions on Asian and Low-Resource Language Information Processing C 期刊 人工智能
+2 Applied Intelligence C 期刊 人工智能
+3 AIM Artificial Intelligence in Medicine C 期刊 人工智能
+4 Artificial Life C 期刊 人工智能
+5 Computational Intelligence C 期刊 人工智能
+6 Computer Speech & Language C 期刊 人工智能
+7 Connection Science C 期刊 人工智能
+8 DSS Decision Support Systems C 期刊 人工智能
+9 EAAI Engineering Applications of Artificial Intelligence C 期刊 人工智能
+10 Expert Systems C 期刊 人工智能
+11 ESWA Expert Systems with Applications C 期刊 人工智能
+12 Fuzzy Sets and Systems C 期刊 人工智能
+13 TG IEEE Transactions on Games C 期刊 人工智能
+14 IET-CVI IET Computer Vision C 期刊 人工智能
+15 IET Signal Processing C 期刊 人工智能
+16 IVC Image and Vision Computing C 期刊 人工智能
+17 IDA Intelligent Data Analysis C 期刊 人工智能
+18 IJCIA International Journal of Computational Intelligence and Applications C 期刊 人工智能
+19 IJIS International Journal of Intelligent Systems C 期刊 人工智能
+20 IJNS International Journal of Neural Systems C 期刊 人工智能
+21 IJPRAI International Journal of Pattern Recognition and Artificial Intelligence C 期刊 人工智能
+22 IJUFKS International Journal of Uncertainty,Fuzziness and Knowledge-Based Systems C 期刊 人工智能
+23 IJDAR International Journal on Document Analysis and Recognition C 期刊 人工智能
+24 JETAI Journal of Experimental and Theoretical Artificial Intelligence C 期刊 人工智能
+25 KBS Knowledge-Based Systems C 期刊 人工智能
+26 Machine Translation C 期刊 人工智能
+27 Machine Vision and Applications C 期刊 人工智能
+28 Natural Computing C 期刊 人工智能
+29 NLE Natural Language Engineering C 期刊 人工智能
+30 NCA Neural Computing and Applications C 期刊 人工智能
+31 NPL Neural Processing Letters C 期刊 人工智能
+32 Neurocomputing C 期刊 人工智能
+33 PAA Pattern Analysis and Applications C 期刊 人工智能
+34 PRL Pattern Recognition Letters C 期刊 人工智能
+35 Soft Computing C 期刊 人工智能
+36 WI Web Intelligence C 期刊 人工智能
+37 TIIS ACM Transactions on Interactive Intelligent Systems C 期刊 人工智能
+1 TOCHI ACM Transactions on Computer-Human Interaction A 期刊 人机交互与普适计算
+2 IJHCS International Journal of Human-Computer Studies A 期刊 人机交互与普适计算
+1 CSCW Computer Supported Cooperative Work B 期刊 人机交互与普适计算
+2 HCI Human-Computer Interaction B 期刊 人机交互与普适计算
+3 IEEE Transactions on Human-Machine Systems B 期刊 人机交互与普适计算
+4 IWC Interacting with Computers B 期刊 人机交互与普适计算
+5 IJHCI International Journal of Human-Computer Interaction B 期刊 人机交互与普适计算
+6 UMUAI User Modeling and User-Adapted Interaction B 期刊 人机交互与普适计算
+7 TSMC IEEE Transactions on Systems, Man, and Cybernetics: Systems B 期刊 人机交互与普适计算
+1 BIT Behaviour & Information Technology C 期刊 人机交互与普适计算
+2 PUC Personal and Ubiquitous Computing C 期刊 人机交互与普适计算
+3 PMC Pervasive and Mobile Computing C 期刊 人机交互与普适计算
+4 PACMHCI Proceedings of the ACM on Human-Computer Interaction C 期刊 人机交互与普适计算
+1 JACM Journal of the ACM A 期刊 交叉/综合/新兴
+2 Proc. IEEE Proceedings of the IEEE A 期刊 交叉/综合/新兴
+3 SCIS Science China Information Sciences A 期刊 交叉/综合/新兴
+1 Bioinformatics B 期刊 交叉/综合/新兴
+2 Briefings in Bioinformatics B 期刊 交叉/综合/新兴
+3 Cognition Cognition B 期刊 交叉/综合/新兴
+4 TASAE IEEE Transactions on Automation Science and Engineering B 期刊 交叉/综合/新兴
+5 TGARS IEEE Transactions on Geoscience and Remote Sensing B 期刊 交叉/综合/新兴
+6 TITS IEEE Transactions on Intelligent Transportation Systems B 期刊 交叉/综合/新兴
+7 TMI IEEE Transactions on Medical Imaging B 期刊 交叉/综合/新兴
+8 TR IEEE Transactions on Robotics B 期刊 交叉/综合/新兴
+9 TCBB IEEE-ACM Transactions on Computational Biology and Bioinformatics B 期刊 交叉/综合/新兴
+10 JCST Journal of Computer Science and Technology B 期刊 交叉/综合/新兴
+11 JAMIA Journal of the American Medical Informatics Association B 期刊 交叉/综合/新兴
+12 PLOS Computational Biology B 期刊 交叉/综合/新兴
+13 The Computer Journal B 期刊 交叉/综合/新兴
+14 WWW World Wide Web B 期刊 交叉/综合/新兴
+15 FCS Frontiers of Computer Science B 期刊 交叉/综合/新兴
+1 BMC Bioinformatics C 期刊 交叉/综合/新兴
+2 Cybernetics and Systems C 期刊 交叉/综合/新兴
+3 IEEE Geoscience and Remote Sensing Letters C 期刊 交叉/综合/新兴
+4 JBHI IEEE Journal of Biomedical and Health Informatics C 期刊 交叉/综合/新兴
+5 TBD IEEE Transactions on Big Data C 期刊 交叉/综合/新兴
+6 IET Intelligent Transport Systems C 期刊 交叉/综合/新兴
+7 JBI Journal of Biomedical Informatics C 期刊 交叉/综合/新兴
+8 Medical Image Analysis C 期刊 交叉/综合/新兴
+9 TII IEEE Transactions on Industrial Informatics C 期刊 交叉/综合/新兴
+10 TCPS ACM Transactions on Cyber-Physical Systems C 期刊 交叉/综合/新兴
+11 TOCE ACM Transactions on Computing Education C 期刊 交叉/综合/新兴
+12 FITEE Frontiers of Information Technology & Electronic Engineering C 期刊 交叉/综合/新兴
+13 TCSS IEEE Transactions on Computational Social Systems C 期刊 交叉/综合/新兴
+14 IEEE Transactions on Reliability C 期刊 交叉/综合/新兴
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /research / Button 8 2026 QS世界大学排名 查看全球大学排名，支持搜索和按国家筛选 🏆]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+学术科研导航
+收起
+谷歌学术搜索
+快捷使用谷歌学术搜索，支持高级检索语拼装
+期刊信息查询
+整合 JCR 与中科院分区，支持 ISSN / 关键词检索
+科研导航
+整合多款搜索与常用科研服务入口
+CCF推荐国际学术会议
+中国计算机学会推荐 A/B/C 类会议列表
+📋
+CCF推荐国际学术期刊
+中国计算机学会推荐 A/B/C 类期刊列表
+📚
+2026 QS世界大学排名
+查看全球大学排名，支持搜索和按国家筛选
+🏆
+Scholar
+搜索
+
+提示：按 Enter 直接打开 Google Scholar，新窗口中可以使用高级筛选。 常用检索语
+
+2026 QS 世界大学排名
+×
+
+正在加载排名数据...
+
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /systems]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+FTSM 系统导航
+
+学院校历、地图、师资等信息查询
+
+收起
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+硕士课程结构
+
+查看FTSM各硕士课程的详细课程结构
+
+查看课程结构
+网络安全硕士课程表
+
+网络安全硕士2025-2026学年课程时间安排
+
+查看课程表
+数据科学硕士课程表
+
+数据科学硕士2025-2026学年课程时间安排
+
+查看课程表
+健康信息学硕士课程表
+
+健康信息学硕士2025-2026学年课程时间安排
+
+查看课程表
+硕士课程协调员
+
+硕士课程协调员及行政秘书联系方式
+
+查看联系方式
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+FTSM学院官网
+
+信息科学技术学院官方网站
+
+访问官网
+FTSM教授讲师信息
+
+查询信息科学技术学院教授和讲师的信息
+
+查看师资
+FTSM不同领域专家
+
+查询信息科学技术学院各个研究领域的专家
+
+查看专家
+UKM 系统导航
+
+常用办事系统一站式入口
+
+收起
+SMPWEB 学生档案
+
+进行每学期课程注册、查看个人档案与学籍信息。
+
+进入 SMPWEB
+UKM FOLIO 上课系统
+
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+
+查询学费账单、付款记录及奖助学金发放情况。
+
+进入财务系统
+UKM 教授成果查询
+
+检索教授发表文章及研究方向，方便对接导师。
+
+UKM Sarjana
+UKM Library 电子资源
+
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+
+UKM e-Resources
+学生签证办理和续签
+
+查询UKMShape最新的国际学生签证程序
+
+签证办理
+EMGS进度查询
+
+查询签证办理的实时进度
+
+进度查询
+MDAC电子入境卡
+
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+
+MDAC官网
+MyRapid公交路线查询
+
+查询公交实时位置信息
+
+公交查询
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /systems / Button 3 查看校历 / 校历 查看2025-2026学年校历安排 查看校历]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+FTSM 系统导航
+
+学院校历、地图、师资等信息查询
+
+收起
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+硕士课程结构
+
+查看FTSM各硕士课程的详细课程结构
+
+查看课程结构
+网络安全硕士课程表
+
+网络安全硕士2025-2026学年课程时间安排
+
+查看课程表
+数据科学硕士课程表
+
+数据科学硕士2025-2026学年课程时间安排
+
+查看课程表
+健康信息学硕士课程表
+
+健康信息学硕士2025-2026学年课程时间安排
+
+查看课程表
+硕士课程协调员
+
+硕士课程协调员及行政秘书联系方式
+
+查看联系方式
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+FTSM学院官网
+
+信息科学技术学院官方网站
+
+访问官网
+FTSM教授讲师信息
+
+查询信息科学技术学院教授和讲师的信息
+
+查看师资
+FTSM不同领域专家
+
+查询信息科学技术学院各个研究领域的专家
+
+查看专家
+UKM 2025-2026 学年校历
+×
+‹
+2026年 五月
+›
+今天
+日
+一
+二
+三
+四
+五
+六
+1
+三月十五
+2
+三月十六
+3
+三月十七
+4
+三月十八
+5
+三月十九
+6
+三月二十
+7
+三月廿一
+8
+三月廿二
+9
+三月廿三
+10
+三月廿四
+11
+三月廿五
+12
+三月廿六
+13
+三月廿七
+14
+三月廿八
+15
+三月廿九
+16
+三月三十
+17
+四月初一
+18
+四月初二
+19
+四月初三
+20
+四月初四
+21
+四月初五
+22
+四月初六
+23
+四月初七
+24
+四月初八
+25
+四月初九
+26
+四月初十
+27
+四月十一
+28
+四月十二
+29
+四月十三
+30
+四月十四
+31
+四月十五
+图例说明
+注册
+上课
+期中休息
+毕业典礼
+期末复习周
+期末考试
+假期
+公共假期
+2026-05-28
+第二学期上课
+UKM 系统导航
+
+常用办事系统一站式入口
+
+收起
+SMPWEB 学生档案
+
+进行每学期课程注册、查看个人档案与学籍信息。
+
+进入 SMPWEB
+UKM FOLIO 上课系统
+
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+
+查询学费账单、付款记录及奖助学金发放情况。
+
+进入财务系统
+UKM 教授成果查询
+
+检索教授发表文章及研究方向，方便对接导师。
+
+UKM Sarjana
+UKM Library 电子资源
+
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+
+UKM e-Resources
+学生签证办理和续签
+
+查询UKMShape最新的国际学生签证程序
+
+签证办理
+EMGS进度查询
+
+查询签证办理的实时进度
+
+进度查询
+MDAC电子入境卡
+
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+
+MDAC官网
+MyRapid公交路线查询
+
+查询公交实时位置信息
+
+公交查询
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /systems / Button 4 查看课程表 / 硕士课程表（课程模式） FTSM硕士研究生课程时间表（课程模式） 查看课程表]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+FTSM 系统导航
+
+学院校历、地图、师资等信息查询
+
+收起
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+硕士课程结构
+
+查看FTSM各硕士课程的详细课程结构
+
+查看课程结构
+网络安全硕士课程表
+
+网络安全硕士2025-2026学年课程时间安排
+
+查看课程表
+数据科学硕士课程表
+
+数据科学硕士2025-2026学年课程时间安排
+
+查看课程表
+健康信息学硕士课程表
+
+健康信息学硕士2025-2026学年课程时间安排
+
+查看课程表
+硕士课程协调员
+
+硕士课程协调员及行政秘书联系方式
+
+查看联系方式
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+FTSM学院官网
+
+信息科学技术学院官方网站
+
+访问官网
+FTSM教授讲师信息
+
+查询信息科学技术学院教授和讲师的信息
+
+查看师资
+FTSM不同领域专家
+
+查询信息科学技术学院各个研究领域的专家
+
+查看专家
+FACULTY OF INFORMATION SCIENCE AND TECHNOLOGY
+
+POSTGRADUATE TIMETABLE (COURSE WORK MODE)
+
+×
+最新
+SEM 2 · 2025/2026
+已过期
+SEM 1 · 2025/2026
+星期一
+09:00–13:00
+TC6244
+Advanced Machine Learning
+讲师:
+NurSamsiah/Shanorbanun
+地点:
+BK16, Block F
+TE6304
+Software Engineering Practice
+讲师:
+Zulkefli
+地点:
+BK14, Block F
+TN6014
+Network Modeling and Simulation
+讲师:
+Azana Hafizah
+地点:
+BK15, Block F
+14:00–18:00
+TH6124
+Interface Design
+讲师:
+Tengku Siti Meriam Tg Wook/Siti Fadzilah
+地点:
+BK15, Block F
+星期二
+09:00–13:00
+TP6084
+Information Retrieval
+讲师:
+Shahrul Azman Mohd Noah, Nurlzyan
+地点:
+BK16, Block F
+TN6224
+Computer Security and Defense
+讲师:
+MKamrul
+地点:
+BK14, Block F
+TM6124
+Advanced Research Methods in Computing
+讲师:
+Program Coordinator
+地点:
+Online
+14:00–18:00
+TC6544
+Advanced Artificial Intelligence
+讲师:
+Salwani/Amirin
+地点:
+BK16, Block F
+TH6234
+Mix Reality
+讲师:
+Lam Meng Chun
+地点:
+BK15, Block F
+15:00–19:00
+TR6244
+Simulation Modelling
+讲师:
+Zainal Rasyid
+地点:
+MP2, Block B
+星期三
+09:00–13:00
+TP6554
+Computational Social Science
+讲师:
+Masnizah
+地点:
+BK14, Block F
+TU6234
+Data Warehousing
+讲师:
+MFaidzul
+地点:
+BK15, Block F
+星期四
+09:00–13:00
+TC6414
+Knowledge Discovery and Data Mining
+讲师:
+Zalinda
+地点:
+BK14, Block F
+TN6484
+System and Network Management
+讲师:
+Azana Hafizah
+地点:
+BK16, Block F
+14:00–18:00
+TH6114
+Game Art and 3D Modeling
+讲师:
+Hafizah/Rimaniza
+地点:
+BK12, Block F
+TU6294
+Project and Change Management
+讲师:
+Yazrina
+地点:
+BK16, Block F
+星期五
+09:00–13:00
+TA6434
+Advanced Algorithm and Data Structure
+讲师:
+Kauthar/Syshanim
+地点:
+BK16, Block F
+TU6134
+Business Process Management
+讲师:
+Dalbir Singh
+地点:
+BK14, Block F
+星期六
+09:00–13:00
+TM6112
+Research Method in Computing
+讲师:
+Program Coordinator
+地点:
+Online
+TM6114
+Set 1 Research Method in Computing
+讲师:
+Program Coordinator
+地点:
+Online
+星期日
+09:00–13:00
+TM6114
+Set 2 Research Method in Computing
+讲师:
+Program Coordinator
+地点:
+Online
+
+注意:
+
+课程时间表可能会根据实际情况进行调整，请以最新通知为准。
+最后更新：2026年03月15日 2025/2026第2学期课程表。
+UKM 系统导航
+
+常用办事系统一站式入口
+
+收起
+SMPWEB 学生档案
+
+进行每学期课程注册、查看个人档案与学籍信息。
+
+进入 SMPWEB
+UKM FOLIO 上课系统
+
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+
+查询学费账单、付款记录及奖助学金发放情况。
+
+进入财务系统
+UKM 教授成果查询
+
+检索教授发表文章及研究方向，方便对接导师。
+
+UKM Sarjana
+UKM Library 电子资源
+
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+
+UKM e-Resources
+学生签证办理和续签
+
+查询UKMShape最新的国际学生签证程序
+
+签证办理
+EMGS进度查询
+
+查询签证办理的实时进度
+
+进度查询
+MDAC电子入境卡
+
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+
+MDAC官网
+MyRapid公交路线查询
+
+查询公交实时位置信息
+
+公交查询
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /systems / Button 5 查看课程结构 / 硕士课程结构 查看FTSM各硕士课程的详细课程结构 查看课程结构]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+FTSM 系统导航
+
+学院校历、地图、师资等信息查询
+
+收起
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+硕士课程结构
+
+查看FTSM各硕士课程的详细课程结构
+
+查看课程结构
+网络安全硕士课程表
+
+网络安全硕士2025-2026学年课程时间安排
+
+查看课程表
+数据科学硕士课程表
+
+数据科学硕士2025-2026学年课程时间安排
+
+查看课程表
+健康信息学硕士课程表
+
+健康信息学硕士2025-2026学年课程时间安排
+
+查看课程表
+硕士课程协调员
+
+硕士课程协调员及行政秘书联系方式
+
+查看联系方式
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+FTSM学院官网
+
+信息科学技术学院官方网站
+
+访问官网
+FTSM教授讲师信息
+
+查询信息科学技术学院教授和讲师的信息
+
+查看师资
+FTSM不同领域专家
+
+查询信息科学技术学院各个研究领域的专家
+
+查看专家
+FTSM 硕士课程结构
+选择课程
+Master in Software Engineering
+Master in Artificial Intelligence
+Master in Computer Science (Network Technology)
+Master in Information Technology
+Master in Information Science
+Master in Creative Media Technology
+Master in Information System
+Master in Computer Science
+Master in Computing
+Master in Cyber Security
+Master in Health Informatics
+Master in Data Science
+Master in Computer Science
+1. Course Work
+必修课（20学分）
+TA6434 Advanced Algorithms & Data Structure
+TC6544 Advanced Artificial Intelligence
+TR6144 Emerging Technologies and Innovations
+TN6484 Networking and System Management
+TM6114 Research Method in Computing
+选修课（8学分）
+TA6604 HPC Architecture and Technologies
+TA6124 Parallel and Distributed System
+TA6054 Advanced Numerical Analysis
+TR6514 Mobile and Ubiquitous Computing
+TP6534 Natural Language Processing
+TA6024 Theory of Computation
+TC6404 Image Processing and Computer Vision
+TC6244 Machine Learning
+TTTN6014 Network modelling and simulation
+TTTN6224 Computer Security & Defence
+TTTA6024 Theory of Computation
+TTTC6244 Machine Learning
+论文（12学分）
+TTTK6074 Project I
+TTTK6078 Project II
+2. Course Work & Research
+必修课（12学分）
+TTTM6114 Research Method in Computing
+TTTA6434 Advanced Algorithms & Data Structure
+TTTR6144 Emerging Technologies and Innovations
+选修课（12学分）
+TA6054 Advanced Numerical Analysis
+TR6514 Mobile and Ubiquitous Computing
+TC6404 Image Processing and Computer Vision
+TC6244 Machine Learning
+TA6124 Parallel and Distributed System
+TA6604 HPC Architecture and Technologies
+TP6534 Natural Language Processing
+TN6484 Networking and System Management
+TN6014 Network modelling and simulation
+TN6224 Computer Security and Defence
+TC6244 Machine Learning
+TC6544 Advanced Artificial Intelligence
+论文（28学分）
+TH617C Dissertation I
+TH617G Dissertation II
+选课建议（仅适用于课程模式）
+1年毕业：
+第一学期：Project 1、TM6114必选，2必修+1选修，总计20学分
+第二学期：2必修+1选修+Project 2+马来语，总计20学分
+1.5年毕业：
+第一学期：2必修+2选修+马来语，总计16学分
+第二学期：2必修+TM6114+Project 1，总计16学分
+第三学期：Project 2，总计8学分
+
+注意：
+
+上述选课建议来自多数学长学姐选课建议，仅供参考，务必以实际情况为准。
+选修课：务必从课程结构中选2个，不得选择课程结构中以外的课程。若特殊情况，需和课程协调员沟通。
+UKM 系统导航
+
+常用办事系统一站式入口
+
+收起
+SMPWEB 学生档案
+
+进行每学期课程注册、查看个人档案与学籍信息。
+
+进入 SMPWEB
+UKM FOLIO 上课系统
+
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+
+查询学费账单、付款记录及奖助学金发放情况。
+
+进入财务系统
+UKM 教授成果查询
+
+检索教授发表文章及研究方向，方便对接导师。
+
+UKM Sarjana
+UKM Library 电子资源
+
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+
+UKM e-Resources
+学生签证办理和续签
+
+查询UKMShape最新的国际学生签证程序
+
+签证办理
+EMGS进度查询
+
+查询签证办理的实时进度
+
+进度查询
+MDAC电子入境卡
+
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+
+MDAC官网
+MyRapid公交路线查询
+
+查询公交实时位置信息
+
+公交查询
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /systems / Button 6 查看课程表 / 网络安全硕士课程表 网络安全硕士2025-2026学年课程时间安排 查看课程表]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+FTSM 系统导航
+
+学院校历、地图、师资等信息查询
+
+收起
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+硕士课程结构
+
+查看FTSM各硕士课程的详细课程结构
+
+查看课程结构
+网络安全硕士课程表
+
+网络安全硕士2025-2026学年课程时间安排
+
+查看课程表
+数据科学硕士课程表
+
+数据科学硕士2025-2026学年课程时间安排
+
+查看课程表
+健康信息学硕士课程表
+
+健康信息学硕士2025-2026学年课程时间安排
+
+查看课程表
+硕士课程协调员
+
+硕士课程协调员及行政秘书联系方式
+
+查看联系方式
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+FTSM学院官网
+
+信息科学技术学院官方网站
+
+访问官网
+FTSM教授讲师信息
+
+查询信息科学技术学院教授和讲师的信息
+
+查看师资
+FTSM不同领域专家
+
+查询信息科学技术学院各个研究领域的专家
+
+查看专家
+网络安全硕士课程时间表
+第一学期
+第二学期
+2025-2026 第一学期
+2025年10月6日-2025年10月10日
+[C] TTTX6114 COMPUTER SECURITY
+地点：Cyber Security Lab
+讲师：DR ROSSILAWATI SULAIMAN
+2025年10月13日-2025年10月17日
+[C] TTTX6144 INFORMATION SECURITY MANAGEMENT
+地点：BK7, Block G
+讲师：DR ROZILAWATI RAZALI
+2025年10月13日-2025年10月17日
+[E] TTTX6254 SECURITY AUDIT AND ASSESSMENT
+地点：Cyber Security Lab
+讲师：DR. IBRAHIM MOHAMED
+2025年11月3日-2025年11月7日
+[C] TTTX6124 NETWORK SECURITY
+地点：Cyber Security Lab
+讲师：DR KHAIRUL AZMI ABU BAKAR
+2025年11月3日-2025年11月7日
+[C] TTTX6134 CYBERLAW AND ETHICS
+地点：BK7, Block G
+讲师：AP DR MASNIZAH MOHD
+2025年11月17日-2025年11月21日
+[E] TTTD6214 DATA RECOVERY & ANALYSIS
+地点：Cyber Security Lab
+讲师：AP DR KHAIRUL AKRAM ZAINOLARIFFIN
+2025年12月1日-2025年12月5日
+[E] TTTD6314 DIGITAL MEDIA FORENSIC ANALYSIS
+地点：Cyber Security Lab
+讲师：DR KOK VEN JYN
+2025年12月15日-2025年12月19日
+[E] TTTX6244 ETHICAL HACKING AND PENETRATION TESTING
+地点：Cyber Security Lab
+讲师：DR WAN FARIZA
+2026年1月26日-2026年2月15日
+考试周
+
+注意：
+
+[C] = 核心模块，[E] = 选修模块
+所有课程（全日制和非全日制）均以面授形式进行，时间为周一至周五上午 8:30 至下午 5:30
+所提供模块的开课时间取决于课程最低名额，如有取消，恕不另行通知
+以上时间表可能会有所变更
+UKM 系统导航
+
+常用办事系统一站式入口
+
+收起
+SMPWEB 学生档案
+
+进行每学期课程注册、查看个人档案与学籍信息。
+
+进入 SMPWEB
+UKM FOLIO 上课系统
+
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+
+查询学费账单、付款记录及奖助学金发放情况。
+
+进入财务系统
+UKM 教授成果查询
+
+检索教授发表文章及研究方向，方便对接导师。
+
+UKM Sarjana
+UKM Library 电子资源
+
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+
+UKM e-Resources
+学生签证办理和续签
+
+查询UKMShape最新的国际学生签证程序
+
+签证办理
+EMGS进度查询
+
+查询签证办理的实时进度
+
+进度查询
+MDAC电子入境卡
+
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+
+MDAC官网
+MyRapid公交路线查询
+
+查询公交实时位置信息
+
+公交查询
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /systems / Button 7 查看课程表 / 数据科学硕士课程表 数据科学硕士2025-2026学年课程时间安排 查看课程表]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+FTSM 系统导航
+
+学院校历、地图、师资等信息查询
+
+收起
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+硕士课程结构
+
+查看FTSM各硕士课程的详细课程结构
+
+查看课程结构
+网络安全硕士课程表
+
+网络安全硕士2025-2026学年课程时间安排
+
+查看课程表
+数据科学硕士课程表
+
+数据科学硕士2025-2026学年课程时间安排
+
+查看课程表
+健康信息学硕士课程表
+
+健康信息学硕士2025-2026学年课程时间安排
+
+查看课程表
+硕士课程协调员
+
+硕士课程协调员及行政秘书联系方式
+
+查看联系方式
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+FTSM学院官网
+
+信息科学技术学院官方网站
+
+访问官网
+FTSM教授讲师信息
+
+查询信息科学技术学院教授和讲师的信息
+
+查看师资
+FTSM不同领域专家
+
+查询信息科学技术学院各个研究领域的专家
+
+查看专家
+数据科学硕士课程时间表
+第一学期
+第二学期
+2025-2026 第一学期
+2025年10月6日-2025年10月10日
+[C] TTTC6424 FUNDAMENTAL OF DATA SCIENCE
+地点：Data Science Lab
+讲师：PROF DR AZURALIZA ABU BAKAR & AP DR SUHAILA ZAINUDIN
+2025年11月3日-2025年11月7日
+[C] TTTR6124 STATISTICAL METHODS FOR DATA ANALYTICS
+地点：Data Science Lab
+讲师：AP DR SHAHNORBANUN SAHRAN & PN SITI AISHAH HANAWI
+2025年11月17日-2025年11月21日
+[C] TTTC6444 MACHINE LEARNING FOR DATA SCIENCE
+地点：Data Science Lab
+讲师：AP DR NOR SAMSIAH SANI & DR AFZAN ADAM
+2025年12月1日-2025年12月5日
+[E] TTTU6434 BIG DATA ANALYTICS AND MANAGEMENT
+地点：Data Science Lab
+讲师：AP DR MOHD RIDZWAN YAAKUB & AP DR ELANKOVAN A. SUNDARARAJAN
+2025年12月1日-2025年12月5日
+[C] TTTU6314 BUSINESS ANALYTICS
+地点：BK7, Block G
+讲师：AP DR MOHD ZAKREE AHMAD NAZRI & DR KAUTHAR MD DAUD
+2025年12月15日-2025年12月19日
+[E] TTTP6234 UNSTRUCTURED DATA ANALYTICS
+地点：Data Science Lab
+讲师：AP DR NAZLIA OMAR
+2026年1月26日-2026年2月15日
+考试周
+
+注意：
+
+[C] = 核心模块，[E] = 选修模块
+所有课程（全日制和非全日制）均以面授形式进行，时间为周一至周五上午 8:30 至下午 5:30
+所提供模块的开课时间取决于课程最低名额，如有取消，恕不另行通知
+以上时间表可能会有所变更
+UKM 系统导航
+
+常用办事系统一站式入口
+
+收起
+SMPWEB 学生档案
+
+进行每学期课程注册、查看个人档案与学籍信息。
+
+进入 SMPWEB
+UKM FOLIO 上课系统
+
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+
+查询学费账单、付款记录及奖助学金发放情况。
+
+进入财务系统
+UKM 教授成果查询
+
+检索教授发表文章及研究方向，方便对接导师。
+
+UKM Sarjana
+UKM Library 电子资源
+
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+
+UKM e-Resources
+学生签证办理和续签
+
+查询UKMShape最新的国际学生签证程序
+
+签证办理
+EMGS进度查询
+
+查询签证办理的实时进度
+
+进度查询
+MDAC电子入境卡
+
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+
+MDAC官网
+MyRapid公交路线查询
+
+查询公交实时位置信息
+
+公交查询
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /systems / Button 8 查看课程表 / 健康信息学硕士课程表 健康信息学硕士2025-2026学年课程时间安排 查看课程表]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+FTSM 系统导航
+
+学院校历、地图、师资等信息查询
+
+收起
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+硕士课程结构
+
+查看FTSM各硕士课程的详细课程结构
+
+查看课程结构
+网络安全硕士课程表
+
+网络安全硕士2025-2026学年课程时间安排
+
+查看课程表
+数据科学硕士课程表
+
+数据科学硕士2025-2026学年课程时间安排
+
+查看课程表
+健康信息学硕士课程表
+
+健康信息学硕士2025-2026学年课程时间安排
+
+查看课程表
+硕士课程协调员
+
+硕士课程协调员及行政秘书联系方式
+
+查看联系方式
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+FTSM学院官网
+
+信息科学技术学院官方网站
+
+访问官网
+FTSM教授讲师信息
+
+查询信息科学技术学院教授和讲师的信息
+
+查看师资
+FTSM不同领域专家
+
+查询信息科学技术学院各个研究领域的专家
+
+查看专家
+健康信息学硕士课程时间表
+第一学期
+第二学期
+2025-2026 第一学期
+2025年10月6日-2025年10月10日
+[E] TTTC6424 FUNDAMENTAL OF DATA SCIENCE
+地点：Data Science Lab
+讲师：PROF DR AZURALIZA ABU BAKAR & AP DR SUHAILA ZAINUDIN
+2025年10月13日-2025年10月17日
+[C] TTTS6024 INFORMATION MODELING AND DATABASES
+地点：Data Science Lab
+讲师：DR HAFIZ MOHD SARIM & PROF DR ZULAIHA ALI OTHMAN
+2025年11月3日-2025年11月7日
+[E] TTTX6134 CYBERLAW AND ETHICS
+地点：BK7, Block G
+讲师：AP DR MASNIZAH MOHD
+2025年11月17日-2025年11月21日
+[C] TTTY6024 HEALTH INFORMATICS
+地点：BK7, Block G
+讲师：AP DR MARYATI MOHD YUSOF
+2025年11月17日-2025年11月21日
+[E] TTTC6444 MACHINE LEARNING FOR DATA SCIENCE
+地点：Data Science Lab
+讲师：AP DR NOR SAMSIAH SANI & DR AFZAN ADAM
+2025年12月1日-2025年12月5日
+[E] TTTU6314 BUSINESS ANALYTICS
+地点：BK7, Block G
+讲师：AP DR MOHD ZAKREE AHMAD NAZRI & DR KAUTHAR MD DAUD
+2025年12月15日-2025年12月19日
+[C] TTTY6034 ANALYSIS AND DESIGN OF HEALTH INFORMATION SYSTEMS
+地点：BK7, Block G
+讲师：DR. HASIMI SALLEHUDDIN & DR ZAIHOSNITA HOOD
+2026年1月26日-2026年2月15日
+考试周
+
+注意：
+
+[C] = 核心模块，[E] = 选修模块
+所有课程（全日制和非全日制）均以面授形式进行，时间为周一至周五上午 8:30 至下午 5:30
+所提供模块的开课时间取决于课程最低名额，如有取消，恕不另行通知
+以上时间表可能会有所变更
+UKM 系统导航
+
+常用办事系统一站式入口
+
+收起
+SMPWEB 学生档案
+
+进行每学期课程注册、查看个人档案与学籍信息。
+
+进入 SMPWEB
+UKM FOLIO 上课系统
+
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+
+查询学费账单、付款记录及奖助学金发放情况。
+
+进入财务系统
+UKM 教授成果查询
+
+检索教授发表文章及研究方向，方便对接导师。
+
+UKM Sarjana
+UKM Library 电子资源
+
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+
+UKM e-Resources
+学生签证办理和续签
+
+查询UKMShape最新的国际学生签证程序
+
+签证办理
+EMGS进度查询
+
+查询签证办理的实时进度
+
+进度查询
+MDAC电子入境卡
+
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+
+MDAC官网
+MyRapid公交路线查询
+
+查询公交实时位置信息
+
+公交查询
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /systems / Button 9 查看联系方式 / 硕士课程协调员 硕士课程协调员及行政秘书联系方式 查看联系方式]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+FTSM 系统导航
+
+学院校历、地图、师资等信息查询
+
+收起
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+硕士课程结构
+
+查看FTSM各硕士课程的详细课程结构
+
+查看课程结构
+网络安全硕士课程表
+
+网络安全硕士2025-2026学年课程时间安排
+
+查看课程表
+数据科学硕士课程表
+
+数据科学硕士2025-2026学年课程时间安排
+
+查看课程表
+健康信息学硕士课程表
+
+健康信息学硕士2025-2026学年课程时间安排
+
+查看课程表
+硕士课程协调员
+
+硕士课程协调员及行政秘书联系方式
+
+查看联系方式
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+FTSM学院官网
+
+信息科学技术学院官方网站
+
+访问官网
+FTSM教授讲师信息
+
+查询信息科学技术学院教授和讲师的信息
+
+查看师资
+FTSM不同领域专家
+
+查询信息科学技术学院各个研究领域的专家
+
+查看专家
+硕士课程协调员
+硕士（课程模式）
+协调员
+Dr. Ahmad Tarmizi Abdul Ghani
+atag@ukm.edu.my
+行政秘书
+Nur Iffah Syaheera Md Khair
+nuriffahsyaheera@ukm.edu.my
+硕士（混合模式）
+协调员
+Dr. Wandeep Kaur a/p Ratan Singh
+wandeep@ukm.edu.my
+行政秘书
+Syafiqah Najwa Jamali
+snajwajamali@ukm.edu.my
+UKM 系统导航
+
+常用办事系统一站式入口
+
+收起
+SMPWEB 学生档案
+
+进行每学期课程注册、查看个人档案与学籍信息。
+
+进入 SMPWEB
+UKM FOLIO 上课系统
+
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+
+查询学费账单、付款记录及奖助学金发放情况。
+
+进入财务系统
+UKM 教授成果查询
+
+检索教授发表文章及研究方向，方便对接导师。
+
+UKM Sarjana
+UKM Library 电子资源
+
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+
+UKM e-Resources
+学生签证办理和续签
+
+查询UKMShape最新的国际学生签证程序
+
+签证办理
+EMGS进度查询
+
+查询签证办理的实时进度
+
+进度查询
+MDAC电子入境卡
+
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+
+MDAC官网
+MyRapid公交路线查询
+
+查询公交实时位置信息
+
+公交查询
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /systems / Button 10 查看学院地图 / FTSM学院地图 交互式学院平面图，点击建筑查看教室分布 查看学院地图]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+FTSM 系统导航
+
+学院校历、地图、师资等信息查询
+
+收起
+校历
+
+查看2025-2026学年校历安排
+
+查看校历
+硕士课程表（课程模式）
+
+FTSM硕士研究生课程时间表（课程模式）
+
+查看课程表
+硕士课程结构
+
+查看FTSM各硕士课程的详细课程结构
+
+查看课程结构
+网络安全硕士课程表
+
+网络安全硕士2025-2026学年课程时间安排
+
+查看课程表
+数据科学硕士课程表
+
+数据科学硕士2025-2026学年课程时间安排
+
+查看课程表
+健康信息学硕士课程表
+
+健康信息学硕士2025-2026学年课程时间安排
+
+查看课程表
+硕士课程协调员
+
+硕士课程协调员及行政秘书联系方式
+
+查看联系方式
+FTSM学院地图
+
+交互式学院平面图，点击建筑查看教室分布
+
+查看学院地图
+FTSM学院官网
+
+信息科学技术学院官方网站
+
+访问官网
+FTSM教授讲师信息
+
+查询信息科学技术学院教授和讲师的信息
+
+查看师资
+FTSM不同领域专家
+
+查询信息科学技术学院各个研究领域的专家
+
+查看专家
+FTSM 学院地图
+
+点击建筑查看楼内教室
+
+×
+底图
+学院平面图
+卫星图
+覆盖层透明度 40%
+选择一栋建筑以查看教室列表
+Block A
+Block B
+Block C
+Block D
+Block E
+Block F
+Block G
+Block H
+Dewan Multimedia
+UKM 系统导航
+
+常用办事系统一站式入口
+
+收起
+SMPWEB 学生档案
+
+进行每学期课程注册、查看个人档案与学籍信息。
+
+进入 SMPWEB
+UKM FOLIO 上课系统
+
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+
+查询学费账单、付款记录及奖助学金发放情况。
+
+进入财务系统
+UKM 教授成果查询
+
+检索教授发表文章及研究方向，方便对接导师。
+
+UKM Sarjana
+UKM Library 电子资源
+
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+
+UKM e-Resources
+学生签证办理和续签
+
+查询UKMShape最新的国际学生签证程序
+
+签证办理
+EMGS进度查询
+
+查询签证办理的实时进度
+
+进度查询
+MDAC电子入境卡
+
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+
+MDAC官网
+MyRapid公交路线查询
+
+查询公交实时位置信息
+
+公交查询
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 3 查看指南 / UKM注册指南 新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+UKM注册指南
+×
+一、线上注册
+
+通过JoinUKM系统使用UKM Pay进行学费缴纳，可使用国内Visa或Master信用卡，将学费交费单据、Eval、EMGS等全部资料(手头有的)，统统扫描上传到JoinUKM系统。
+
+二、体检流程
+【校医院】
+
+提前打印填写"Report of Health Examination Form"→到校医院→19号窗口→交表格和250马体检费→A3, A2, A1检查一遍→回A3等待报告单→回19号窗口交报告单→叫号让医生盖章签字→校医院2楼复印室进行复印(约5马，只收现金)→19号窗口交原件和复印件→扫描体检报告(原件+复印件第一页)上传JoinUKM系统。
+
+📎 下载 Report of Health Examination Form
+
+注意：需要抽血和验尿，多喝水！多喝水！
+
+【校外医院】
+
+校外指定医院→体检后拿到体检报告→带着X光片和报告到校医院叫号让医生盖章签字→校医院2楼复印室进行复印(约5马，只收现金)→扫描体检报告(原件+复印件第一页)上传JoinUKM系统。
+
+三、认证换签
+
+体检完成后到UKMShape→验证JoinUKM资料是否上传完整→验证学费、个人保证金和签证费→验证学历("毕业证、学位证、公证书"的原件及复印件)→换签，先扫描二维码填写信息，然后提交"体检报告、Eval、Evisa、护照"。
+
+四、领取护照
+
+EMGS到达100%的第2天，带着临时护照去PKP领取(Pusanika 4层)。
+
+线下注册时尽可能带全所有资料(原件及复印件)，带个电脑，以应对突发情况。
+UKM不再支持线下刷卡交费，个人保证金可以用过线下刷卡缴费，仅支持Visa或Mastercard，不支持银联。
+上述内容更新于2025年10月7日，仅供参考。
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 4 查看指南 / 如何申请首次签证(EMGS申请指南) EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+如何申请首次签证(EMGS申请指南)
+×
+1. 账号注册
+
+打开EMGS官网：https://visa.educationmalaysia.gov.my/，点击右上角Register进行账号注册
+
+2. 填写注册信息
+
+输入个人信息和密码，点击Submit提交注册
+
+3. 邮箱确认
+
+完成注册后，到刚刚填写的邮箱地址进行确认。
+
+4. 登录账号
+
+再次返回官网，点击右上角Log in登陆刚刚注册的账号。
+
+5. 进入签证申请
+
+然后点击首页的Student Visa进入签证申请
+
+6. 填写基础信息
+
+然后填写基础信息，填写完毕后点击Create Application
+
+7. 继续填写信息
+
+跳转到下一页面，继续填写信息，填写完毕后点击Create Application
+
+8. 核对付款信息
+
+进入付款页面，请务必再次核对信息
+
+9. 填写付款信息
+
+填写付款信息，点击Continue
+
+10. 填写银行卡信息
+
+继续填写银行卡信息（Visa或MasterCard）
+
+11. 完成申请
+
+支付完成后，将收到订单号（E+数字），至此已经完成了EMGS的相关申请操作。
+
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 5 查看指南 / UKM续签指南 学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+UKM续签指南
+×
+一、所需资料
+
+需要的资料有：出勤报告、成绩报告、护照扫描件(含封面)、续签申请表、学生财务系统截图、学生确认信、签证处理费、EMGS费用。
+
+📎 续签申请表下载
+二、填写表格
+
+填写续签谷歌表格，等待邮件通知。
+
+📎 谷歌表格
+三、提交护照
+
+EMGS到50%时，去PKP交护照。
+
+四、领取护照
+
+EMGS到达100%的第2天，带着临时护照去PKP领取。
+
+如果您身处马来西亚境外，也必须在保险到期前至少 2 个月提交 Ikad/保险续保文件，以避免累积罚款（续保申请将暂停，直至您返回马来西亚前 2 个月）。请在您返回马来西亚的日期通知我们，以供参考。
+上述内容更新于2025年10月7日，仅供参考。
+更多续签信息，请查看：
+UKM续签指南
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 6 查看指南 / FTSM硕士选课指南 FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+FTSM硕士选课指南
+×
+选课步骤
+打开并登录SMP系统
+点击右侧Registration
+然后点击Course Registration / Add Drop Courses
+弹窗个人信息对话框，仅填写带有星号的必填项
+开始选课，注意马来语在最上方的【CITRA】
+在选课期间，可以随时选课、随时Drop
+如果你选择已经开课的课程，你需要补交之前Assignment
+可以先选课试听，有难度，果断放弃，选择其他课程
+务必遵照课程结构的要求进行选择，不要瞎选、乱选（课程结构参照本站的硕士课程结构）
+如果课程结构里的选修课全部没开，可选择其他课程的必修来当选修，但是务必与协调员沟通确认，否则不能选择
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 7 查看指南 / 学生确认信申请指南 学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+学生确认信申请指南
+×
+申请步骤
+打开并登录SMP系统
+点击右侧Application Document
+然后点击New Application
+在"B: Document Information"中填写相关信息
+填写信息
+
+在"B: Document Information"中需要填写： ①申请当天的日期，如12/10/2025 ②选择Letter of Students Confirmation ③选择Own Pickup (Bangi Campus) ④写清楚理由，一定要求写上预计毕业时间
+
+申请理由示例
+银行账户申请
+The letter is required for my bank account application (or: to update my banking information / to apply for a new bank card). I am still actively studying and expect to complete my studies and graduate in the 2026/2027 Semester 2.
+移民局续签
+The confirmation letter will serve as proof of my ongoing enrollment status, which is required by the immigration authorities for the renewal process. I am still actively studying and expect to complete my studies and graduate in the 2026/2027 Semester 2.
+下载确认信
+
+等5个工作日左右，再次登录SMP系统，下载PDF版学生确认信。
+
+申请理由必须包含预计毕业时间
+建议提前5个工作日申请，避免紧急情况
+确认信可用于银行开户、签证续签等多种用途
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 8 查看指南 / 学生卡领取和开卡流程 学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+学生卡领取和开卡流程
+×
+预约领取学生卡
+打开链接：https://on.sprintful.com/my-siswa-card-appointment
+填写信息：姓名、学生邮箱、大马手机号、学号、学院
+提交预约申请
+按预约时间前往UKMShape柜台领取学生卡
+图书馆激活学生卡
+
+到图书馆入口右侧柜台（进出刷卡机的右侧）和工作人员说： "I am a new student, could you please help me activate my student card." 工作人员大概两三分钟就能帮你激活好。恭喜你～可以自由出入图书馆啦～
+
+RHB银行开通学生卡账户
+
+谷歌地图搜索RHB Bangi（在EVO Mall附近），拿着学生卡、护照、offer、学生确认信到银行填写资料，工作人员会帮你进行激活。（毕业退签时，可以将RM1500保证金退到学生卡里，会快很多）
+注意：
+1. 学生银行卡没有账户管理费；
+2. 银行卡如果超6个月不使用，账户进入睡眠状态，需要到Maybank解除睡眠状态。
+
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 9 查看指南 / MayBank银行卡办理流程 MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+MayBank银行卡办理流程
+×
+准备材料
+
+需要准备以下材料： ① Students Verification Letter (Letter of Students Confirmation) ② Offer Letter ③ eVisa ④ eVal Letter ⑤ EMGS Approval Letter ⑥ EMGS 100% Status ⑦ Confirmation of International Students Status（需要到Pusanika 4楼的签证部办理）
+
+提交材料
+
+将上述①-⑥的材料打印出来，并带齐所有材料（上述①-⑦）到Pusanika的Maybank提交材料。
+
+等待通知
+
+等待15-30个工作日，银行工作人员会通过电话或者WhatsApp通知你领取银行卡。
+
+领取银行卡
+
+领取银行卡时带着RM 250的现金，开卡时需要预存，同时，手机上下载好MAE by Maybank2u这个应用：
+
+开卡激活
+
+工作人员帮你开卡激活。
+
+注意事项
+
+1. 银行卡每年需要缴纳RM 8账户管理费；
+2. 每次续签完成后需要到Maybank进行材料更新，否则账户将进入不可用状态；
+3. 银行卡如果超6个月不使用，账户进入睡眠状态，需要到Maybank解除睡眠状态。
+
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 10 查看指南 / 行政费用及罚款/罚金 UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+行政费用及罚款/罚金
+×
+
+Effective Semester 2 / 2020-2021, revised administrative fees and penalties are as below:
+
+行政费用 (Administrative Fees)
+序号 项目 金额 备注
+1 New VAL application RM 700.00 According to EMGS proforma invoice
+2 Variation/ Progression/ Second VAL RM 300.00 According to EMGS proforma invoice
+3 VAL appeal (VAL rejected) RM 300.00 –
+4 VAL appeal (Blacklisted) RM 500.00 –
+5 Student pass renewal RM 75.00 According to EMGS proforma invoice
+6 ikad & insurance renewal RM 75.00 According to EMGS proforma invoice
+7 Special pass RM 200.00 As per EMGS fee
+8 Dependent Pass application and renewal RM 200.00 According to EMGS proforma invoice
+9 Student Pass transfer (Endorsement transfer) / Shorten Pass RM 80.00 As per EMGS fee
+10 Insurance card/ ikad replacement RM 80.00 As per EMGS fee
+11 Request for archived documents by Visa Unit (e.g. copy of medical report, payment receipt, old passport copy) Request can be made online at: http://bit.ly/HESAarchive RM 5.00 –
+12 Urgent copying services (maximum 4 A4 per student) RM 5.00/page –
+罚款/罚金 (FINE / PENALTY)
+序号 项目 金额 备注
+1 Late renewal application (less than 50 days before expiry date) RM50.00 one-off, plus RM10.00 for each day until complete documents is submitted for renewal application –
+2 Overstay 1-7 days – RM 1000.00
+8-14 days – RM 2000.00
+15-21 days – RM 3000.00
+22-28days – RM 4000.00
+29 days & above – RM 5000.00 –
+3 Late passport submission for student pass sticker process (new student only –passport and medical report received after 7 working days upon arrival in Malaysia) RM 50.00 –
+4 Late passport submission for student pass sticker process if passport received after 3 working days from UKMShape email notification (for special pass / shorten and endorsement transfer); EMGS status changed to "Pending Submission of Student Passport" (for renewal); or if student is overseas, passport received after 2 working days upon arrival in Malaysia RM50.00 –
+5 Late passport collection (passport collected after 3 working days from UKMShape email notification for Special Pass / Shorten and endorsement transfer; or EMGS status changed to "Student Passport Returned" for renewal) RM10.00 per day, starting from 4th day until date of passport collection –
+6 Request for archived documents by HESA (e.g. copy of high school academic transcript, payment receipt, medical report) RM5.00 per copy –
+7 Urgent copying services (Urgent purpose) RM 5.00 per copy –
+获取更多信息，请查看：https://www.ukm.my/ukmshape/administrative-fee-fine-penalty/
+上述内容更新于2025年10月7日，仅供参考。
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 11 查看指南 / UKM公交路线 UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+UKM公交路线
+×
+ZON 1
+ZON 2
+ZON 3
+ZON 4
+ZON 5
+ZON 6
+ZON 7
+ZON 8
+ZON 1
+23 个站点
+📷 查看平面图
+KPZ
+FUU
+PPA
+FKAB
+FPEND(PBL)
+KBH
+KUO(FST)
+PUSANIKA
+FPI(CANSELORI)
+DECTAR
+KRK
+UKMSHAPE(DANAU)
+PENGAJARAN(GSB UKM)
+KIZ
+KRK(STADIUM)
+KDO
+FSSK(CANSELORI)
+PTSL
+KIY(FST)
+KBH(PKU)
+FPEND
+FKAB
+KPZ
+路线说明
+
+ZON 1 是一条环线公交路线，共经过 23 个站点。
+
+运营时间
+运营时间：
+工作日早上7:30-晚上11:30
+发车频率：
+每30分钟一班
+休息时间：
+下午1:00-2:00、晚上7:00-8:00
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /guide / Button 12 查看指南 / UKM常用联系方式 UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。 查看指南]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+UKM 办事指南
+
+注册、续签等重要流程指引
+
+收起
+UKM注册指南
+
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+
+查看指南
+如何申请首次签证(EMGS申请指南)
+
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+
+查看指南
+UKM续签指南
+
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+
+查看指南
+FTSM硕士选课指南
+
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+
+查看指南
+学生确认信申请指南
+
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+
+查看指南
+学生卡领取和开卡流程
+
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+
+查看指南
+MayBank银行卡办理流程
+
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+
+查看指南
+行政费用及罚款/罚金
+
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+
+查看指南
+UKM公交路线
+
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+
+查看指南
+UKM常用联系方式
+
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+
+查看指南
+GayaUKM 论文样式模板
+
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+
+Word模板
+查看详情
+UKM常用联系方式
+问题
+电话号码
+E-Mail
+VISA & Student Pass
+016-3566066
+visashape@ukm.edu.my
+Admission / Registration of New Students
+03-8927 2112 / 2129
+admission.shape@ukm.edu.my
+Finance
+03-8927 2110 / 03-8927 2108 / 011-29824629
+accshape@ukm.edu.my
+Course Registration / Student Records
+03-8927 2111 / 03-8927 2114
+upprpshape@ukm.edu.my
+Undergraduate UKMi
+03-8927-2115
+ukm.i@ukm.edu.my
+Postgraduate International
+03-8927-2123
+pgi@ukm.edu.my
+HEET Training (Formally known as PEP)
+03-8927 2122
+HEETtrain@ukm.edu.my
+Examinations / Convocation
+03-8927 2111 / 03-8927 2114
+uppshape@ukm.edu.my
+Microsoft Teams / Microsoft 365 / Siswa Email
+03-8921 7070
+helpdeskptm@ukm.edu.my
+UKMShape System Technical issues
+03-8927 2118 / 03-8921 6131 / 03-8921 6187 / 011-29824781
+aduanbptm@ukm.edu.my
+General Info
+03-8927 2100
+–
+Accommodation / Student Card / Goodies / Financial Aid
+03-8927 2116 / 03-8927 2117 / 03-8927 2139 / 010- 7760500
+ukmcare@ukm.edu.my
+Marketing / Agent
+03-8927 2134
+marketingshape@ukm.edu.my
+Pre-University
+03-8927-2113 / 011-5755 0593
+sp.shape@ukm.edu.my
+Gifted & Talented International (GTI)
+–
+gtishape@ukm.edu.my
+Flexible Education (FlexEd)
+03-8927-2126
+flexed@ukm.edu.my
+Open and Distance Learning – ODL UKM
+03- 8927 2120 / 010-8070049
+akademik.odl@ukm.edu.my
+APEL
+03-8927-2120
+apel.ukmshape@ukm.edu.my
+Micro-credential & Professional Certificate
+03- 8927 2124 / 017-8112270
+studymc@ukm.edu.my
+Human Resource / Reading Material
+03-8927 2106 / 019-2272 2174
+ptdshape@ukm.edu.my
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /certification]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+毕业指南
+
+学历学位认证流程与指南
+
+毕业典礼视频回放
+
+FTSM学院历届毕业典礼精彩回顾
+
+查看详情
+留服认证流程
+
+学历学位认证完整流程指南
+
+查看详情
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /certification / Button 2 查看详情 / 毕业典礼视频回放 FTSM学院历届毕业典礼精彩回顾 查看详情]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+毕业指南
+
+学历学位认证流程与指南
+
+毕业典礼视频回放
+
+FTSM学院历届毕业典礼精彩回顾
+
+查看详情
+留服认证流程
+
+学历学位认证完整流程指南
+
+查看详情
+毕业典礼视频回放
+×
+第53届毕业典礼
+
+信息科学与技术学院（FTSM）
+
+2025年11月27日
+
+第52届毕业典礼
+
+信息科学与技术学院（FTSM）
+
+2024年11月26日
+
+第51届毕业典礼
+
+信息科学与技术学院（FTSM）
+
+2023年11月30日
+
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /certification / Button 3 查看详情 / 留服认证流程 学历学位认证完整流程指南 查看详情]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+毕业指南
+
+学历学位认证流程与指南
+
+毕业典礼视频回放
+
+FTSM学院历届毕业典礼精彩回顾
+
+查看详情
+留服认证流程
+
+学历学位认证完整流程指南
+
+查看详情
+留服认证流程
+×
+认证步骤
+打开"中留服办事大厅" https://zwfw.cscse.edu.cn/
+点击右上角"登录"
+点击"立即注册"
+填写个人相关信息完成注册
+返回登录页面，输入刚刚注册的账号登录
+登陆成功后，自动返回到"办事大厅"，然后点击"办理认证申请"
+点击"增添认证申请办理"
+往下滑，接受协议
+需要通过移民局APP或小程序完成实名认证，具体请根据引导进行操作。
+完成实名认证后，选择"国（境）外学历学位认证"
+根据毕业证上的信息填写"学位信息"和"学习经历"，填写示例如下表格：
+学位信息
+颁证学校所在地点 马来西亚
+颁证学校外文名称 Universiti Kebangsaan Malaysia 颁证学校中文名称 马来西亚国立大学
+学位外文名称 Master of Computer Science 学位中文名称 计算机科学硕士
+学位层次 硕士学位 认证学位/证书授予时间 2025-11
+学习专业（外文） Network Technology 学习专业（中文） 网络技术
+无专业 否 学科类别 工学
+证书上姓名 XIAO MING
+学习经历
+就读地点 马来西亚
+就读学校外文名称 Universiti Kebangsaan Malaysia 就读学校中文名称 马来西亚国立大学
+学习开始时间 2023-10 学习结束时间 2025-02
+是否有远程方式修读的课程 否
+是否中国境内学习部分课程 否
+ID of Student（学号） P101314 备注
+然后填写其他学习经历。从高中阶段开始填写，至少填写两条经历。
+上传材料：本人近期标准证件照（底色不限）、在线签署授权声明、出入境记录、护照首页、所有学生签证页以及销签盖章页、学位证书（英文和马来语）、成绩单（英文和马来语）。
+交费并提交。
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Route /about]
+
+UKM FTSM学术科研与校园服务门户
+首页
+学术科研
+系统导航
+办事指南
+毕业指南
+关于我们
+🎓 欢迎来到 FTSM 大家庭！
+
+Welcome to UKM FTSM Academic & Campus Service Portal
+
+👋 欢迎各位同学加入FTSM大家庭！同时，也欢迎你访问UKM FTSM学术科研与校园服务门户！
+
+ℹ️ 这不是一个官方网站，而是一位路人甲学长出于热爱与方便各位同学日常查询和使用，搭建的一个 非官方信息导航平台。
+
+💭 还记得刚入学时，一头雾水地找各种系统、查流程、问前辈？
+这个导航正是为了解决这些小困扰而诞生的——
+希望每一位新生都能更快熟悉校园生活，少踩坑，少迷路。
+
+🎯 我们提供什么
+🔬
+学术科研
+
+涵盖文献搜索、期刊分区查询、科研导航等。
+
+🏫
+系统导航
+
+整合常用的UKM以及FTSM官方系统入口，一站式访问。
+
+📋
+办事指南
+
+整理注册入学、续签指南、行政费用罚款等实用办事流程与查询。
+
+💡 无论你是新生、还是在读生，都可以在这里找到所需的信息入口。
+
+💖 我们的理念
+
+"由学生，为学生。"
+
+🌟 希望这个小小的导航，能成为FTSM大家庭里的一个贴心角落。
+让每位新同学都能安心学习、快乐生活，少一点迷茫，多一点方向。
+
+⚠️ 特别声明
+
+📢 本网站非UKM官方平台，仅供参考与导航使用。
+
+🔗 所有链接均指向UKM官方或可信来源，内容会不定期更新维护。
+
+✍️ 一位路人甲学长
+
+📅 2025年10月7日
+
+NCT Lab, Research Center for Cyber Security, FTSM, UKM Bangi, Selangor, Malaysia
+Author:
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------
+
+[Portal asset inventory]
+
+Page: https://ftsm.pages.dev/
+Title: UKM FTSM学术科研与校园服务门户
+Page: https://ftsm.pages.dev/research
+Title: UKM FTSM学术科研与校园服务门户
+Page: https://ftsm.pages.dev/systems
+Title: UKM FTSM学术科研与校园服务门户
+Page: https://ftsm.pages.dev/guide
+Title: UKM FTSM学术科研与校园服务门户
+Page: https://ftsm.pages.dev/certification
+Title: UKM FTSM学术科研与校园服务门户
+Page: https://ftsm.pages.dev/about
+Title: UKM FTSM学术科研与校园服务门户
+
+------------------------------------------------------------
+
+[Portal media and visual assets]
+
+Image: alt='UKM'; size=1488x860; src=https://ftsm.pages.dev/assets/UKMOfficialLogo.svg
+imageUrls: https://ftsm.pages.dev/assets/UKMOfficialLogo.svg
+
+------------------------------------------------------------
+
+[Readable strings from asset https://ftsm.pages.dev/assets/CertificationView-Cj2b_6Qf.js]
+
+,steps:[{text:'打开
+},{text:'点击右上角
+},{text:'点击
+},{text:'登陆成功后，自动返回到
+，然后点击
+},{text:'完成实名认证后，选择
+},{text:'根据毕业证上的信息填写
+学习经历
+然后填写其他学习经历。从高中阶段开始填写，至少填写两条经历。
+上传材料：本人近期标准证件照（底色不限）、在线签署授权声明、出入境记录、护照首页、所有学生签证页以及销签盖章页、学位证书（英文和马来语）、成绩单（英文和马来语）。
+交费并提交。
+颁证学校所在地点
+马来西亚
+颁证学校外文名称
+颁证学校中文名称
+马来西亚国立大学
+学位外文名称
+学位中文名称
+计算机科学硕士
+学位层次
+硕士学位
+认证学位/证书授予时间
+学习专业（外文）
+学习专业（中文）
+网络技术
+无专业
+,{src:i.image,alt:`步骤 ${w+1}`},null,8,j)])):n(
+学位信息
+查看详情
+
+------------------------------------------------------------
+
+[Readable strings from asset https://ftsm.pages.dev/assets/CoordinatorModal-adRNWuP_.js]
+
+,text:o.name,color:o.color})}),A})(),R=he(()=>{const A=[],I=b(t.value),o=B(t.value);for(let a=0;a<I;a++)A.push(null);for(let a=1;a<=o;a++){const d=new Date(t.value.getFullYear(),t.value.getMonth(),a),D=n(d),f=G(d),h=F[D]||[];A.push({date:a,fullDate:d,dateStr:D,lunar:`${f.month}月${f.day}`,academicEvents:h})}return A}),g=[
+十一月
+十二月
+data-v-23d3f333><h4 data-v-23d3f333>图例说明</h4><div class=
+data-v-23d3f333></div><span data-v-23d3f333>注册</span></div><div class=
+data-v-23d3f333></div><span data-v-23d3f333>上课</span></div><div class=
+data-v-23d3f333></div><span data-v-23d3f333>期中休息</span></div><div class=
+data-v-23d3f333></div><span data-v-23d3f333>毕业典礼</span></div><div class=
+data-v-23d3f333></div><span data-v-23d3f333>期末复习周</span></div><div class=
+data-v-23d3f333></div><span data-v-23d3f333>期末考试</span></div><div class=
+data-v-23d3f333></div><span data-v-23d3f333>假期</span></div><div class=
+data-v-23d3f333></div><span data-v-23d3f333>公共假期</span></div></div></div>',1)),s.value?(c(),l(
+Block B
+Block C
+Block D
+Block E
+Block F
+BK10
+BK11
+BK12
+BK13
+BK14
+BK15
+BK16
+BK17
+Block G
+Block H
+硕士（课程模式）
+硕士（混合模式）
+协调员
+行政秘书
+
+------------------------------------------------------------
+
+[Readable strings from asset https://ftsm.pages.dev/assets/GuideView-D1KPId-d.js]
+
+,content:'提前打印填写
+→到校医院→19号窗口→交表格和250马体检费→A3, A2, A1检查一遍→回A3等待报告单→回19号窗口交报告单→叫号让医生盖章签字→校医院2楼复印室进行复印(约5马，只收现金)→19号窗口交原件和复印件→扫描体检报告(原件+复印件第一页)上传JoinUKM系统。',link:{text:
+,content:'体检完成后到UKMShape→验证JoinUKM资料是否上传完整→验证学费、个人保证金和签证费→验证学历(
+的原件及复印件)→换签，先扫描二维码填写信息，然后提交
+UKM不再支持线下刷卡交费，个人保证金可以用过线下刷卡缴费，仅支持Visa或Mastercard，不支持银联。
+上述内容更新于2025年10月7日，仅供参考。
+UKM续签指南
+一、所需资料
+需要的资料有：出勤报告、成绩报告、护照扫描件(含封面)、续签申请表、学生财务系统截图、学生确认信、签证处理费、EMGS费用。
+续签申请表下载
+https://www.ukm.my/ukmshape/wp-content/uploads/2025/01/Borang-2-RENEWAL-OF-STUDENT-PASS-APPLICATION-CHECK-LIST-v21-updated_03012025-210125.pdf
+二、填写表格
+填写续签谷歌表格，等待邮件通知。
+谷歌表格
+三、提交护照
+EMGS到50%时，去PKP交护照。
+四、领取护照
+EMGS到达100%的第2天，带着临时护照去PKP领取。
+如果您身处马来西亚境外，也必须在保险到期前至少 2 个月提交 Ikad/保险续保文件，以避免累积罚款（续保申请将暂停，直至您返回马来西亚前 2 个月）。请在您返回马来西亚的日期通知我们，以供参考。
+行政费用及罚款/罚金
+According to EMGS proforma invoice
+},{no:4,item:'Late passport submission for student pass sticker process if passport received after 3 working days from UKMShape email notification (for special pass / shorten and endorsement transfer); EMGS status changed to
+},{no:5,item:'Late passport collection (passport collected after 3 working days from UKMShape email notification for Special Pass / Shorten and endorsement transfer; or EMGS status changed to
+FTSM硕士选课指南
+选课步骤
+打开并登录SMP系统
+点击右侧Registration
+然后点击Course Registration / Add Drop Courses
+弹窗个人信息对话框，仅填写带有星号的必填项
+开始选课，注意马来语在最上方的【CITRA】
+/images/crad.png
+在选课期间，可以随时选课、随时Drop
+如果你选择已经开课的课程，你需要补交之前Assignment
+可以先选课试听，有难度，果断放弃，选择其他课程
+务必遵照课程结构的要求进行选择，不要瞎选、乱选（课程结构参照本站的硕士课程结构）
+如果课程结构里的选修课全部没开，可选择其他课程的必修来当选修，但是务必与协调员沟通确认，否则不能选择
+学生确认信申请指南
+申请步骤
+点击右侧Application Document
+然后点击New Application
+在"B: Document Information"中填写相关信息
+填写信息
+申请理由示例
+银行账户申请
+移民局续签
+下载确认信
+等5个工作日左右，再次登录SMP系统，下载PDF版学生确认信。
+/images/losc.png
+申请理由必须包含预计毕业时间
+建议提前5个工作日申请，避免紧急情况
+确认信可用于银行开户、签证续签等多种用途
+学生卡领取和开卡流程
+预约领取学生卡
+打开链接：<a href="https://on.sprintful.com/my-siswa-card-appointment" target="_blank" rel="noopener noreferrer">https://on.sprintful.com/my-siswa-card-appointment</a>
+填写信息：姓名、学生邮箱、大马手机号、学号、学院
+提交预约申请
+按预约时间前往UKMShape柜台领取学生卡
+图书馆激活学生卡
+RHB银行开通学生卡账户
+谷歌地图搜索RHB Bangi（在EVO Mall附近），拿着学生卡、护照、offer、学生确认信到银行填写资料，工作人员会帮你进行激活。（毕业退签时，可以将RM1500保证金退到学生卡里，会快很多）<br><strong>注意：</strong><br>1. 学生银行卡没有账户管理费；<br>2. 银行卡如果超6个月不使用，账户进入睡眠状态，需要到Maybank解除睡眠状态。
+MayBank银行卡办理流程
+准备材料
+提交材料
+将上述①-⑥的材料打印出来，并带齐所有材料（上述①-⑦）到Pusanika的Maybank提交材料。
+等待通知
+等待15-30个工作日，银行工作人员会通过电话或者WhatsApp通知你领取银行卡。
+领取银行卡
+领取银行卡时带着RM 250的现金，开卡时需要预存，同时，手机上下载好MAE by Maybank2u这个应用：
+/images/app-01.png
+/images/app-02.png
+/images/app-03.png
+开卡激活
+工作人员帮你开卡激活。
+注意事项
+1. 银行卡每年需要缴纳RM 8账户管理费；<br>2. 每次续签完成后需要到Maybank进行材料更新，否则账户将进入不可用状态；<br>3. 银行卡如果超6个月不使用，账户进入睡眠状态，需要到Maybank解除睡眠状态。
+如何申请首次签证(EMGS申请指南)
+1. 账号注册
+打开EMGS官网：https://visa.educationmalaysia.gov.my/，点击右上角Register进行账号注册
+/images/emgs1.png
+2. 填写注册信息
+输入个人信息和密码，点击Submit提交注册
+/images/emgs2.png
+3. 邮箱确认
+完成注册后，到刚刚填写的邮箱地址进行确认。
+4. 登录账号
+再次返回官网，点击右上角Log in登陆刚刚注册的账号。
+5. 进入签证申请
+然后点击首页的Student Visa进入签证申请
+/images/emgs3.png
+6. 填写基础信息
+然后填写基础信息，填写完毕后点击Create Application
+/images/emgs4.png
+7. 继续填写信息
+跳转到下一页面，继续填写信息，填写完毕后点击Create Application
+/images/emgs5.png
+/images/emgs6.png
+/images/emgs7.png
+8. 核对付款信息
+进入付款页面，请务必再次核对信息
+/images/emgs8.png
+9. 填写付款信息
+填写付款信息，点击Continue
+/images/emgs9.png
+10. 填写银行卡信息
+继续填写银行卡信息（Visa或MasterCard）
+/images/emgs10.png
+11. 完成申请
+支付完成后，将收到订单号（E+数字），至此已经完成了EMGS的相关申请操作。
+行政费用 (Administrative Fees)
+罚款/罚金 (FINE / PENALTY)
+UKM注册指南
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤。
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤。
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤。
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求。
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板。
+学生卡预约领取、图书馆激活、RHB银行开通等完整流程说明。
+MayBank银行卡办理完整流程，包含材料准备、提交、等待通知、领取激活等步骤。
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明。
+UKM公交路线
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划。
+UKM常用联系方式
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱。
+GayaUKM 论文样式模板
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写。
+Word模板
+查看详情
+查看指南
+
+------------------------------------------------------------
+
+[Readable strings from asset https://ftsm.pages.dev/assets/HomeView-CdgyvIvG.js]
+
+欢迎使用UKM FTSM学术科研与校园服务门户，推荐您使用电脑访问，获取最佳体验。
+点击查看
+搜索假期名称、日期或州属...
+马来西亚公共假期
+2026-2027年马来西亚各州公共假期查询
+欢迎访问UKM FTSM学术科研与校园服务门户
+近期更新如下：
+我知道了
+
+------------------------------------------------------------
+
+[Readable strings from asset https://ftsm.pages.dev/assets/ResearchView-kVYlhSGI.js]
+
+?b.postMessage({workerId:n.WORKER_ID,results:n.parse(r.input,r.config),finished:!0}):(b.File&&r.input instanceof File||r.input instanceof Object)&&(r=n.parse(r.input,r.config))&&b.postMessage({workerId:n.WORKER_ID,results:r,finished:!0})}),(W.prototype=Object.create(_.prototype)).constructor=W,(R.prototype=Object.create(_.prototype)).constructor=R,(T.prototype=Object.create(T.prototype)).constructor=T,(f.prototype=Object.create(_.prototype)).constructor=f,n})})(oe);var Cr=oe.exports;const yr=pe(Cr);async function Wt(C,{header:v=!0}={}){const I=await fetch(C);if(!I.ok)throw new Error(`无法加载文件：${C} (${I.status})`);const b=await I.text(),{data:w,errors:M}=yr.parse(b,{header:v,skipEmptyLines:!0,transformHeader:i=>i.trim(),transform:i=>typeof i==
+?i.trim():i});return M.length&&console.warn(`解析 CSV 时产生 ${M.length} 个警告`,M.slice(0,3)),w}const _r=
+:w.value?`查询失败：${w.value}`:!i.value||!g.value.trim()?
+:`筛选结果 ${f.value.length} / ${I.value.length} · 数据总量 ${M.value}`);function st(){clearTimeout(_),_=null,W(!0)}return(K,q)=>(a(),l(
+输入期刊名、关键词或 ISSN 进行检索
+仅显示 Top 期刊
+示例：
+正在加载期刊数据，请稍候…
+谷歌学术
+微软学术
+输入关键词后回车 / 点击搜索
+中国大陆
+中国香港
+中国澳门
+中国台湾
+阿根廷
+亚美尼亚
+澳大利亚
+奥地利
+阿塞拜疆
+哥斯达黎加
+克罗地亚
+多米尼加
+厄瓜多尔
+新西兰
+尼日利亚
+北塞浦路斯
+波多黎各
+卡塔尔
+俄罗斯
+沙特阿拉伯
+塞尔维亚
+新加坡
+斯洛伐克
+斯洛文尼亚
+斯里兰卡
+叙利亚
+阿联酋
+委内瑞拉
+刊物全称
+专业领域
+谷歌学术搜索
+快捷使用谷歌学术搜索，支持高级检索语拼装
+期刊信息查询
+整合 JCR 与中科院分区，支持 ISSN / 关键词检索
+科研导航
+整合多款搜索与常用科研服务入口
+CCF推荐国际学术会议
+中国计算机学会推荐 A/B/C 类会议列表
+CCF推荐国际学术期刊
+中国计算机学会推荐 A/B/C 类期刊列表
+2026 QS世界大学排名
+查看全球大学排名，支持搜索和按国家筛选
+
+------------------------------------------------------------
+
+[Readable strings from asset https://ftsm.pages.dev/assets/SystemsView-DSqQDfr5.js]
+
+必修课（20学分）
+TC6544 Advanced Artificial Intelligence
+选修课（8学分）
+TC6404 Image Processing and Computer Vision
+TC6244 Machine Learning
+论文（12学分）
+必修课（12学分）
+选修课（12学分）
+论文（28学分）
+TC6414 Knowledge Discovery and Data Mining
+TC6244 Advanced Machine Learning
+TC6404 Image Processing & Comp Vision
+旁听（如果需要）
+计算机硕士（研究型硕士课程）学生需在所选领域进行全日制研究，并修读并通过研究方法课程。课程结束时，学生需提交论文，由学院指定的考官小组进行评审。在整个学习过程中，学生需遵守以下要求：
+所有候选人必须参加并通过研究方法考试。
+所有候选人须最迟于第二学期向指定委员会提交研究计划及研究进展，并完成答辩，方可继续攻读硕士学位。未能提交研究计划及研究进展的，可能导致其学业终止。
+所有研究成果必须以论文报告的形式撰写。候选人须在院系指定的评审小组面前进行论文答辩。
+候选人必须至少发表一篇包含 1 篇期刊文章（ISI/Scopus）的出版物。
+TM6112 Research Method in Computing (旁听)
+TC6424 Fundamental of Data Science
+TC6444 Machine Learning for Data Science
+data-v-736790ea>选课建议（仅适用于课程模式）</h3><div class=
+data-v-736790ea>1年毕业：</h4><ul class=
+data-v-736790ea><li data-v-736790ea><strong data-v-736790ea>第一学期</strong>：Project 1、TM6114必选，2必修+1选修，总计20学分</li><li data-v-736790ea><strong data-v-736790ea>第二学期</strong>：2必修+1选修+Project 2+马来语，总计20学分</li></ul></div><div class=
+data-v-736790ea>1.5年毕业：</h4><ul class=
+data-v-736790ea><li data-v-736790ea><strong data-v-736790ea>第一学期</strong>：2必修+2选修+马来语，总计16学分</li><li data-v-736790ea><strong data-v-736790ea>第二学期</strong>：2必修+TM6114+Project 1，总计16学分</li><li data-v-736790ea><strong data-v-736790ea>第三学期</strong>：Project 2，总计8学分</li></ul></div></div><div class=
+data-v-736790ea><strong data-v-736790ea>注意：</strong></p><ol class=
+data-v-736790ea><li data-v-736790ea>上述选课建议来自多数学长学姐选课建议，仅供参考，务必以实际情况为准。</li><li data-v-736790ea>选修课：务必从课程结构中选2个，不得选择课程结构中以外的课程。若特殊情况，需和课程协调员沟通。</li></ol></div></div></div>',1))])]))}},ie=P(ae,[[
+SMPWEB 学生档案
+进行每学期课程注册、查看个人档案与学籍信息。
+进入 SMPWEB
+UKM FOLIO 上课系统
+课堂教学、作业、小测、课件集中管理，支持移动端访问。
+访问 UKM FOLIO
+UKM SISWAMAIL 学生邮箱
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件。
+首次申请 SPEEP
+邮箱登录
+UKM E-KEWANGAN 财务系统
+查询学费账单、付款记录及奖助学金发放情况。
+进入财务系统
+UKM 教授成果查询
+检索教授发表文章及研究方向，方便对接导师。
+UKM Sarjana
+UKM Library 电子资源
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）。
+UKM e-Resources
+学生签证办理和续签
+查询UKMShape最新的国际学生签证程序
+签证办理
+EMGS进度查询
+查询签证办理的实时进度
+进度查询
+MDAC电子入境卡
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+MDAC官网
+MyRapid公交路线查询
+查询公交实时位置信息
+公交查询
+
+------------------------------------------------------------
+
+[Readable strings from asset https://ftsm.pages.dev/assets/UKMContactsModal-C7xJOZxe.js]
+
+PENGAJARAN(GSB UKM)
+工作日早上7:30-晚上11:30
+每30分钟一班
+下午1:00-2:00
+晚上7:00-8:00
+FTSM
+工作日
+每天3班
+早上8:00
+中午12:00
+下午5:00
+💡 提示：使用双指缩放，拖拽移动图片
+💡 提示：使用鼠标滚轮缩放，拖拽移动图片
+运营时间：
+发车频率：
+休息时间：
+发车时间：
+,{src:w.value,alt:`${a.value.name} 平面路线图`,class:
+请检查图片文件是否存在
+电话号码
+
+------------------------------------------------------------
+
+[Readable strings from asset https://ftsm.pages.dev/assets/index-BFZbaSMw.js]
+
+新增马来西亚2026-2027年公共假期
+新增中留服学历学位认证流程与指南
+新增毕业典礼视频回放功能（来自Youtube，国内网络可能无法访问）
+2025年10月20日
+新增EMGS首次签证申请指南
+2025年10月12日
+新增全局搜索功能，支持全站内容搜索
+新增FTSM硕士选课指南
+新增学生确认信申请指南
+新增学生卡领取和开卡流程指南
+新增MayBank银行卡办理流程指南
+2025年10月10日
+新增2026 QS世界大学排名查询功能
+新增GayaUKM论文样式模板查询功能
+修复日历周末被标记为上课日的问题
+修复公共假期仍显示为上课日的问题
+优化稳定性，解决了一些其他问题
+2025年10月08日
+新增UKM公交路线功能，包含8条校园公交路线及运营时间
+新增UKM常用联系方式查询功能，包含20个部门的联系方式
+优化首页常用服务布局，整合公交路线和联系方式功能
+修复移动端联系方式表格显示问题
+优化移动端联系方式卡片式布局设计
+2025年10月7日
+采用全新样式设计
+修复页面小几率无法滑动的Bug
+修复学院地图中存在无法滑动的Bug
+修复期刊信息查询等弹窗关闭后无法滑动的Bug
+修复校历中存在显示不全的Bug
+更新10.7日最新研究生课程表
+新增滚动公告栏功能
+新增UKM办事指南板块（注册指南、续签指南、行政费用及罚款）
+新增硕士课程结构查询功能，支持12个硕士专业课程结构查看
+新增选课建议功能，提供1年和1.5年毕业方案参考
+新增网络安全硕士专业课程表（2025-2026学年）
+新增数据科学硕士专业课程表（2025-2026学年）
+新增健康信息学硕士专业课程表（2025-2026学年）
+新增课程协调员信息
+2025年10月5日
+版本上线
+影响因子
+中科院分区
+期刊查询
+期刊检索
+期刊搜索
+期刊数据库
+学术期刊
+期刊投稿
+谷歌学术搜索
+快捷使用谷歌学术搜索，支持高级检索语法拼装
+学术科研
+学术搜索
+谷歌学术
+文献搜索
+学术文献
+论文搜索
+高级检索
+检索语法
+科研导航
+整合多款搜索与常用科研服务入口
+学术导航
+索引库
+写作翻译
+出版社
+百度学术
+微软学术
+中国知网
+万方数据
+科研工具
+学术资源
+科研服务
+学术平台
+2026 QS世界大学排名
+查看全球大学排名，支持搜索和按国家筛选
+QS排名
+世界大学排名
+大学排名
+全球排名
+高校排名
+院校排名
+学校排名
+排行榜
+世界排名
+国际排名
+FTSM系统
+FTSM学院相关系统入口，包含校历、课表、学院地图、硕士课程结构等
+系统导航
+FTSM
+学院系统
+SMP
+课程表
+时间表
+学院地图
+硕士课程
+官方网站
+学院官网
+课程结构
+信息科学技术学院
+FTSM学院官网
+信息科学技术学院官方网站
+FTSM官网
+学院网站
+学院主页
+官方主页
+FTSM教授讲师信息
+查询信息科学技术学院教授和讲师的信息
+FTSM教授
+FTSM讲师
+学院师资
+师资信息
+教授信息
+讲师信息
+教师信息
+导师信息
+FTSM不同领域专家
+查询信息科学技术学院各个研究领域的专家
+研究领域
+领域专家
+FTSM专家
+学院专家
+研究方向
+专业领域
+学术专家
+研究专家
+专业方向
+学术方向
+硕士课程协调员
+硕士课程协调员和秘书联系方式
+协调员
+课程协调员
+硕士协调员
+联系方式
+指导老师
+课程指导
+行政秘书
+课程管理
+课程负责人
+硕士课程表（课程模式）
+FTSM硕士研究生课程时间表（课程模式），包含各专业课程安排
+研究生
+课程模式
+课程安排
+上课时间
+课程时间
+时间安排
+网络安全课表
+网络安全专业硕士课程时间表
+网络安全
+数据科学课表
+数据科学专业硕士课程时间表
+数据科学
+健康信息学课表
+健康信息学专业硕士课程时间表
+健康信息学
+UKM系统
+UKM大学相关系统入口，包含学生档案、上课系统、邮箱、财务等
+UKM
+大学系统
+学生系统
+学生档案
+FOLIO
+上课系统
+学生邮箱
+财务系统
+教授成果
+UKM Sarjana
+图书馆
+电子资源
+UKM 教授成果查询
+检索教授发表文章及研究方向，方便对接导师
+发表文章
+对接导师
+学术成果
+导师查询
+教授查询
+研究成果
+SMPWEB 学生档案
+进行每学期课程注册、查看个人档案与学籍信息
+课程注册
+个人档案
+学籍信息
+档案系统
+课堂教学
+移动端
+学习系统
+在线学习
+教学平台
+学习平台
+UKM SISWAMAIL 学生邮箱
+首次申请需使用护照号登录 SPEEP，后续在 Gmail 域名内收发邮件
+护照号
+收发邮件
+学生邮箱系统
+电子邮件
+邮箱申请
+UKM E-KEWANGAN 财务系统
+查询学费账单、付款记录及奖助学金发放情况
+付款记录
+奖助学金
+奖学金
+学费查询
+账单查询
+UKM Library 电子资源
+访问校图书馆电子资源与期刊数据库（需校园账号或 VPN）
+UKM e-Resources
+校园账号
+数据库
+电子图书
+电子期刊
+学生签证办理和续签
+查询UKMShape最新的国际学生签证程序
+国际学生
+签证程序
+学生签证
+签证申请
+签证办理
+签证流程
+签证服务
+EMGS进度查询
+查询签证办理的实时进度
+EMGS
+进度查询
+签证进度
+实时进度
+办理进度
+签证状态
+马来西亚
+签证查询
+MDAC电子入境卡
+MDAC官网，方便各位学生协助亲朋好友办理电子入境卡
+电子入境卡
+入境卡
+亲朋好友
+移民局
+电子卡
+入境申请
+MyRapid公交路线查询
+查询公交实时位置信息
+路线查询
+实时位置
+公交查询
+公交车
+公共交通
+公交线路
+UKM注册指南
+新生注册流程详解，包含线上注册、体检、认证换签、领取护照等完整步骤
+办事指南
+注册指南
+新生注册
+注册流程
+线上注册
+学生注册
+入学注册
+UKM续签指南
+学生签证续签流程详解，包含所需资料、填写表格、提交护照、领取护照等步骤
+续签指南
+签证续签
+续签流程
+如何申请首次签证(EMGS申请指南)
+EMGS首次签证申请完整流程，包含账号注册、信息填写、付款等详细步骤
+首次签证
+账号注册
+银行卡
+订单号
+EMGS申请
+首次申请
+FTSM硕士选课指南
+FTSM硕士选课(课程模式)详细流程，包含SMP系统操作步骤、选课注意事项和课程结构要求
+马来语
+选课指南
+选课流程
+选课系统
+选课说明
+硕士选课
+研究生选课
+学生确认信申请指南
+学生确认信申请流程详解，包含SMP系统操作步骤和申请理由模板
+确认信
+学生信
+确认信申请
+学生确认信
+申请流程
+确认信指南
+在读证明
+学生卡领取和开卡流程
+学生卡预约领取、图书馆激活和RHB银行开户的完整流程指南
+学生卡
+学生证
+RHB银行
+银行开户
+学生卡申请
+学生卡激活
+学生卡领取
+学生卡开户
+学生卡流程
+学生卡指南
+学生卡办理
+学生卡开通
+学生卡使用
+学生卡功能
+学生卡服务
+学生卡账户
+学生卡银行
+学生卡图书馆
+学生卡进出
+学生卡刷卡
+学生卡保证金
+学生卡退签
+学生卡毕业
+学生卡RM1500
+学生卡EVO Mall
+学生卡Bangi
+学生卡谷歌地图
+学生卡护照
+学生卡offer
+学生卡柜台
+学生卡工作人员
+学生卡右侧
+学生卡刷卡机
+学生卡入口
+学生卡新学生
+学生卡两三分钟
+学生卡自由出入
+学生卡恭喜
+学生卡预约时间
+学生卡填写信息
+学生卡姓名
+学生卡邮箱
+学生卡手机号
+学生卡学号
+学生卡学院
+学生卡提交
+学生卡链接
+学生卡sprintful
+学生卡appointment
+学生卡my-siswa-card
+学生卡on.sprintful.com
+MayBank银行卡办理流程
+MayBank银行卡申请、材料准备、提交和激活的完整办理流程指南
+银行卡办理
+银行卡申请
+银行卡流程
+银行卡指南
+银行卡开户
+银行卡激活
+银行申请
+银行办理
+银行流程
+银行指南
+EMGS Approval Letter
+EMGS 100% Status
+签证部
+提交材料
+15-30个工作日
+电话通知
+WhatsApp通知
+领取银行卡
+华为应用商店
+应用下载
+手机应用
+银行应用
+银行APP
+银行软件
+银行系统
+银行服务
+银行账户
+银行功能
+银行使用
+银行操作
+银行步骤
+银行材料
+银行文件
+银行证件
+银行证明
+银行信函
+银行确认
+银行验证
+银行审核
+银行审批
+银行处理
+银行激活
+银行通知
+银行领取
+银行预存
+银行现金
+银行费用
+银行收费
+银行服务费
+银行手续费
+银行管理费
+银行年费
+银行维护费
+银行使用费
+银行交易费
+银行转账费
+银行取款费
+银行存款费
+银行查询费
+银行打印费
+银行复印费
+银行证明费
+银行确认费
+银行验证费
+银行审核费
+银行审批费
+银行处理费
+银行办理费
+银行申请费
+银行开户费
+银行激活费
+银行通知费
+银行领取费
+银行预存费
+银行现金费
+行政费用及罚款/罚金
+UKM行政费用及罚款详细列表，包含签证申请、续签、保险、逾期罚款等各项费用说明
+行政费用
+费用说明
+收费标准
+费用列表
+UKM公交路线
+UKM校园8条环线公交路线图，包含各站点信息和地铁风格路线展示，方便学生出行规划
+公交路线
+校园公交
+公交地图
+UKM常用联系方式
+UKM各部门联系方式汇总，包含VISA、注册、财务、课程注册、考试等各项服务的电话和邮箱
+部门电话
+联系电话
+服务电话
+咨询电话
+GayaUKM 论文样式模板
+UKM官方论文格式模板，包含论文排版、引用格式等规范，适用于学位论文撰写
+论文模板
+论文格式
+论文样式
+学位论文
+毕业论文
+论文写作
+论文规范
+)){E.preventDefault();return}},N=E=>({首页:
+,学术科研:
+,系统导航:
+,办事指南:
+,关于我们:
+尝试使用其他关键词或检查拼写
+Prof. ChatGPT & 一位路人甲学长
+2025-2026 © FTSM, UKM | Version: V2.4.1
+更新日志
+
+------------------------------------------------------------

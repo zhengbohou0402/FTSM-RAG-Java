@@ -1,0 +1,1722 @@
+UKM FTSM Academic Staff and Potential Supervisors
+
+Source Directory: https://ftsm.ukm.my/v6/staff-academic
+
+Scrape Date: 2026-04-02
+
+Total Profiles Captured: 91
+
+
+
+This file is generated from the official FTSM academic staff directory and staff detail endpoint.
+
+Names, roles, rooms, contacts, and expertise may change over time, so users should verify the latest information on the official FTSM website.
+
+
+
+## 1. Assoc. Prof. Ts. Dr. Abdul Hadi Abd Rahman
+- Staff ID: K021817
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: B.E.(UTM), M.Sc.(UPM), Ph.D(MJIIT-UTM)
+- Current Role: Deputy Dean (Research and Innovation)
+- Room: Bilik Timbalan Dekan Penyelidikan dan Inovasi, Block G - Level 1 - Dean's Office; E-4-47, Block E - Level 4
+- Contact Details: +6 03 - 8921 6177 / 8921 6712; tdpftsm@ukm.edu.my; abdulhadi@ukm.edu.my
+- Expertise: Computer Vision; Machine Intelligence; Autonomous Robots
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMTgxNw==
+  - https://www.facebook.com/arvisrobotsoccer/: https://www.facebook.com/arvisrobotsoccer/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=qeverm0AAAAJ&hl=en&oi=sra
+  - WoS: https://publons.com/researcher/3085570/abdul-hadi-bin-abd-rahman/
+  - Researchgate: https://www.researchgate.net/profile/Abdul_Hadi_Abd_Rahman2
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57146126700
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021817
+
+## 2. Ts. Dr. Afzan Adam
+- Staff ID: K016599
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BIT(UKMalaysia), MIT(UKMalaysia), PhD(Leeds Uni)
+- Room: H-4-11 Block H - Level 4
+- Contact Details: +6 03 - 8921 6986; afzan@ukm.edu.my
+- Expertise: Data Analytics; Digital Pathology; Image Processing; Machine Learning
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Medical Computing (MC)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNjU5OQ==
+  - https://www.ftsm.ukm.my/afzan/: https://www.ftsm.ukm.my/afzan/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=Q_jKpvQAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/2378773/afzan-adam/
+  - Researchgate: https://www.researchgate.net/profile/Afzan_Adam
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57188569603
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K016599
+
+## 3. Dr. Ahmad Tarmizi Abdul Ghani
+- Staff ID: K016064
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Qualifications: SmSn(UKMalaysia), MNeBCC(Uor, AuTh, UC3M), Ph.D(UKM)
+- Current Role: Executive Programme Coordinator (Master)
+- Room: E-4-37 Block E - Level 4
+- Contact Details: +6 03 - 8921 6707; atag@ukm.edu.my
+- Expertise: Data Analytics; IT Governance; Service Science
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNjA2NA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=otx7hEkAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/2133316/ahmad-tarmizi-abdul-ghani/
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=25824884100
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K016064
+
+## 4. Dr. Amelia Natasya Abdul Wahab
+- Staff ID: K011434
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Qualifications: SmTM(UKMalaysia), MSc(Loughborough), Ph.D(UKMalaysia)
+- Room: G-3-24 Block G - Level 3
+- Contact Details: +6 03 - 8921 6725; anaw@ukm.edu.my
+- Expertise: IT in Manufacturing
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMTQzNA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=4d6JMgQAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Amelia_Wahab
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55916398500
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011434
+
+## 5. Assoc. Prof. Dr. Azana Hafizah Mohd Aman
+- Staff ID: K022644
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Qualifications: B.E.(UIA), M.Sc.(UIA), Ph.D(UIA)
+- Current Role: Teaching and Learning Coordinator CYBER
+- Room: G-3-37 Block G - Level 3
+- Contact Details: +6 03 - 8921 6662; azana@ukm.edu.my
+- Expertise: Computer Networking; Computer System; Database; Mobile Networks
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMjY0NA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=0ZeCqUYAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/1706384/azana-hafizah-mohd-aman/
+  - Researchgate: https://www.researchgate.net/profile/Azana_Aman
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57216695423
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022644
+
+## 6. Assoc. Prof. Dr. Azizi Abdullah
+- Staff ID: K007762
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmSn(UKMalaysia), MSE(UMalaya), Ph.D(Utrecht)
+- Room: H-4-7 Block H - Level 4
+- Contact Details: +6 03 - 8921 6656; azizia@ukm.edu.my
+- Expertise: Computer Vision; Data Analytics; Machine Learning; Pattern Recognition
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzc2Mg==
+  - https://www.facebook.com/azizi.v.abdullah: https://www.facebook.com/azizi.v.abdullah
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=0LE_8tUAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Azizi_Abdullah2
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=35087999700
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007762
+
+## 7. Ts. Dr. Azura Ishak
+- Staff ID: K013634
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Qualifications: Bac.Pend(UPMalaysia), Msc(UPMalaysia), EdD(UKMalaysia)
+- Room: E-3-25 Block E - Level 3
+- Contact Details: +6 03 - 8921 6721; azura@ukm.edu.my
+- Expertise: Computer Education; Educational Technology; Instructional Design; Online Learning; Statistic Education; Multimedia In Education
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMzYzNA==
+  - https://www.facebook.com/ai.is.94: https://www.facebook.com/ai.is.94
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=h-qDQ7sAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=56127534100
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K013634
+
+## 8. Prof. Dr. Azuraliza Abu Bakar
+- Staff ID: K012964
+- Academic Rank: Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmSn, SSn(UKMalaysia), Ph.D(UPMalaysia)
+- Room: E-1-3 Block E - Level 1
+- Contact Details: +6 03 - 8921 6794; azuraliza@ukm.edu.my
+- Expertise: Data Analytics; Data Mining
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMjk2NA==
+  - https://www.facebook.com/azuraliza.bakar: https://www.facebook.com/azuraliza.bakar
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=-BWcu6IAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=34867751400
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K012964
+
+## 9. Dr. Bahari Idrus
+- Staff ID: K011513
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmSn, SSn(UKMalaysia), Ph.D(Bradford)
+- Current Role: Head of Information Technology Programme
+- Room: Bilik Ketua Program Teknologi Maklumat, Block A - Ground Floor; G-3-27, Block G - Level 3
+- Contact Details: +6 03 - 8921 6185 / 8921 6663; bahari@ukm.edu.my
+- Expertise: Formal Method; Simulation and Modeling; Quantum Computation
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMTUxMw==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=qT2MjqAAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Bahari_Idrus2
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=14832549700
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011513
+
+## 10. Dr. Dahlila Putri Dahnil Sikumbang
+- Staff ID: K021318
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: (B.Eng. Electronics (Comm)(Sheffield), MSc (UTMalaysia), PhD (MMUniversity, Malaysia)
+- Current Role: Head of Platform and Emerging Technologies (PET LAB) Lab SOFTAM
+- Room: G-2-13 Block G - Level 2
+- Contact Details: +6 03 - 8921 6831; dahlilaputri@ukm.edu.my
+- Expertise: Wireless Sensor Network; Internet of Things (IoT)
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMTMxOA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=Uy76WP8AAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Dahlila_Dahnil
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=36959516600
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021318
+
+## 11. Assoc. Prof. Dr. Dalbir Singh a/l Valbir Singh
+- Staff ID: K018530
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: B.Comp.Sc, MSc( USM), Ph.D (UMalaya)
+- Room: G-3-30 Block G - Level 3
+- Contact Details: +6 03 - 8921 6727; dalbir@ukm.edu.my
+- Expertise: Interaction Design; Information System Management; Software Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxODUzMA==
+  - https://www.facebook.com/dalbir.s.dhanoa: https://www.facebook.com/dalbir.s.dhanoa
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=_FMx3qEAAAAJ&hl=en
+  - Researchgate: https://www.researchgate.net/profile/Dalbir_Singh9
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55802371756
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K018530
+
+## 12. Dr. Dian Indrayani Jambari
+- Staff ID: K014370
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn (UPMalaysia), MSc (Edinburgh), PhD (Reading)
+- Current Role: Head of Strategic Information and Software Systems (SISS) Lab SOFTAM
+- Room: H-3-8 Block H - Level 3
+- Contact Details: +6 03 - 8921 6664; dian@ukm.edu.my
+- Expertise: Information System Development; Information System Management; Management Information Systems
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDM3MA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=wRq1z2sAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=42961650800
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014370
+
+## 13. Assoc. Prof. Ts. Dr. Elankovan A. Sundararajan
+- Staff ID: K007924
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn, SSn(UKMalaysia), PhD (Melb)
+- Current Role: Deputy Dean (Undergraduate)
+- Room: Bilik Timbalan Dekan Prasiswazah, Block A - Ground Floor; G-3-28, Block G - Level 3
+- Contact Details: +6 03 - 8921 7135 / 8921 6665; tdpraftsm@ukm.edu.my; elan@ukm.edu.my
+- Expertise: Big Data; Computer and Sensor Network; Cloud Technology; Parallel and Distributed Computing
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzkyNA==
+  - http://elankovansundararajan.wordpress.com/: http://elankovansundararajan.wordpress.com/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=F7EEyZwAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/3395250/elankovan-sundararajan/
+  - Researchgate: https://www.researchgate.net/profile/Elankovan_Sundararajan
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=6507137436
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007924
+
+## 14. Dr. Fadhilah Rosdi
+- Staff ID: K021918
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: B.IT(UTHM), MSE(UMalaya), PhD(UMalaya)
+- Room: Bilik Ketua Program Kejuruteraan Perisian, Block A - Ground Floor; E-3-26, Block E - Level 3
+- Contact Details: +6 03 - 8921 6182 / 8921 6723; fadhilah.rosdi@ukm.edu.my
+- Expertise: Multimodel Interaction; Speech Processing
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMTkxOA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=gaQ5lUAAAAAJ&hl=en&citsig=AMstHGSXOuDtl1R5HZzxnx24xXc4WPdd9g
+  - Researchgate: https://www.researchgate.net/profile/Fadhilah_Rosdi
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=24825590000
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021918
+
+## 15. Ts. Dr. Fadilla 'Atyka Nor Rashid
+- Staff ID: K025641
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BCS (UTMalaysia), MSc(UiTMARA), PhD (UTHMalaysia)
+- Current Role: International Programme Coordinator
+- Room: E-4-46 Block E - Level 4
+- Contact Details: +6 03 - 8921 6756; fadilla@ukm.edu.my
+- Expertise: Computer Vision; Deep Learning
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNTY0MQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=VblQXZAAAAAJ&hl=en
+  - Researchgate: https://www.researchgate.net/profile/Fadilla-Nor-Rashid
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025641
+
+## 16. Dr. Fahad Taha Naji AL-Dhief
+- Staff ID: K027000
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: BCS (IJSU, Iraq), MSC (UKMalaysia), PhD (UTMalaysia)
+- Room: G-3-26 Block G - Level 3
+- Contact Details: +6 03 - 8921 6717; fahad@ukm.edu.my
+- Expertise: Artificial Intelligence; Modelling and Framework; Software Engineering
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNzAwMA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=Dnge80MAAAAJ&hl=en&authuser=1
+  - WoS: https://www.webofscience.com/wos/author/record/LKK-0732-2024
+  - Researchgate: https://www.researchgate.net/profile/Fahad-Al-Dhief/research
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57200993666
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K027000
+
+## 17. Dr. Faizan Qamar
+- Staff ID: K023466
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Qualifications: B.Eng. (Hamdard, PK), M.Eng (NED, PK), Ph.D. (UMalaya, MY)
+- Room: H-1-6 Block H - Level 1
+- Contact Details: +6 03 - 8921 6084; faizanqamar@ukm.edu.my
+- Expertise: Internet of Things (IoT); Network Quality of Service; Wireless Network Design; 5G Cellular Communications
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMzQ2Ng==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=XaAPn0oAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/3586012/faizan-qamar/
+  - Researchgate: https://www.researchgate.net/profile/Faizan_Qamar
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57194184238
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023466
+
+## 18. Dr. Fatin Filzahti Ismail
+- Staff ID: K026608
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: B.SE(UMT), MSoftTech(UKMalaysia), Ph.D(UKMalaysia)
+- Room: E-3-26 Block E - Level 3
+- Contact Details: +6 03 - 8921 6723; fatinfilzahti@ukm.edu.my
+- Expertise: Software Management; Software Testing
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNjYwOA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=sFSmE4QAAAAJ&hl=en
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=56926938600
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K026608
+
+## 19. Ts. Dr. Fazlina Mohd Ali
+- Staff ID: K025620
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: BCSc.(UPMalaysia), MSc.IT(UITMara), PhD(UPMalaysia)
+- Current Role: Head of Software and Network Technology Programme Research Coordinator SOFTAM
+- Room: E-4-36 Block E - Level 4
+- Contact Details: +6 03 - 8921 6811; fazlina.mohdali@ukm.edu.my
+- Expertise: Parallel and Distributed Computing; Data Management (Replication); Cloud Computing; ICT Project Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNTYyMA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=naGIRfMAAAAJ&hl=en
+  - WoS: https://www.webofscience.com/wos/author/record/CRV-3674-2022
+  - Researchgate: https://www.researchgate.net/profile/Ts-Dr-Fazlina-Mohd-Ali/research
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025620
+
+## 20. Dr. Hadi Affendy Dahlan
+- Staff ID: K022637
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: B.E.(UIA), M.Sc.(UPM), Ph.D(University of York, UK)
+- Room: Bilik Ketua Program Teknologi Perisian dan Rangkain, Block A - Ground Floor; G-3-33, Block G - Level 3
+- Contact Details: +6 03 - 8921 6181 / 8921 6070; had86@ukm.edu.my
+- Expertise: Remote Monitoring
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMjYzNw==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=ZHf_sYQAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/3183844/hadi-affendy-dahlan/
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57194184590
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022637
+
+## 21. Dr. Hafiz Mohd Sarim
+- Staff ID: K010546
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BBA(CWRU), MSc(UMalaya), Ph.D(UKMalaysia)
+- Current Role: Teaching and Learning Coordinator CAIT
+- Room: H-3-10 Block H - Level 3
+- Contact Details: +6 03 - 8921 6799; hms@ukm.edu.my
+- Expertise: Behavioural A.I.; Machine Learning; Database; Artificial Intelligence in Games; Serious Games Development; 3D Modelling
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMDU0Ng==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=faKRLT0AAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=53264870800
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010546
+
+## 22. Dr. Hairulliza Mohamad Judi
+- Staff ID: K007838
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn, SSn(UKMalaysia), EDD (UKMalaysia)
+- Current Role: Industry and Networking Coordinator SOFTAM
+- Room: G-2-14 Block G - Level 2
+- Contact Details: +6 03 - 8921 6653; hmj@ukm.edu.my
+- Expertise: Learning Technology; Games; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzgzOA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=uzqOgdYAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=26421250900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007838
+
+## 23. Assoc. Prof. Dr. Hasimi Sallehudin
+- Staff ID: K022372
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: B.Eng (UTMalaysia),M.Sc (UMalaya),Ph.D (UMKelantan)
+- Room: G-3-40 Block G - Level 3
+- Contact Details: +6 03 - 8921 6729; hasimi@ukm.edu.my
+- Expertise: Information System Development; Information System Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMjM3Mg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=6SD8zTkAAAAJ&hl=en&oi=sra
+  - WoS: https://publons.com/researcher/1730914/hasimi-sallehudin/
+  - Researchgate: https://www.researchgate.net/profile/Hasimi-Sallehudin
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=56017538400
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022372
+
+## 24. Dr. Hazura Mohamed
+- Staff ID: K011536
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn, SSn(UKMalaysia)
+- Room: G-2-16 Block G - Level 2
+- Contact Details: +6 03 - 8921 6655; hazura.mohamed@ukm.edu.my
+- Expertise: Performance Evaluation; Data Analytics
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMTUzNg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=1FCg3I8AAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Hazura_Mohamed2
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=26534734400
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011536
+
+## 25. Ts. Dr. Ibrahim Mohamed
+- Staff ID: K007991
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: BA(Liverpool John Moores), STM(UKMalaysia)
+- Current Role: Deputy Dean (Postgraduate)
+- Room: Bilik Timbalan Dekan Siswazah, Block A - Ground Floor; E-2-10, Block E - Level 2
+- Contact Details: +6 03 - 8921 6812 / 8921; tdsftsm@ukm.edu.my; ibrahim@ukm.edu.my
+- Expertise: Information Systems Audit; Business Process Modelling; Information System Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzk5MQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?hl=en&user=0Bpq__cAAAAJ
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55394349700
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007991
+
+## 26. Ms. Junaidah Mohamed Kassim
+- Staff ID: K010396
+- Academic Rank: Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmTM(UKMalaysia), MSc. (UTMalaysia)
+- Room: E-4-35 Block E - Level 4
+- Contact Details: +6 03 - 8921 6669; junaidah@ukm.edu.my
+- Expertise: Database; Web Programming
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: The Applied Ontology and Semantic Search (ONTOS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMDM5Ng==
+- Publication Links:
+  - Researchgate: https://www.researchgate.net/profile/Junaidah_Kassim
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010396
+
+## 27. Dr. Kauthar Mohd Daud
+- Staff ID: K023762
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BSc Hons (MMU), MSc (UMalaya), PhD (UTMalaysia)
+- Current Role: Head of Postgraduate Programme
+- Room: E-4-40 Block E - Level 4
+- Contact Details: +6 03 - 8921 6714; kauthar.md@ukm.edu.my
+- Expertise: Artificial Intelligence; Optimization; Bioinformatics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Medical Computing (MC)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMzc2Mg== 
+  - https://www.facebook.com/profile.php?id=100010591239110: https://www.facebook.com/profile.php?id=100010591239110
+  - https://www.instagram.com/kauthardaud/: https://www.instagram.com/kauthardaud/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=meUe9kMAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/3081498/mohd-daud-kauthar/
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023762
+
+## 28. Dr. Kerk Yi Wen
+- Staff ID: K023782
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BEng Hons (UNIMAS), MEng (UNIMAS), PhD (Deakin University)
+- Room: H-1-3 Block H - Level 1
+- Contact Details: +6 03 - 8921; ykerk@ukm.edu.my
+- Expertise: Computational Intelligence; Fuzzy Systems; Risk Management
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMzc4Mg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=VodXwmEAAAAJ&hl=en
+  - WoS: https://publons.com/researcher/4217860/yi-wen-kerk/
+  - Scopus: https://orcid.org/0000-0003-2173-7661
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023782
+
+## 29. Assoc. Prof. Dr. Khairul Akram Zainol Ariffin
+- Staff ID: K021704
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Qualifications: Ph.D (UTP), MEng (Warwick Uni)
+- Current Role: Chairperson of Center for Cyber Security CYBER
+- Room: Bilik Pengerusi Pusat Penyelidikan CYBER, Block H - Level 2; E-3-31, Block E - Level 3
+- Contact Details: +6 03 - 8921 6088 / 8921 6349; k.akram@ukm.edu.my
+- Expertise: Cyber Security; Digital Forensics
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMTcwNA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?hl=en&user=zGFpQNUAAAAJ
+  - WoS: https://publons.com/researcher/3601774/khairul-akram-zainol-ariffin/
+  - Researchgate: https://www.researchgate.net/profile/Khairul_Akram_Zainol_Ariffin
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57188925869
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021704
+
+## 30. Ts. Dr. Khairul Azmi Abu Bakar
+- Staff ID: K021445
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Qualifications: B.Sc (Iowa State), M.Eng (UKMalaysia), Ph.D (Strathclyde)
+- Current Role: Assistant Dean (Teaching and CITRA)
+- Room: Bilik Penolong Dekan Pengajaran dan Citra, Block G - Level 1 - Dean's Office; G-2-15, Block G - Level 2
+- Contact Details: +6 03 - 8921 6711 / 8921 6759; pdcitra.ftsm@ukm.edu.my; khairul.azmi@ukm.edu.my
+- Expertise: Mobile Networks; Computer System Security
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMTQ0NQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=qESzOXsAAAAJ
+  - WoS: https://publons.com/researcher/1563740/khairul-azmi-abu-bakar/
+  - Researchgate: https://www.researchgate.net/profile/Khairul_Azmi_Abu_Bakar
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55934169900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021445
+
+## 31. Dr. Kok Ven Jyn
+- Staff ID: K021829
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Qualifications: BEng (Hons) (UNITEN), MScEng (Sheffield), PhD (UM)
+- Room: G-3-38 Block G - Level 3
+- Contact Details: +6 03 - 8921 6810; vj.kok@ukm.edu.my
+- Expertise: Computer and Machine Vision; Pattern Recognition
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMTgyOQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?hl=en&user=dEEwwEoAAAAJ
+  - WoS: https://publons.com/researcher/1463616/ven-jyn-kok/
+  - Researchgate: https://www.researchgate.net/profile/Ven_Jyn_Kok
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=56462702200
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021829
+
+## 32. Dr. Lailatul Qadri Zakaria
+- Staff ID: K014364
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmTM, STM(UKMalaysia), Ph.D(Southampton)
+- Current Role: Mobility Coordinator
+- Room: H-4-6 Block H - Level 4
+- Contact Details: +6 03 - 8921 6719; mobiliti.ftsm@ukm.edu.my; lailatul.qadri@ukm.edu.my
+- Expertise: Natural Language Processing; Ontology; Semantic; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Asian Language Processing (ASLAN)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDM2NA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=kRhAJgoAAAAJ&hl=en
+  - WoS: https://publons.com/researcher/3675953/lailatul-qadri-zakaria/
+  - Researchgate: https://www.researchgate.net/profile/Lailatul_Qadri_Zakaria
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=8248079500
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014364
+
+## 33. Dr. Lam Meng Chun
+- Staff ID: K020820
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BIT(UKMalaysia), PhD(UKMalaysia)
+- Current Role: Head of Industry & Community Partnership Head of Mixed Reality and Pervasive (MyXLab) Lab CAIT
+- Room: G-2-4 Block G - Level 2
+- Contact Details: +6 03 - 8921 6076; hejimftsm@ukm.edu.my; lammc@ukm.edu.my
+- Expertise: Human Computer Interaction; Virtual Reality; Mixed Reality; Mobile Application
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Mixed Reality and Pervasive (MyxLab)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMDgyMA==
+  - https://www.ftsm.ukm.my/lammc/: https://www.ftsm.ukm.my/lammc/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=G1O6YwwAAAAJ&hl
+  - WoS: https://publons.com/researcher/519548/lam-meng-chun/
+  - Researchgate: https://www.researchgate.net/profile/Lam_Meng_chun
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55194972000
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K020820
+
+## 34. Assoc. Prof. Dr. Maryati Mohd Yusof
+- Staff ID: K007542
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: BSc(Southern Illinois), STM(UKMalaysia), PhD (Brunel, West London)
+- Room: Bilik Ketua Program Siswazah (SOFTAM), Block A - Ground Floor; E-3-30, Block E - Level 3
+- Contact Details: +6 03 - 8921 7088 / 8921 6649; maryati.yusof@ukm.edu.my
+- Expertise: Information System in Healthcare; Information System Management; Business Process and Service
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzU0Mg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=HIG6vRwAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/2970545/maryati-yusof/
+  - Researchgate: https://www.researchgate.net/profile/Maryati_Yusof
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=23475829300
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007542
+
+## 35. Assoc. Prof. Dr. Masnizah Mohd.
+- Staff ID: K011456
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Qualifications: SmTM, STM(UKMalaysia), Ph.D(Strathclyde)
+- Current Role: Head of Cyber Analytic (CA) Lab CYBER
+- Room: E-3-23 Block E - Level 3
+- Contact Details: +6 03 - 8921 6743; masnizah.mohd@ukm.edu.my
+- Expertise: Cyber Intelligence; Information Seeking and Retrieval; Natural Language Processing; Data Analytics
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMTQ1Ng==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=D3rlzosAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/3058810/masnizah-mohd/
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=23995686800
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011456
+
+## 36. Prof. Dr. Masri Ayob
+- Staff ID: K008009
+- Academic Rank: Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmSn(UKMalaysia), SSn(UTMalaysia), Ph.D(Nottingham)
+- Room: E-1-9 Block E - Level 1
+- Contact Details: +6 03 - 8921 6726; masri@ukm.edu.my
+- Expertise: Combinatorial Optimization; Heuristic Search; Scheduling; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwODAwOQ==
+  - https://www.ftsm.ukm.my/masri/: https://www.ftsm.ukm.my/masri/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=HRkZPK4AAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/3278222/masri-ayob/
+  - Researchgate: https://www.researchgate.net/profile/Masri_Ayob2
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=6603040714
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K008009
+
+## 37. Ts. Masura Rahmat
+- Staff ID: K014827
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Qualifications: SmSn, SSnTM(UTMalaysia)
+- Room: E-4-42 Block E - Level 4
+- Contact Details: +6 03 - 8921 6706; masura@ukm.edu.my
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDgyNw==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=nLhWyFoAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Masura_Rahmat
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55498365000
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014827
+
+## 38. Dr. Mohamad Khairulamirin Md Razali
+- Staff ID: K026945
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: BSC (UKMALAYSIA), PHD (UKMALAYSIA)
+- Room: H-3-6 Block H - Level 3
+- Contact Details: +6 03 - 8911 8268; khairulamirin@ukm.edu.my
+- Expertise: Optimization; Artificial Intelligence; Heuristic Search Algorithms; Programming
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNjk0NQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=IpeXWKQAAAAJ&hl=en&oi=sra
+  - WoS: https://www.webofscience.com/wos/author/record/OAL-1433-2025
+  - Researchgate: https://www.researchgate.net/profile/Mohamad-Khairulamirin-Md-Razali?ev=hdr_xprf
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57880696200
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K026945
+
+## 39. Assoc. Prof. Dr. Mohammad Faidzul Nasrudin
+- Staff ID: K012092
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BBA(Western Michigan), STM(UKMalaysia), Ph.D(UKMalaysia)
+- Current Role: Head of Machine Learning & Vision (MLV) Lab CAIT
+- Room: G-3-31 Block G - Level 3
+- Contact Details: +6 03 - 8921 6670; mfn@ukm.edu.my
+- Expertise: Image Processing; Optimization; Pattern Recognition
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMjA5Mg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=9Byh_SgAAAAJ
+  - Researchgate: https://www.researchgate.net/profile/Mohammad_Faidzul_Nasrudin
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=25633994400
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K012092
+
+## 40. Assoc. Prof. Ts. Dr. Mohammad Kamrul Hasan
+- Staff ID: K023208
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Qualifications: BSc.(Bangladesh), MSc( IIUMalaysia), Ph.D.(IIUMalaysia)
+- Current Role: Head of Network & Communication Technology (NCT) Lab CYBER
+- Room: H-1-10 Block H - Level 1
+- Contact Details: +6 03 - 8921 6167; mkhasan@ukm.edu.my
+- Expertise: Artificial Intelligence; Mobile Communication; Sensor Network
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMzIwOA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=IAybniwAAAAJ&hl=en
+  - WoS: https://publons.com/researcher/2407911/mohammad-kamrul-hasan/
+  - Researchgate: https://www.researchgate.net/profile/Mohammad_Hasan14
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55057479600
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023208
+
+## 41. Assoc. Prof. Dr. Mohammad Khatim Hasan
+- Staff ID: K009646
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmSn, STM (UKMalaysia), PhD (UPMalaysia)
+- Room: G-2-12 Block G - Level 2
+- Contact Details: +6 03 - 8921 6652; mkh@ukm.edu.my
+- Expertise: Computational Science; Quality Models; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwOTY0Ng==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=kjqeE58AAAAJ&hl=en
+  - Researchgate: https://www.researchgate.net/profile/Mohammad_Hasan13
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=9633140400
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K009646
+
+## 42. Prof. Dr. Mohd Juzaiddin Ab Aziz
+- Staff ID: K007915
+- Academic Rank: Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: Dip S.Komp(UPMalaysia), SmSn, STM(UKMalaysia), Ph.D(UPMalaysia)
+- Room: E-3-27 Block E - Level 3
+- Contact Details: +6 03 - 8921 6743; juzaiddin@ukm.edu.my
+- Expertise: Knowledge Work and Automation
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Platform and Emerging Technologies (PET)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzkxNQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=W68Hl0wAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Mohd_Ab_Aziz2
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=36089651800
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007915
+
+## 43. Ts. Dr. Mohd Nor Akmal Khalid
+- Staff ID: K025910
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: B.Comp.Sc. (USM), MSc. (USM), Ph.D. (USM)
+- Current Role: Research Coordinator CAIT
+- Room: G-3-34 Block G - Level 3
+- Contact Details: +6 03 - 8921 6672; akmal@ukm.edu.my
+- Expertise: Artificial Intelligence; Simulation and Modeling; Game Informatics; Computational Optimization
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNTkxMA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=GJeS-CwAAAAJ&hl=en
+  - WoS: https://www.webofscience.com/wos/author/record/O-4569-2018
+  - Researchgate: https://www.researchgate.net/profile/Mohd-Nor-Akmal-Khalid
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=5548860360
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025910
+
+## 44. Assoc. Prof. Dr. Mohd Ridzwan Yaakub
+- Staff ID: K011466
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmTM(UKMalaysia), MSc ( UPMalaysia )
+- Current Role: Deputy Dean (Industry & Community Partnerships) Head of Sentiment Analysis (SA) Lab CAIT
+- Room: Bilik Timbalan Dekan Jaringan Industri Dan Penjanaan, Block G - Level 1 - Dean's Office; H-4-9, Block H - Level 4
+- Contact Details: +6 03 - 8921 6178 / 8921 6757; tdjiam.ftsm@ukm.edu.my; ridzwanyaakub@ukm.edu.my
+- Expertise: Ontology; Opinion Mining; Text Mining; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Sentiment Analysis (SA)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMTQ2Ng==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=MrYUBvwAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/1726596/mohd-ridzwan-yaakub/
+  - Researchgate: https://www.researchgate.net/profile/Mohd_Ridzwan_Yaakub
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55264388300
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011466
+
+## 45. Assoc. Prof. Dr. Mohd Zakree Ahmad Nazri
+- Staff ID: K010400
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmTM(UKMalaysia), MSc(UTMalaysia), Ph.D(UTMalaysia)
+- Room: E-2-20 Block E - Level 2
+- Contact Details: +6 03 - 8921; zakree@ukm.edu.my
+- Expertise: Data Analytics; Decision Support Systems
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMDQwMA==
+  - http://www.ukm.my/zakree: http://www.ukm.my/zakree
+  - https://www.facebook.com/nazri.mza: https://www.facebook.com/nazri.mza
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=JxxsovwAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/1730484/mohd-zakree-ahmad-nazri/
+  - Researchgate: https://www.researchgate.net/profile/Mohd_Zakree
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=36624862800
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010400
+
+## 46. Dr. Nazatul Aini Abd Majid
+- Staff ID: K014397
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmTM(UKMalaysia), SSn(UKMalaysia), Ph.D(Auckland)
+- Current Role: Open Distance Learning (ODL) Coordinator CAIT
+- Room: Bilik Ketua Program Teknologi Maklumat, Block A - Ground Floor; H-4-8, Block H - Level 4
+- Contact Details: +6 03 - 8921 6185 / 8921 6809; nazatulaini@ukm.edu.my
+- Expertise: Quality Models; IT in Manufacturing; Multimedia Application; Augmented Reality; Virtual Reality; Mixed Reality
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Mixed Reality and Pervasive (MyxLab)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDM5Nw==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=EPuzLn0AAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Nazatul_Majid
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=35102734900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014397
+
+## 47. Ts. Dr. Nazhatul Hafizah Kamarudin
+- Staff ID: K025652
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Qualifications: B.Eng (Stevens Institute of Technology, USA), M.Eng (Stevens Institute of Technology, USA), Ph.D (UiTM)
+- Current Role: Research Coordinator CYBER
+- Room: H-3-4 Block H - Level 3
+- Contact Details: +6 03 - 8921 6751; nazhatulhafizah@ukm.edu.my
+- Expertise: Artificial Intelligence; Cyber Security; Authentication; Sensor Network
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNTY1Mg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=8TINxd4AAAAJ&hl=en
+  - WoS: https://www.webofscience.com/wos/author/record/1889633
+  - Researchgate: https://www.researchgate.net/profile/Nazhatul-Hafizah-Kamarudin
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57136584900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025652
+
+## 48. Assoc. Prof. Dr. Nazlia Omar
+- Staff ID: K007009
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BSc ( UMIST ), MSc ( Liverpool ), PhD ( Ulster )
+- Current Role: Head of Asian Language Processing (ASLAN) Lab CAIT
+- Room: E-2-12 Block E - Level 2
+- Contact Details: +6 03 - 8921 6733; nazlia@ukm.edu.my
+- Expertise: Computational Linguistics; Natural Language Processing; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Asian Language Processing (ASLAN)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzAwOQ==
+  - https://www.ftsm.ukm.my/no/: https://www.ftsm.ukm.my/no/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=A1Qw7TIAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/1726550/nazlia-omar/
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=23397755200
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007009
+
+## 49. Ts. Dr. Noor Faridatul Ainun Zainal
+- Staff ID: K014802
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Qualifications: SmTM (Sains & Pengurusan Sistem) (UKMalaysia), STM (Sains & Pengurusan Sistem) (UKMalaysia), EDD (UKMalaysia)
+- Current Role: Student Affairs Coordinator
+- Room: E-2-17 Block E - Level 2
+- Contact Details: +6 03 - 8921 6738; faridatul@ukm.edu.my
+- Expertise: E-Learning Technology; Programming Education; Database
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDgwMg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=cO9utIwAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Noor_Faridatul_Zainal
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55496688200
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014802
+
+## 50. Ts. Dr. Noorayisahbe Mohd Yaacob
+- Staff ID: K025823
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: BCS, MSc, PhD(UTeM)
+- Current Role: Promotion Coordinator
+- Room: G-3-23 Block G - Level 3
+- Contact Details: +6 03 - 8921; noorayisah@ukm.edu.my
+- Expertise: Information System; Software Testing; Business Process Modelling; Modelling and Framework; Software Engineering; Health & Biomedical Informatics; Requirements Engineering; Human Computer Interaction; Software Risk & IT Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNTgyMw==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=wC2g_mAAAAAJ&hl=en
+  - WoS: https://publons.com/researcher/3617043/noorayisahbe-mohd-yaacob/
+  - Researchgate: https://www.researchgate.net/profile/Noorayisahbe_Mohd_Yaacob
+  - Scopus: https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57163001100&zone=
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025823
+
+## 51. Dr. Noorazean Mohd. Ali
+- Staff ID: K012339
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: BIT(UUMalaysia), Ph.D(Lancaster)
+- Room: G-2-18 Block G - Level 2
+- Contact Details: +6 03 - 8921 6657; aliazean@ukm.edu.my
+- Expertise: Learning Technology; Programming Education
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMjMzOQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=Of70y2wAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/3264327/noorazean-mohd-ali/
+  - Researchgate: https://www.researchgate.net/profile/Noorazean_Mohd_Ali
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55514920500
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K012339
+
+## 52. Assoc. Prof. Ts. Dr. Nor Samsiah Sani
+- Staff ID: K017269
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BIT(Universiti Tenaga Nasional), Ph.D(University of Sheffield, UK)
+- Current Role: Head of Artificial Intelligence Programme
+- Room: Bilik Ketua Program Kecerdasan Buatan, Block A - Ground Floor; E-4-43, Block E - Level 4
+- Contact Details: +6 03 - 8921 / 8921 6705; norsamsiahsani@ukm.edu.my
+- Expertise: Machine Learning; Data Analytics; Chemical informatics/ Chemoinformatics; Data Mining; Evolutionary Algorithms
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNzI2OQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=JGM7XGQAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Nor_S_Sani
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57196190931
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K017269
+
+## 53. Ms. Norleyza Jailani
+- Staff ID: K006573
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn(UKMalaysia), MSc (Dublin)
+- Room: E-2-19 Block E - Level 2
+- Contact Details: +6 03 - 8921 6740; njailani@ukm.edu.my
+- Expertise: e-Service Adoption; Agent Technology
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNjU3Mw==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=3Po0t68AAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Norleyza_Jailani
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=23667620900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K006573
+
+## 54. Assoc. Prof. Dr. Nur Fazidah Elias
+- Staff ID: K010341
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: Dip. Sains Komputer, SmSn, MEng(UTMalaysia), Ph.D(QUT)
+- Current Role: Assistant Dean (Quality and Strategy) Head of E-Service Lab SOFTAM
+- Room: Bilik Penolong Dekan Kualiti dan Strategik, Block G - Level 1 - Dean's Office; G-3-29, Block G - Level 3
+- Contact Details: +6 03 - 8921 6786 / 8921 6748; pdkualiti.ftsm@ukm.edu.my; fazidah@ukm.edu.my
+- Expertise: Performance Evaluation; Predictive Model; e-Service Adoption
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMDM0MQ==
+  - http://fazidelias.blogspot.com/: http://fazidelias.blogspot.com/
+  - https://www.facebook.com/fazid: https://www.facebook.com/fazid
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=LIR4gf8AAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/3538872/nur-fazidah-elias/
+  - Researchgate: https://www.researchgate.net/profile/Nur_Fazidah_Elias
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=54891754300
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010341
+
+## 55. Ts. Dr. Nur Hanis Sabrina Suhaimi
+- Staff ID: K025929
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Qualifications: BEng (UIAM), MSc (UPM), PhD (UIAM)
+- Current Role: Industry and Networking Coordinator CYBER
+- Room: E-3-27 Block E - Level 3
+- Contact Details: +6 03 - 8921 6743; sabrinasuhaimi@ukm.edu.my
+- Expertise: Satellite & Mobile Communication; Wireless Network Performance; Network Security; Radiowave Propagation
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNTkyOQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=SkbeF20AAAAJ&hl=en&oi=ao
+  - WoS: https://www.webofscience.com/wos/author/record/JSL-0240-2023
+  - Researchgate: https://www.researchgate.net/profile/Sabrina-Suhaimi
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57467288900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025929
+
+## 56. Dr. Nur Izyan Yasmin Saat
+- Staff ID: K026866
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BSc (UKMalaysia), MSc (UKMalaysia), PhD(UKMalaysia)
+- Room: H-4-4 Block H - Level 4
+- Contact Details: +6 03 - 8921; izyanyasmin@ukm.edu.my
+- Expertise: Recommender System; Ontology; Knowledge Graph and Ontology Creation; Information Retrieval
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: The Applied Ontology and Semantic Search (ONTOS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNjg2Ng==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=IC6wBBUAAAAJ&hl=en
+  - Researchgate: https://www.researchgate.net/profile/Nur-Saat-3
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57204361350
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K026866
+
+## 57. Ts. Dr. Nurhidayah Bahar
+- Staff ID: K024359
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: B.SE(UMT), MSc(UiTM), Ph.D(UM)
+- Room: E-3-24 Block E - Level 3
+- Contact Details: +6 03 - 8921 6752; nbahar@ukm.edu.my
+- Expertise: Information System Development; Information System in Healthcare; Information System Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNDM1OQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=5bbSNBIAAAAJ&hl=en
+  - WoS: https://publons.com/researcher/4629453/nurhidayah-bahar/
+  - Researchgate: https://www.researchgate.net/profile/Nurhidayah-Bahar-2
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K024359
+
+## 58. Prof. Dr. Nurhizam Safie Mohd Satar
+- Staff ID: K021309
+- Academic Rank: Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: Ph.D. (IIUM), MBA, (ARU,UK), M. IT (UKM), B.HSc. (IIUM), Dip. (UPM)
+- Room: G-2-17 Block G - Level 2
+- Contact Details: +6 03 - 8921 6348; nurhizam@ukm.edu.my
+- Expertise: Learning Technology; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMTMwOQ== 
+  - https://www.linkedin.com/in/dr-safie-digital-tran: https://www.linkedin.com/in/dr-safie-digital-tran
+  - https://www.facebook.com/profile.php?id=719868823: https://www.facebook.com/profile.php?id=719868823
+  - https://twitter.com/nsafie: https://twitter.com/nsafie
+- Publication Links:
+  - Google Scholar: https://scholar.google.com.my/citations?hl=en&user=UTXlyvEAAAAJ&view_op=list_works&gmla=AJsN-F7oRgiF6FCYHwZ_t8vsFglr4MoqkeMGn0LYbGWx7LDS4_Xryr60Oo5P_XyIsVxurO0MivHSpkwdiroxSnVb7G7QOjf8eHlXN8XgYa46Bl82KxZ66UM
+  - WoS: https://publons.com/researcher/1710387/nurhizam-safie-mohd-satar/
+  - Researchgate: https://www.researchgate.net/profile/Nurhizam_Mohd_Satar
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55791748100
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K021309
+
+## 59. Dr. Rimaniza Zainal Abidin
+- Staff ID: K026265
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SMSn(UKMalaysia), PhD(UKMalaysia)
+- Room: G-2-5 Block G - Level 2
+- Contact Details: +6 03 - 8921 6644; nizazainal@ukm.edu.my
+- Expertise: Augmented Reality; Virtual Reality; Mixed Reality; Human Computer Interaction; Mobile Programming; Extended Reality
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNjI2NQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?hl=en&user=OpYPcOwAAAAJ
+  - WoS: https://www.webofscience.com/wos/author/record/JZD-5165-2024
+  - Researchgate: https://www.researchgate.net/profile/Rimaniza-Zainal-Abidin
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57193434196
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K026265
+
+## 60. Ts. Dr. Rodziah Latih
+- Staff ID: K010009
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn(UKMalaysia), MSc(Sheffield), Ph.D(UKMalaysia)
+- Current Role: Head of Software Engineering Programme Alumni Coordinator
+- Room: G-2-9 Block G - Level 2
+- Contact Details: +6 03 - 8921 6648; rodziah.latih@ukm.edu.my
+- Expertise: E-Learning Technology; Programming Education; Software Testing; Software Engineering
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMDAwOQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=XjjeeAQAAAAJ&hl=en
+  - Researchgate: https://www.researchgate.net/profile/Rodziah_Latih
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=14018024100
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010009
+
+## 61. Ts. Rohizah Abd Rahman
+- Staff ID: K014829
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Qualifications: BSc (USMalaysia), MSc (UKMalaysia)
+- Room: E-2-18 Block E - Level 2
+- Contact Details: +6 03 - 8921 6739; rohizah@ukm.edu.my
+- Expertise: Database; Management Information Systems; Teaching and Learning; Programming Language Technology
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDgyOQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=ep2hHnIAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57190391871
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014829
+
+## 62. Prof. Dr. Rosilah Hassan
+- Staff ID: K008025
+- Academic Rank: Professor
+- Faculty Unit: Center for Cyber Security
+- Qualifications: BEng (Hanyang), MEng(UKMalaysia ), PhD(Strathclyde)
+- Room: H-1-8 Block H - Level 1
+- Contact Details: +6 03 - 8921 6186; rosilah@ukm.edu.my
+- Expertise: Computer Network; Computer Systems and Network Technology
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Network and Communication Technology (NCT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwODAyNQ==
+  - https://www.facebook.com/rosilah.hassan.9: https://www.facebook.com/rosilah.hassan.9
+  - https://twitter.com/rosilahhassan?lang=en: https://twitter.com/rosilahhassan?lang=en
+  - https://www.instagram.com/rosilahn: https://www.instagram.com/rosilahn
+- Publication Links:
+  - Google Scholar: https://scholar.google.com.my/citations?user=tNBOOqMAAAAJ&hl=en
+  - WoS: https://publons.com/researcher/1348420/rosilah-hassan/
+  - Researchgate: https://www.researchgate.net/profile/Rosilah_Hassan
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=7102127975
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K008025
+
+## 63. Dr. Rossilawati Sulaiman
+- Staff ID: K011439
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Qualifications: SmSn(UKMalaysia), MSc(Essex), Ph.D(Canberra)
+- Room: G-2-11 Block G - Level 2
+- Contact Details: +6 03 - 8921 6651; rossilawati@ukm.edu.my
+- Expertise: Computer System Security; Information Security
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMTQzOQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=LAt7_CEAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/2133334/rossilawati-sulaiman/
+  - Researchgate: https://www.researchgate.net/profile/Rossilawati_Sulaiman
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=23391262600
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011439
+
+## 64. Assoc. Prof. Dr. Rozilawati Razali
+- Staff ID: K013047
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: BSc(Sheffield Hallam, UK), MSc(UiTM), PhD(Southampton,UK)
+- Current Role: Chairperson of Center for Software Technology and Management SOFTAM
+- Room: H-3-9 Block H - Level 3
+- Contact Details: +6 03 - 8911 8270; rozilawati@ukm.edu.my
+- Expertise: Requirements Engineering; Software Management; Software Testing
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMzA0Nw==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=CgEcN4IAAAAJ&hl=en&oi=ao
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K013047
+
+## 65. Dr. Ruzzakiah Jenal
+- Staff ID: K011467
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmTM (UKMalaysia), MSc (Loughborough), Phd (UKMalaysia)
+- Current Role: Teaching and Learning Coordinator SOFTAM Head of Postgraduate Programme SOFTAM
+- Room: G-2-20 Block G - Level 2
+- Contact Details: +6 03 - 8921 6659; ruzzakiahjenal@ukm.edu.my
+- Expertise: Performance Evaluation; Value Co-Creation; e-Service Adoption
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMTQ2Nw==
+  - https://www.facebook.com/ruzzakiah.jenal: https://www.facebook.com/ruzzakiah.jenal
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=3nOQ2HcAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=26534442000
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K011467
+
+## 66. Assoc. Prof. Dr. Sabrina Tiun
+- Staff ID: K019335
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BSc(Bradley), MSc, Ph.D (USMalaysia)
+- Current Role: Head of Postgraduate Programme CAIT
+- Room: E-3-32 Block E - Level 3
+- Contact Details: +6 03 - 8921 6730; sabrinatiun@ukm.edu.my
+- Expertise: Computational Linguistics; Natural Language Processing; Speech Processing; Data Analytics
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Asian Language Processing (ASLAN)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxOTMzNQ==
+  - https://www.facebook.com/sabrinatiun: https://www.facebook.com/sabrinatiun
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=hX34y4sAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=24825640000
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K019335
+
+## 67. Dr. Saidah Saad
+- Staff ID: K009939
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: Diploma Sains Komputer (ITM), SmSn, STM (UKMalaysia), PhD (UTM)
+- Current Role: Assistant Dean (Entrepreneurship) Head of Knowledge Computing (KC) Lab CAIT
+- Room: Bilik Penolong Dekan Keusahawanan dan Kreativiti, Block D - Level 4 - InnoFarm; E-3-22, Block E - Level 3
+- Contact Details: +6 03 - 8921 6763 / 8921 6668; hesu.ftsm@ukm.edu.my; saidah@ukm.edu.my
+- Expertise: Information Retrieval; Natural Language Processing; Data Analytics; Knowledge Graph and Ontology Creation
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: The Applied Ontology and Semantic Search (ONTOS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwOTkzOQ==
+  - https://www.ftsm.ukm.my/ss/: https://www.ftsm.ukm.my/ss/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=nJOOWeMAAAAJ&hl=en
+  - Researchgate: https://www.researchgate.net/profile/Saidah_Saad
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=8248079800
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K009939
+
+## 68. Prof. Dr. Salwani Abdullah
+- Staff ID: K008253
+- Academic Rank: Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmSn(UTMalaysia), SSn (UKMalaysia), PhD (Nottingham)
+- Room: E-1-2 Block E - Level 1
+- Contact Details: +6 03 - 8921 6667; salwani@ukm.edu.my
+- Expertise: Combinatorial Optimization; Operations Research; Data Analytics; Data Mining
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwODI1Mw==
+  - https://www.ftsm.ukm.my/salwani/: https://www.ftsm.ukm.my/salwani/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=pmeFzWMAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=23395783300
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K008253
+
+## 69. Assoc. Prof. Dr. Shahnorbanun Sahran
+- Staff ID: K008010
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BSc(UKMalaysia), MSc(UKMalaysia), PhD(Cardiff)
+- Current Role: Head of Medical Computing (MC) Lab CAIT
+- Room: H-4-10 Block H - Level 4
+- Contact Details: +6 03 - 8921 6660; shahnorbanun@ukm.edu.my
+- Expertise: Image Processing; Simulation and Modeling; Data Analytics; Programming Language Technology
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Medical Computing (MC)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwODAxMA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=Xy7OJkQAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/1719988/shahnorbanun-sahran/
+  - Researchgate: https://www.researchgate.net/profile/Shahnorbanun_Sahran2
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=35174929900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K008010
+
+## 70. Ts. Shahrina Shahrani
+- Staff ID: K014828
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Qualifications: SmTM (UKMalaysia)
+- Room: E-4-38 Block E - Level 4
+- Contact Details: +6 03 - 8921 6722; shahrina@ukm.edu.my
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDgyOA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=3IeUUHgAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=56127587900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014828
+
+## 71. Prof. Dr. Shahrul Azman Mohd Noah
+- Staff ID: K006906
+- Academic Rank: Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmSn(UKMalaysia), MSc, PhD(Sheffield)
+- Current Role: Dean
+- Room: Bilik Dekan, Block G - Level 1 - Dean's Office; E-1-8, Block E - Level 1
+- Contact Details: +6 03 - 8921 6173 / 8921 6812; dftsm@ukm.edu.my; shahrul@ukm.edu.my
+- Expertise: Natural Language Processing; Ontology; Data and Text Analytics; Recommender System
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: The Applied Ontology and Semantic Search (ONTOS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNjkwNg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=z00DOrYAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Shahrul_Azman_Mohd_Noah
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=35087633200
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K006906
+
+## 72. Ms. Siti Aishah Hanawi
+- Staff ID: K007175
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn, SSn(UKMalaysia)
+- Room: G-2-19 Block G - Level 2
+- Contact Details: +6 03 - 8921 6658; ctaishah@ukm.edu.my
+- Expertise: Predictive Model; Data Analytics
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzE3NQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=1dEt8NQAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=6505634502
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007175
+
+## 73. Ts. Dr. Siti Fadzilah Mat Noor
+- Staff ID: K007983
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn (UTMalaysia), STM (UKMalaysia), PhD (UTMalaysia)
+- Room: G-3-35 Block G - Level 3
+- Contact Details: +6 03 - 8921 6673; fadzilah@ukm.edu.my
+- Expertise: E-Learning Technology; Human Computer Interaction; Multimedia In Education; Serious Game
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzk4Mw==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=f5D9WMIAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Siti_fadzilah_Mat_noor
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=35748676600
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007983
+
+## 74. Prof. Dr. Siti Norul Huda Sheikh Abdullah
+- Staff ID: K007984
+- Academic Rank: Professor
+- Faculty Unit: Center for Cyber Security
+- Qualifications: BSc(UMIST), STM(UKMalaysia), Ph.D(UTMalaysia)
+- Room: H-1-9 Block H - Level 1
+- Contact Details: +6 03 - 8911 8271; snhsabdullah@ukm.edu.my
+- Expertise: Artificial Intelligence; Computer Vision; Pattern Recognition
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzk4NA==
+  - http://www.ukm.my/mimi: http://www.ukm.my/mimi
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=JAy-cHMAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/2375106/siti-norul-huda-sheikh-abdullah/
+  - Researchgate: https://www.researchgate.net/profile/Siti_Sheikh_Abdullah
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=36057249600
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007984
+
+## 75. Ms. Siti Solehah Mohd Hamid
+- Staff ID: K025401
+- Academic Rank: IT Instructor
+- Faculty Unit: IT Instructor
+- Qualifications: Bachelor in Computer Science (Multimedia Computing)
+- Room: E-4-41 Block E - Level 4
+- Contact Details: +6 03 - 8921 6716; solehah.mhamid@ukm.edu.my
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNTQwMQ==
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K025401
+
+## 76. Dr. Siti Zahidah Abdullah
+- Staff ID: KS18985
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: B.HSc. (UKMalaysia), MSc (UKMalaysia), Ph.D (UKMalaysia)
+- Room: G-2-6 Block G - Level 2
+- Contact Details: +6 03 - 8921 6645; zahida@ukm.edu.my
+- Expertise: Human Computer Interaction; Information Visualization; UI/UX; User/Games Engagement
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - https://ftsm.ukm.my/v6/: https://ftsm.ukm.my/v6/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=7vc8ClYAAAAJ&hl=en&oi=sra
+  - WoS: https://www.webofscience.com/wos/author/record/IRZ-5478-2023
+  - Researchgate: https://www.researchgate.net/profile/Siti-Abdullah-77
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57211597279
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=KS18985
+
+## 77. Assoc. Prof. Dr. Suhaila Zainudin
+- Staff ID: K007989
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BSc(Manchester), STM(UKMalaysia), Ph.D(UTMalaysia)
+- Current Role: Chairperson of Center For Artificial Intelligence Technology CAIT
+- Room: Bilik Pengerusi Pusat Penyelidikan CAIT, Block H - Level 2; G-3-32, Block G - Level 3
+- Contact Details: +6 03 - 8921 6086 / 8921 6709; suhaila.zainudin@ukm.edu.my
+- Expertise: Data Analytics; Biology Data Mining; Data Mining; E-Learning Technology
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzk4OQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=03YpPtcAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/3511698/suhaila-zainudin/
+  - Researchgate: https://www.researchgate.net/profile/Suhaila_Zainudin
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=24479069300
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007989
+
+## 78. Dr. Syahanim Mohd Salleh
+- Staff ID: K007919
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: Dip. S. Komp (ITM), SmSn, STM (UKMalaysia), PhD(UKMalaysia)
+- Current Role: Executive Programme Coordinator
+- Room: E-4-44 Block E - Level 4
+- Contact Details: +6 03 - 8921 6703; syahanim@ukm.edu.my
+- Expertise: Learning Technology; Programming Education
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzkxOQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=F0BdqIwAAAAJ&hl=en&oi=ao
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007919
+
+## 79. Assoc. Prof. Dr. Syaimak Abdul Shukor
+- Staff ID: K010342
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmTM(UKMalaysia), MEng(UTMalaysia), Ph.D(Nottingham)
+- Room: G-3-25 Block G - Level 3
+- Contact Details: +6 03 - 8921 6661; syaimak@ukm.edu.my
+- Expertise: CAD/CAM; IT in Manufacturing; Supply Chain Management
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Machine Learning and Vision (MLV)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxMDM0Mg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=yjo8FW4AAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/1730947/syaimak-abdul-shukor/
+  - Researchgate: https://www.researchgate.net/profile/Syaimak_As
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=26534857800
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K010342
+
+## 80. Dr. Tan Siok Yee
+- Staff ID: K022355
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BIT Hons (UKMalaysia), PhD(UKMalaysia)
+- Room: G-2-7 Block G - Level 2
+- Contact Details: +6 03 - 8921 7194; esther@ukm.edu.my
+- Expertise: Augmented Reality; Image Processing; Mobile Programming; Virtual Reality
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Mixed Reality and Pervasive (MyxLab)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMjM1NQ==
+  - https://www.ftsm.ukm.my/esthertan/: https://www.ftsm.ukm.my/esthertan/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=y7FdMqoAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Siok_Yee_Tan_Esther
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57191974672
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022355
+
+## 81. Assoc. Prof. Dr. Tengku Siti Meriam Tengku Wook
+- Staff ID: K009682
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn, STM(UKMalaysia), Ph.D(UMalaya)
+- Current Role: Head of Learning Innovation Technology (LIT) Lab SOFTAM
+- Room: Bilik Ketua Program Siswazah, Block A - Ground Floor; G-3-39, Block G - Level 3
+- Contact Details: +6 03 - 8921 7136 / 8921 6078; tsmeriam@ukm.edu.my
+- Expertise: E-Learning Technology; Human Computer Interaction; Interaction Design; Multimedia Application; Games; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwOTY4Mg==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=oVcPN4wAAAAJ&hl=en
+  - Researchgate: https://www.researchgate.net/profile/Tengku_Siti_Meriam_Tengku_Wook_Tengku_Wook
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=23399018100
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K009682
+
+## 82. Assoc. Prof. Dr. Umi Asma' Mokhtar
+- Staff ID: K015787
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Cyber Security
+- Qualifications: DCS(UiTM), BSc(UiTM), MSc(UKMalaysia), PhD(UKMalaysia)
+- Current Role: Head of Cyber Protection and Governance (CPG) Lab CYBER
+- Room: Bilik Ketua Program Siswazah (CYBER), Block A - Ground Floor; H-1-11, Block H - Level 1
+- Contact Details: +6 03 - 8921 6813 / 8921 6198; umimokhtar@ukm.edu.my
+- Expertise: Record Management
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNTc4Nw==
+  - https://www.facebook.com/umiasma: https://www.facebook.com/umiasma
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=0oYF7kcAAAAJ&hl=en&oi=ao
+  - WoS: https://publons.com/researcher/2118609/umi-asma-mokhtar/
+  - Researchgate: https://www.researchgate.net/profile/Umi_Mokhtar
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=36943451900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K015787
+
+## 83. Dr. Wan Fariza Paizi@Fauzi
+- Staff ID: K022081
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Cyber Security
+- Qualifications: BEng. (Southampton), M.Eng. (UTMalaysia), PhD (Monash University)
+- Current Role: Head of Postgraduate Programme CYBER
+- Room: E-2-14 Block E - Level 2
+- Contact Details: +6 03 - 8921 6976; fariza.fauzi@ukm.edu.my
+- Expertise: Natural Language Processing; Semantic Technology; Data Analytics; Information Processing and Management
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Analytic (CA)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMjA4MQ==
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K022081
+
+## 84. Dr. Wandeep Kaur a/p Ratan Singh
+- Staff ID: K023728
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BIT Hons (MMU), MSc (UTMalaysia), PhD (UMalaya)
+- Current Role: Master Programme Coordinator (Module)
+- Room: Bilik Penyalaras Program Sarjana Khas, Block A - Ground Floor; H-2-4, Block H - Level 2
+- Contact Details: +6 03 - 8921 6176 / 8921; sarjanakhas.ftsm@ukm.edu.my; wandeep@ukm.edu.my
+- Expertise: Natural Language Processing; Sentiment and Emotion Analysis; Explainable Artificial Intelligence; Language Models and Optimization
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Sentiment Analysis (SA)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMzcyOA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=rAGFKykAAAAJ&hl
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=57189076116
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K023728
+
+## 85. Assoc. Prof. Dr. Yazrina Yahya
+- Staff ID: K007327
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn(UKMalaysia), MSc(City London), Ph.D(UKMalaysia)
+- Room: E-3-26 Block E - Level 3
+- Contact Details: +6 03 - 8921 6723; yazrina@ukm.edu.my
+- Expertise: Information System Management
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: E-Service (ESERVICE)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzMyNw==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?hl=en&user=1R7EWzoAAAAJ
+  - Researchgate: https://www.researchgate.net/profile/Yazrina-Yahya
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=23669593600
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007327
+
+## 86. Dr. Zaihosnita Hood
+- Staff ID: K007918
+- Academic Rank: Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: Dip. S. Komp (ITM), SmSn, STM (UKMalaysia), PhD(UKMalaysia)
+- Room: E-3-28 Block E - Level 3
+- Contact Details: +6 03 - 8921 6710; nitahood@ukm.edu.my
+- Expertise: Interaction Design; Learning Technology; Information System; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzkxOA==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=mfOCU0wAAAAJ&hl=en&oi=ao
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=56572703800
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007918
+
+## 87. Dr. Zainal Rasyid Mahayuddin
+- Staff ID: K014629
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: SmTM(UKMalaysia), SSn(UKMalaysia), Ph.D(Cranfield)
+- Current Role: Industry and Networking Coordinator CAIT
+- Room: G-2-10 Block G - Level 2
+- Contact Details: +6 03 - 8921 6650; zainalr@ukm.edu.my
+- Expertise: Computer Vision; Simulation and Modeling; Vision Language Model; Mixed Reality
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Mixed Reality and Pervasive (MyxLab)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDYyOQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=1Y50UjsAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Zainal_Mahayuddin
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=26534633600
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014629
+
+## 88. Assoc. Prof. Dr. Zalinda Othman
+- Staff ID: K014819
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Artificial Intelligence Technology
+- Qualifications: BTech (USMalaysia), MSc (NewcastleuponTyne), PhD (USMalaysia)
+- Room: E-2-13 Block E - Level 2
+- Contact Details: +6 03 - 8921 6734; zalinda@ukm.edu.my
+- Expertise: Combinatorial Optimization; Data Analytics; Data Mining; IT in Manufacturing
+- Research Center: Center for Artificial Intelligence Technology (CAIT)
+- Research Lab: Data Mining and Optimization (DMO)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDgxOQ==
+  - https://www.facebook.com/zalinda.othman: https://www.facebook.com/zalinda.othman
+  - https://www.instagram.com/drzalindaftsm1601/: https://www.instagram.com/drzalindaftsm1601/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=0TrjNpcAAAAJ
+  - WoS: https://publons.com/researcher/3519422/zalinda-othman/
+  - Researchgate: https://www.researchgate.net/profile/Zalinda_Othman2
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=26654363900
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K014819
+
+## 89. Prof. Dr. Zarina Shukur
+- Staff ID: K007299
+- Academic Rank: Professor
+- Faculty Unit: Center for Cyber Security
+- Qualifications: SmSn(UKMalaysia), PhD(Nottingham)
+- Current Role: APEL Q Coordinator
+- Room: H-1-4 Block H - Level 1
+- Contact Details: +6 03 - 8921 6466; zarinashukur@ukm.edu.my
+- Expertise: Formal Method; Computer System Security; Software Engineering
+- Research Center: Center for Cyber Security (CYBER)
+- Research Lab: Cyber Protection and Governance (CPG)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzI5OQ==
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=mLbCXGEAAAAJ&hl=en&oi=ao
+  - Researchgate: https://www.researchgate.net/profile/Zarina_Shukur
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=8230989000
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007299
+
+## 90. Assoc. Prof. Dr. Zulkefli Mansor
+- Staff ID: K020832
+- Academic Rank: Associate Professor
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: DCS (UiTM), BIS (East London), MSE (Malaya), PhD (UiTM)
+- Room: E-2-11 Block E - Level 2
+- Contact Details: +6 03 - 8921 6732; kefflee@ukm.edu.my
+- Expertise: Curriculum Design and Development; Software Project Management; Agile Methodology; Applied AI in Software Engineering
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Strategic Information and Software Systems (SISS)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMDgzMg==
+  - https://www.facebook.com/kefflee: https://www.facebook.com/kefflee
+  - https://twitter.com/Keffleem: https://twitter.com/Keffleem
+  - https://www.instagram.com/keffleem/: https://www.instagram.com/keffleem/
+- Publication Links:
+  - Google Scholar: https://scholar.google.com/citations?user=6tRUwQIAAAAJ&hl=en
+  - WoS: https://www.webofscience.com/wos/author/record/99328
+  - Researchgate: https://www.researchgate.net/profile/Zulkefli_Mansor
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=56523538400
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K020832
+
+## 91. Dr. Zurina Muda
+- Staff ID: K007925
+- Academic Rank: Senior Lecturer
+- Faculty Unit: Center for Software Technology and Management
+- Qualifications: SmSn, STM(UKMalaysia), Ph.D(Southampton)
+- Current Role: Assistant Dean (Students and Alumni Affairs)
+- Room: Bilik Penolong Dekan Hal Ehwal Pelajar dan Alumni, Block A - Ground Floor; G-2-8, Block G - Level 2
+- Contact Details: +6 03 - 8921 6180 / 8921 6647; hepftsm@ukm.edu.my; zurinam@ukm.edu.my
+- Expertise: E-Learning Technology; Instructional Design; Multimedia Application; Multimedia In Education; Serious Game; UI/UX
+- Research Center: Center for Software Technology and Management (SOFTAM)
+- Research Lab: Learning Innovation Technology (LIT)
+- Profile Links:
+  - UKM Sarjana: https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzkyNQ==
+- Publication Links:
+  - Researchgate: https://www.researchgate.net/profile/Zurina_Muda
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=15925994700
+- Source: https://ftsm.ukm.my/v6/directory/get_staff_details?staffid=K007925

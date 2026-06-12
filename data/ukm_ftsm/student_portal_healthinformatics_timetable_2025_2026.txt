@@ -1,0 +1,80 @@
+UKM FTSM Chinese Student Portal - Health Informatics Master Timetable 2025-2026
+Source site: https://ftsm.pages.dev
+Source route: https://ftsm.pages.dev/systems
+Source type: community student portal for FTSM / Chinese student support
+Generated at (UTC): 2026-04-02T07:06:44.417456+00:00
+
+[2025-2026 第一学期]
+Entry 1: [E] TTTC6424 FUNDAMENTAL OF DATA SCIENCE
+Date: 2025年10月6日-2025年10月10日
+Location: Data Science Lab
+Instructor: PROF DR AZURALIZA ABU BAKAR & AP DR SUHAILA ZAINUDIN
+
+Entry 2: [C] TTTS6024 INFORMATION MODELING AND DATABASES
+Date: 2025年10月13日-2025年10月17日
+Location: Data Science Lab
+Instructor: DR HAFIZ MOHD SARIM & PROF DR ZULAIHA ALI OTHMAN
+
+Entry 3: [E] TTTX6134 CYBERLAW AND ETHICS
+Date: 2025年11月3日-2025年11月7日
+Location: BK7, Block G
+Instructor: AP DR MASNIZAH MOHD
+
+Entry 4: [C] TTTY6024 HEALTH INFORMATICS
+Date: 2025年11月17日-2025年11月21日
+Location: BK7, Block G
+Instructor: AP DR MARYATI MOHD YUSOF
+
+Entry 5: [E] TTTC6444 MACHINE LEARNING FOR DATA SCIENCE
+Date: 2025年11月17日-2025年11月21日
+Location: Data Science Lab
+Instructor: AP DR NOR SAMSIAH SANI & DR AFZAN ADAM
+
+Entry 6: [E] TTTU6314 BUSINESS ANALYTICS
+Date: 2025年12月1日-2025年12月5日
+Location: BK7, Block G
+Instructor: AP DR MOHD ZAKREE AHMAD NAZRI & DR KAUTHAR MD DAUD
+
+Entry 7: [C] TTTY6034 ANALYSIS AND DESIGN OF HEALTH INFORMATION SYSTEMS
+Date: 2025年12月15日-2025年12月19日
+Location: BK7, Block G
+Instructor: DR. HASIMI SALLEHUDDIN & DR ZAIHOSNITA HOOD
+
+Entry 8: 考试周
+Date: 2026年1月26日-2026年2月15日
+Type: Exam Week
+
+[2025-2026 第二学期]
+Entry 1: [E] TTTC6424 FUNDAMENTAL OF DATA SCIENCE
+Date: 2026年3月30日-2026年4月3日
+Location: Data Science Lab
+Instructor: PROF DR AZURALIZA ABU BAKAR & AP DR SUHAILA ZAINUDIN
+
+Entry 2: [C] TTTY6044 ENTERPRISE ARCHITECTURE FOR HEALTH INFORMATION SYSTEMS
+Date: 2026年4月13日-2026年4月17日
+Location: BK7, Block G
+Instructor: DR. HASIMI SALLEHUDDIN
+
+Entry 3: [E] TTTU6314 BUSINESS ANALYTICS
+Date: 2026年4月27日-2026年5月4日
+Location: BK7, Block G
+Instructor: AP DR MOHD ZAKREE AHMAD NAZRI & DR KAUTHAR MD DAUD
+
+Entry 4: [C] TTTY6054 MANAGEMENT OF INFORMATION TECHNOLOGY
+Date: 2026年5月11日-2026年5月15日
+Location: BK7, Block G
+Instructor: AP DR MARYATI MOHD YUSOF
+
+Entry 5: [E] TTTX6134 CYBERLAW AND ETHICS
+Date: 2026年5月18日-2026年5月22日
+Location: BK7, Block G
+Instructor: AP DR MASNIZAH MOHD
+
+Entry 6: [C] TTTS6024 INFORMATION MODELING AND DATABASES
+Date: 2026年6月8日-2026年6月12日
+Location: Data Science Lab
+Instructor: DR HAFIZ MOHD SARIM
+
+Entry 7: 考试周
+Date: 2026年7月6日-2026年7月26日
+Type: Exam Week

@@ -1,0 +1,150 @@
+FTSM Postgraduate Coursework Timetable Sem 2 Session 2025/2026
+==============================================================
+
+Source file: Coursework Timetable FTSM Sem 2 2526 (1).pdf
+Faculty: Faculty of Information Science and Technology (FTSM)
+Level: Postgraduate
+Semester: Semester 2
+Session: 2025/2026
+Mode: Coursework timetable
+Note: This text version was transcribed from the timetable PDF image so it can be indexed by the RAG system.
+
+Timetable Summary
+-----------------
+
+0900-1300
+---------
+
+Monday:
+- TC6244 Advanced Machine Learning
+  Lecturer: NurSamsiah / Shan orbanun
+  Location: BK16, Block F
+
+- TE6304 Software Engineering Practice
+  Lecturer: Zulkefli
+  Location: BK14, Block F
+
+- TN6014 Network Modeling and Simulation
+  Lecturer: Azana Hafizah
+  Location: BK15, Block F
+
+Tuesday:
+- TP6084 Information Retrieval
+  Lecturer: Shahrul Azman Mohd Noah / Nur Izyan
+  Location: BK16, Block F
+
+- TN6224 Computer Security and Defense
+  Lecturer: MKamrul
+  Location: BK14, Block F
+
+- TM6124 Advanced Research Methods in Computing
+  Lecturer: Program Coordinator
+  Location: Online
+
+Wednesday:
+- TP6554 Computational Social Science
+  Lecturer: Mashnizah
+  Location: BK14, Block F
+
+- TU6234 Data Warehousing
+  Lecturer: MFaizdul
+  Location: BK15, Block F
+
+Thursday:
+- TC6414 Knowledge Discovery and Data Mining
+  Lecturer: Zalinda
+  Location: BK14, Block F
+
+- TN6484 System and Network Management
+  Lecturer: Azana Hafizah
+  Location: BK16, Block F
+
+Friday:
+- TA6434 Advanced Algorithm and Data Structure
+  Lecturer: Kauthar / Syahanim
+  Location: BK16, Block F
+
+- TU6134 Business Process Management
+  Lecturer: Dalbir Singh
+  Location: BK14, Block F
+
+Saturday:
+- TM6112 Research Method in Computing
+  Lecturer: Program Coordinator
+  Location: Online
+
+- TM6114 Set 1 Research Method in Computing
+  Lecturer: Program Coordinator
+  Location: Online
+
+Sunday:
+- TM6114 Set 2 Research Method in Computing
+  Lecturer: Program Coordinator
+  Location: Online
+
+1400-1800
+---------
+
+Monday:
+- TH6124 Interface Design
+  Lecturer: Tengku Siti Meriam Tg Wook / Siti Fadzilah
+  Location: BK15, Block F
+
+Tuesday:
+- TC6544 Advanced Artificial Intelligence
+  Lecturer: Salwani / Amirin
+  Location: BK16, Block F
+
+- TH6234 Mix Reality
+  Lecturer: Lam Meng Chun
+  Location: BK15, Block F
+
+Thursday:
+- TH6114 Game Art and 3D Modeling
+  Lecturer: Hafiz / Rimanizal
+  Location: BK12, Block F
+
+- TU6294 Project and Change Management
+  Lecturer: Yazrina
+  Location: BK16, Block F
+
+1500-1900
+---------
+
+Tuesday:
+- TR6244 Simulation Modelling
+  Lecturer: Zainal Rasyid
+  Location: MP2, Block B
+
+Course Lookup
+-------------
+- TA6434: Advanced Algorithm and Data Structure, Friday 0900-1300, BK16 Block F.
+- TC6244: Advanced Machine Learning, Monday 0900-1300, BK16 Block F.
+- TC6414: Knowledge Discovery and Data Mining, Thursday 0900-1300, BK14 Block F.
+- TC6544: Advanced Artificial Intelligence, Tuesday 1400-1800, BK16 Block F.
+- TE6304: Software Engineering Practice, Monday 0900-1300, BK14 Block F.
+- TH6114: Game Art and 3D Modeling, Thursday 1400-1800, BK12 Block F.
+- TH6124: Interface Design, Monday 1400-1800, BK15 Block F.
+- TH6234: Mix Reality, Tuesday 1400-1800, BK15 Block F.
+- TM6112: Research Method in Computing, Saturday 0900-1300, Online.
+- TM6114 Set 1: Research Method in Computing, Saturday 0900-1300, Online.
+- TM6114 Set 2: Research Method in Computing, Sunday 0900-1300, Online.
+- TM6124: Advanced Research Methods in Computing, Tuesday 0900-1300, Online.
+- TN6014: Network Modeling and Simulation, Monday 0900-1300, BK15 Block F.
+- TN6224: Computer Security and Defense, Tuesday 0900-1300, BK14 Block F.
+- TN6484: System and Network Management, Thursday 0900-1300, BK16 Block F.
+- TP6084: Information Retrieval, Tuesday 0900-1300, BK16 Block F.
+- TP6554: Computational Social Science, Wednesday 0900-1300, BK14 Block F.
+- TR6244: Simulation Modelling, Tuesday 1500-1900, MP2 Block B.
+- TU6134: Business Process Management, Friday 0900-1300, BK14 Block F.
+- TU6234: Data Warehousing, Wednesday 0900-1300, BK15 Block F.
+- TU6294: Project and Change Management, Thursday 1400-1800, BK16 Block F.
+
+Location Lookup
+---------------
+- BK12, Block F: TH6114 Game Art and 3D Modeling.
+- BK14, Block F: TE6304 Software Engineering Practice; TN6224 Computer Security and Defense; TP6554 Computational Social Science; TC6414 Knowledge Discovery and Data Mining; TU6134 Business Process Management.
+- BK15, Block F: TN6014 Network Modeling and Simulation; TU6234 Data Warehousing; TH6124 Interface Design; TH6234 Mix Reality.
+- BK16, Block F: TC6244 Advanced Machine Learning; TP6084 Information Retrieval; TN6484 System and Network Management; TA6434 Advanced Algorithm and Data Structure; TC6544 Advanced Artificial Intelligence; TU6294 Project and Change Management.
+- MP2, Block B: TR6244 Simulation Modelling.
+- Online: TM6112 Research Method in Computing; TM6114 Set 1 Research Method in Computing; TM6114 Set 2 Research Method in Computing; TM6124 Advanced Research Methods in Computing.

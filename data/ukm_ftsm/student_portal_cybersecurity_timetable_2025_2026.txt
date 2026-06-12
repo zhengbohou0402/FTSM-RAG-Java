@@ -1,0 +1,85 @@
+UKM FTSM Chinese Student Portal - Cyber Security Master Timetable 2025-2026
+Source site: https://ftsm.pages.dev
+Source route: https://ftsm.pages.dev/systems
+Source type: community student portal for FTSM / Chinese student support
+Generated at (UTC): 2026-04-02T07:06:44.417456+00:00
+
+[2025-2026 第一学期]
+Entry 1: [C] TTTX6114 COMPUTER SECURITY
+Date: 2025年10月6日-2025年10月10日
+Location: Cyber Security Lab
+Instructor: DR ROSSILAWATI SULAIMAN
+
+Entry 2: [C] TTTX6144 INFORMATION SECURITY MANAGEMENT
+Date: 2025年10月13日-2025年10月17日
+Location: BK7, Block G
+Instructor: DR ROZILAWATI RAZALI
+
+Entry 3: [E] TTTX6254 SECURITY AUDIT AND ASSESSMENT
+Date: 2025年10月13日-2025年10月17日
+Location: Cyber Security Lab
+Instructor: DR. IBRAHIM MOHAMED
+
+Entry 4: [C] TTTX6124 NETWORK SECURITY
+Date: 2025年11月3日-2025年11月7日
+Location: Cyber Security Lab
+Instructor: DR KHAIRUL AZMI ABU BAKAR
+
+Entry 5: [C] TTTX6134 CYBERLAW AND ETHICS
+Date: 2025年11月3日-2025年11月7日
+Location: BK7, Block G
+Instructor: AP DR MASNIZAH MOHD
+
+Entry 6: [E] TTTD6214 DATA RECOVERY & ANALYSIS
+Date: 2025年11月17日-2025年11月21日
+Location: Cyber Security Lab
+Instructor: AP DR KHAIRUL AKRAM ZAINOLARIFFIN
+
+Entry 7: [E] TTTD6314 DIGITAL MEDIA FORENSIC ANALYSIS
+Date: 2025年12月1日-2025年12月5日
+Location: Cyber Security Lab
+Instructor: DR KOK VEN JYN
+
+Entry 8: [E] TTTX6244 ETHICAL HACKING AND PENETRATION TESTING
+Date: 2025年12月15日-2025年12月19日
+Location: Cyber Security Lab
+Instructor: DR WAN FARIZA
+
+Entry 9: 考试周
+Date: 2026年1月26日-2026年2月15日
+Type: Exam Week
+
+[2025-2026 第二学期]
+Entry 1: [C] TTTX6114 COMPUTER SECURITY
+Date: 2026年3月30日-2026年4月3日
+Location: Cyber Security Lab
+Instructor: DR ROSSILAWATI SULAIMAN
+
+Entry 2: [E] TTTX6244 ETHICAL HACKING AND PENETRATION TESTING
+Date: 2026年4月13日-2026年4月17日
+Location: Cyber Security Lab
+Instructor: DR WAN FARIZA
+
+Entry 3: [E] TTTD6104 FUNDAMENTAL OF DIGITAL FORENSICS
+Date: 2026年4月27日-2026年5月4日
+Location: Cyber Security Lab
+Instructor: AP DR KHAIRUL AKRAM ZAINOLARIFFIN
+
+Entry 4: [C] TTTX6124 NETWORK SECURITY
+Date: 2026年5月11日-2026年5月15日
+Location: Cyber Security Lab
+Instructor: DR KHAIRUL AZMI ABU BAKAR
+
+Entry 5: [E] TTTX6134 CYBERLAW AND ETHICS
+Date: 2026年5月18日-2026年5月22日
+Location: BK7, Block G
+Instructor: AP DR MASNIZAH MOHD
+
+Entry 6: [C] TTTX6144 INFORMATION SECURITY MANAGEMENT
+Date: 2026年6月8日-2026年6月12日
+Location: BK7, Block G
+Instructor: AP DR UMI ASMA' MOKHTAR
+
+Entry 7: 考试周
+Date: 2026年7月6日-2026年7月26日
+Type: Exam Week

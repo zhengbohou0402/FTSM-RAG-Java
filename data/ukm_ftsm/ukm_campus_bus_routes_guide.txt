@@ -1,0 +1,281 @@
+================================================================================
+UKM 校园公交线路信息 / UKM Campus Bus Routes
+来源: https://ftsm.pages.dev/
+整理日期: 2026年4月
+================================================================================
+
+UKM 校园共有 8 条环线公交路线（ZON 1 - ZON 8），覆盖主要学院、宿舍、设施和重要地点。
+
+================================================================================
+运营信息 / Operating Information
+================================================================================
+
+【运营时间 / Operating Hours】
+
+工作日 (Hari Operasi / Operating Days):
+- 周一至周四 (Isnin-Jumaat / Monday-Thursday): 7:30 AM - 11:30 AM, 1:00 PM - 2:00 PM, 7:00 AM - 8:00 PM
+- 周五 (Jumaat / Friday): 
+  - 上午: 7:30 AM - 11:30 AM
+  - 午休时间: 12:00 PM - 5:00 PM (午间休息较长)
+- 周日 (Ahad / Sunday): 部分线路运营，每日3次（8:00 AM, 12:00 PM, 5:00 PM）
+
+【频率 / Frequency】
+- 高峰时段: 每 30 分钟一班 (Setiap 30 minit / Every 30 minutes)
+- 午休时段: 1:00 PM - 2:00 PM
+
+【票务信息 / Ticketing】
+- 起点: 所有线路均从巴士起点站 (BAS MULA) 出发
+- 行走方向: 按箭头方向行驶 (Jarak Berjalan Kaki / Walking Distance)
+- 停靠规则: 
+  - 红色实心站点 (Hentian Pertukaran / Transfer Hub): 主要换乘站
+  - 空心站点 (Hentian Bas): 普通站点
+  - 虚线标记: 步行可达的设施
+
+【重要提示 / Important Notes】
+根据 TMJ 通知（2024年5月19日发布），运营时间可能调整，以学期开始前公布的最新班次为准。
+
+================================================================================
+各线路站点列表 / Route Details
+================================================================================
+
+【ZON 1 - 红线 / Red Line】
+主要覆盖: 学院区、图书馆、行政楼
+站点顺序:
+1. BAS MULA (起点站)
+2. KPZ (Kolej Pendeta Zaba)
+3. FUU (Fakulti Undang-Undang / Faculty of Law)
+4. PPA (Pusat Permata Pintar)
+5. FKAB (Fakulti Kejuruteraan dan Alam Bina)
+6. FPEND (Fakulti Pendidikan)
+7. PBL (Perpustakaan / Library)
+8. KBH (Kolej Burhanuddin Helmi)
+9. PKU (Pusat Kesihatan Universiti)
+10. KIY (Kolej Ibrahim Yaacob)
+11. KUO (Kolej Ungku Omar)
+12. PTSL (Pusat Sukan)
+13. FST (Fakulti Sains dan Teknologi)
+14. PUSANIKA (Pusat Siswazah)
+15. FPI (Fakulti Pengajian Islam)
+16. CANSELORI (Canselori)
+17. FSSK (Fakulti Sains Sosial dan Kemanusiaan)
+18. KDO (Kolej Dato' Onn)
+19. KRK (Kolej Keris Mas)
+20. STADIUM (Stadium UKM)
+21. KIZ (Kolej Ibu Zain)
+22. PENGAJARAN (Bangunan Pengajaran)
+23. DECTAR (Dectar Building)
+
+【ZON 2 - 绿线 / Green Line】
+主要覆盖: 宿舍区、图书馆、学院
+站点顺序:
+1. BAS MULA
+2. GSB UKM (Gedung Siswazah Baru)
+3. PENGAJARAN
+4. KKM (Kolej Keris Mas)
+5. KIZ
+6. KRK
+7. STADIUM
+8. FST → FTSM (Fakulti Teknologi dan Sains Maklumat)
+9. PKU (Pusat Kesihatan)
+10. KBH
+11. FPEND
+12. PBL (Perpustakaan)
+13. FKAB
+14. KIY
+15. KUO
+16. PTSL
+17. KAB (Kolej Aminuddin Baki)
+18. FEP (Fakulti Ekonomi dan Pengurusan)
+19. PUSAN (Pusanika)
+20. CANSELORI
+21. FPI
+22. FSSK
+23. KDO
+24. DECTAR
+
+【ZON 3 - 蓝线 / Blue Line】
+主要覆盖: 通勤停车场、学院、宿舍
+特点: 连接校外通勤停车场 (KOMUTER P1)
+站点顺序:
+1. KOMUTER (通勤停车场入口)
+2. UKMSHAPE & DANAU (湖边设施)
+3. KKM
+4. PENGAJARAN
+5. KIZ
+6. KRK → STADIUM
+7. KDO → CANSELORI
+8. FSSK → PUSANIKA
+9. PTSL (红色标记，主要换乘站)
+10. GSB UKM
+
+【ZON 4 - 黄线 / Yellow Line】
+主要覆盖: 宿舍密集区、学院
+站点顺序:
+1. KOMUTER P1
+2. KBH
+3. PKU
+4. FPEND → PBL
+5. FKAB
+6. KPZ → FTSM
+7. DECTAR
+8. KRK → STADIUM
+9. UKMSHAPE
+10. KKM
+11. GSB UKM
+12. PENGAJARAN
+13. KIZ
+14. KDO
+15. PUSANIKA
+16. FSSK
+17. CANSELORI
+18. FPI
+19. PTSL (红色标记)
+20. KAB → FEP
+21. KIY
+22. FST
+
+【ZON 5 - 灰线 / Grey Line】
+极简线路，连接宿舍和主校区
+站点顺序:
+1. HENTIAN KAJANG (连接校外 Kajang 镇)
+2. KOMUTER
+3. KKM
+4. PENGAJARAN
+5. GSB UKM
+6. KIZ
+7. KRK → STADIUM
+8. KDO → CANSELORI
+9. FSSK → PUSANIKA
+10. PTSL (红色标记)
+11. KAB → FEP
+12. KIY
+13. KBH
+14. PKU
+
+【ZON 6 - 紫线 / Purple Line】
+主要覆盖: 宿舍、体育馆、学院
+特点: 连接 KIAM 区域
+站点顺序:
+1. KIAM (起点)
+2. DECTAR
+3. KRK → STADIUM
+4. KDO → CANSELORI
+5. FSSK → PUSANIKA
+6. PTSL (红色标记)
+7. KAB → FEP
+8. KIY
+9. KBH
+10. PKU
+11. FST
+
+【ZON 7 - 青绿线 / Teal Line】
+连接宿舍区
+特点: HENTIAN KAJANG 直达线
+站点顺序:
+1. HENTIAN KAJANG
+2. KOMUTER
+3. KKM
+4. PENGAJARAN
+5. KIZ
+6. KRK → STADIUM
+7. KDO → CANSELORI
+8. FSSK → PUSANIKA
+9. PTSL (红色标记)
+10. KAB → FEP
+11. KIY
+12. KBH
+
+【ZON 8 - 橙线 / Orange Line】
+主要覆盖: Southville 区域和主校区
+特点: 连接南部宿舍和商业区
+站点顺序:
+1. SOUTHVILLE (南部区域)
+2. DECTAR
+3. KDO
+4. FSSK → PUSANIKA
+5. PTSL (红色标记)
+6. KAB → FEP
+7. KIY
+8. KBH
+9. FST
+10. PKU
+
+================================================================================
+关键地标缩写对照 / Key Landmarks Abbreviations
+================================================================================
+
+学院 / Faculties:
+- FTSM: Fakulti Teknologi dan Sains Maklumat (Faculty of Information Science & Technology)
+- FST: Fakulti Sains dan Teknologi (Faculty of Science & Technology)
+- FEP: Fakulti Ekonomi dan Pengurusan (Faculty of Economics & Management)
+- FKAB: Fakulti Kejuruteraan dan Alam Bina (Faculty of Engineering & Built Environment)
+- FPI: Fakulti Pengajian Islam (Faculty of Islamic Studies)
+- FSSK: Fakulti Sains Sosial dan Kemanusiaan (Faculty of Social Sciences & Humanities)
+- FPEND: Fakulti Pendidikan (Faculty of Education)
+- FUU: Fakulti Undang-Undang (Faculty of Law)
+
+宿舍 / Residential Colleges:
+- KPZ: Kolej Pendeta Zaba
+- KBH: Kolej Burhanuddin Helmi
+- KIY: Kolej Ibrahim Yaacob
+- KUO: Kolej Ungku Omar
+- KDO: Kolej Dato' Onn
+- KRK: Kolej Keris Mas
+- KIZ: Kolej Ibu Zain
+- KAB: Kolej Aminuddin Baki
+- KKM: Kolej Keris Mas
+
+重要设施 / Key Facilities:
+- PBL: Perpustakaan (Library / 图书馆)
+- PKU: Pusat Kesihatan Universiti (University Health Center / 保健中心)
+- PTSL: Pusat Sukan (Sports Center / 体育中心)
+- PUSANIKA: Pusat Siswazah (Graduate Center / 研究生中心)
+- CANSELORI: Canselori (Chancellor's Office / 校长办公室)
+- GSB UKM: Gedung Siswazah Baru (New Graduate Building / 新研究生楼)
+- UKMSHAPE: 健身中心 (Fitness Center)
+- DANAU: 湖泊景观区 (Lake Area)
+- STADIUM: 体育场 (Stadium)
+- DECTAR: Dectar Building (行政楼)
+- PENGAJARAN: Bangunan Pengajaran (Teaching Building / 教学楼)
+
+交通换乘点 / Transfer Points:
+- KOMUTER: 通勤停车场 (Commuter Parking)
+- HENTIAN KAJANG: Kajang 镇接驳站 (Kajang Town Connection)
+- SOUTHVILLE: 南部商业住宅区 (Southern Commercial-Residential Area)
+
+================================================================================
+使用建议 / Usage Tips
+================================================================================
+
+1. **到达 FTSM**: 
+   - 推荐乘坐 ZON 1, ZON 2, ZON 4 (FTSM 为站点)
+   - 或乘坐 ZON 8 到 FST 站，步行至 FTSM
+
+2. **宿舍往返图书馆 (PBL)**:
+   - 所有主要线路 (ZON 1-4) 均停靠 PBL
+
+3. **体育设施 (PTSL)**:
+   - 所有线路均停靠，PTSL 为主要换乘站（红色标记）
+
+4. **换乘策略**:
+   - PTSL 是最重要的换乘站，可换乘任意线路
+   - KRK/STADIUM 区域为次要换乘点
+
+5. **校外通勤**:
+   - 使用 ZON 3, ZON 5, ZON 7 连接 KOMUTER 停车场
+   - 使用 ZON 5, ZON 7 连接 HENTIAN KAJANG 镇
+
+6. **周末出行**:
+   - 周日班次有限，建议提前规划
+   - 可使用 Grab/出租车作为备选
+
+================================================================================
+相关资源 / Related Resources
+================================================================================
+
+- 线路图: 见附件 ZON1.png - ZON8.png
+- 实时查询: MyRapid 应用（查询巴士实时位置）
+- 联系方式: 见"UKM 常用联系方式"文档
+- 更新日期: 每学期开始前公布最新班次
+
+================================================================================

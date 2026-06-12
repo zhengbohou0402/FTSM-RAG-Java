@@ -1,0 +1,19 @@
+UKM FTSM Chinese Student Portal - Master Programme Coordinators
+Source site: https://ftsm.pages.dev
+Source route: https://ftsm.pages.dev/systems
+Source type: community student portal for FTSM / Chinese student support
+Generated at (UTC): 2026-04-02T07:06:44.417456+00:00
+
+[Coordinator Record 1]
+Programme Type: 硕士（课程模式）
+Coordinator: Dr. Ahmad Tarmizi Abdul Ghani
+Coordinator Email: atag@ukm.edu.my
+Secretary: Nur Iffah Syaheera Md Khair
+Secretary Email: nuriffahsyaheera@ukm.edu.my
+
+[Coordinator Record 2]
+Programme Type: 硕士（混合模式）
+Coordinator: Dr. Wandeep Kaur a/p Ratan Singh
+Coordinator Email: wandeep@ukm.edu.my
+Secretary: Syafiqah Najwa Jamali
+Secretary Email: snajwajamali@ukm.edu.my

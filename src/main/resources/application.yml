@@ -1,0 +1,59 @@
+server:
+  address: ${SERVER_ADDRESS:127.0.0.1}
+  port: 8000
+
+spring:
+  application:
+    name: ftsm-rag-java
+  webflux:
+    multipart:
+      max-in-memory-size: 1MB
+      max-disk-usage-per-part: 50MB
+      max-parts: 20
+
+app:
+  dashscope:
+    api-key: ${DASHSCOPE_API_KEY:}
+    base-url: ${DASHSCOPE_BASE_URL:https://dashscope.aliyuncs.com/api/v1}
+    chat-model: ${CHAT_MODEL_NAME:qwen-turbo}
+    embedding-model: ${EMBEDDING_MODEL_NAME:text-embedding-v3}
+    image-model: qwen-vl-plus
+    rerank-model: gte-rerank-v2
+  qdrant:
+    host: ${QDRANT_HOST:localhost}
+    port: ${QDRANT_PORT:6334}
+    use-tls: ${QDRANT_USE_TLS:false}
+    api-key: ${QDRANT_API_KEY:}
+    collection-name: ftsm_rag_agent
+    persist-directory: qdrant_db_ftsm
+    sparse-model: Qdrant/bm25
+    k: 6
+    hybrid-search-limit: 20
+    chunk-size: 800
+    chunk-overlap: 120
+    data-path: data/ukm_ftsm
+    auto-start-local: ${QDRANT_AUTO_START:true}
+    local-executable: ${QDRANT_LOCAL_EXECUTABLE:qdrant_local/qdrant.exe}
+    local-storage-path: ${QDRANT_LOCAL_STORAGE:qdrant_local/storage}
+  cache:
+    threshold: 0.92
+    ttl-days: 7
+    max-entries: 500
+  conversation:
+    max-conversations: 200
+    max-messages: 40
+    max-history-turns: 5
+  crawler:
+    enabled: ${CRAWLER_ENABLED:false}
+    interval-hours: ${CRAWLER_INTERVAL_HOURS:168}
+    max-pages: ${CRAWLER_MAX_PAGES:80}
+    browser-enabled: ${CRAWLER_BROWSER_ENABLED:true}
+    browser-auto-download: ${CRAWLER_BROWSER_AUTO_DOWNLOAD:false}
+    static-fallback: ${CRAWLER_STATIC_FALLBACK:true}
+    static-tls-fallback: ${CRAWLER_STATIC_TLS_FALLBACK:true}
+    headless: ${CRAWLER_HEADLESS:true}
+    page-timeout-seconds: ${CRAWLER_PAGE_TIMEOUT_SECONDS:40}
+    page-delay-millis: ${CRAWLER_PAGE_DELAY_MILLIS:800}
+    min-content-chars: ${CRAWLER_MIN_CONTENT_CHARS:200}
+    max-queued-links: ${CRAWLER_MAX_QUEUED_LINKS:2000}
+    output-filename: ${CRAWLER_OUTPUT_FILENAME:ftsm_official_website.txt}
