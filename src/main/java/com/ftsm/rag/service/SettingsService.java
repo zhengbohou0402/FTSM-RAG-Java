@@ -115,7 +115,7 @@ public class SettingsService {
         if (url == null || url.trim().isEmpty()) {
             url = System.getenv("DASHSCOPE_BASE_URL");
         }
-        return url != null ? url.trim() : "";
+        return url != null ? url.trim() : appConfig.getDashscope().getBaseUrl();
     }
 
     public String getChatModel() {
@@ -123,7 +123,7 @@ public class SettingsService {
         if (model == null || model.trim().isEmpty()) {
             model = System.getenv("CHAT_MODEL_NAME");
         }
-        return model != null ? model.trim() : appConfig.getVertexai().getModelName();
+        return model != null ? model.trim() : appConfig.getDashscope().getChatModel();
     }
 
     public String getLlmProvider() {

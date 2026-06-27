@@ -60,6 +60,13 @@
             <version>${langchain4j.version}</version>
         </dependency>
         
+        <!-- LangChain4j DashScope -->
+        <dependency>
+            <groupId>dev.langchain4j</groupId>
+            <artifactId>langchain4j-dashscope</artifactId>
+            <version>${langchain4j.version}</version>
+        </dependency>
+        
         <!-- LangChain4j Vertex AI Gemini -->
         <dependency>
             <groupId>dev.langchain4j</groupId>

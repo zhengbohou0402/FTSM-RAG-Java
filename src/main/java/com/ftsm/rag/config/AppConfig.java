@@ -14,6 +14,7 @@ public class AppConfig {
     private String projectRoot = "";
     private String llmProvider = "vertexai";
     private VertexAiProperties vertexai = new VertexAiProperties();
+    private DashScopeProperties dashscope = new DashScopeProperties();
     private QdrantProperties qdrant = new QdrantProperties();
     private CacheProperties cache = new CacheProperties();
     private ConversationProperties conversation = new ConversationProperties();
@@ -27,6 +28,14 @@ public class AppConfig {
         private String embeddingModel = "gemini-embedding-001";
         private String credentialsPath = "";
         private String rankingModel = "semantic-ranker-512@latest";
+    }
+
+    @Data
+    public static class DashScopeProperties {
+        private String apiKey = "";
+        private String baseUrl = "https://dashscope.aliyuncs.com/compatible-mode/v1";
+        private String chatModel = "qwen-plus";
+        private String embeddingModel = "text-embedding-v1";
     }
 
 
