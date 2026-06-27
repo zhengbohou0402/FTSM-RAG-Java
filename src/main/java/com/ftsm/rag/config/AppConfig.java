@@ -11,21 +11,24 @@ import java.util.List;
 @ConfigurationProperties(prefix = "app")
 public class AppConfig {
 
-    private DashScopeProperties dashscope = new DashScopeProperties();
+    private String projectRoot = "";
+    private String llmProvider = "vertexai";
+    private VertexAiProperties vertexai = new VertexAiProperties();
     private QdrantProperties qdrant = new QdrantProperties();
     private CacheProperties cache = new CacheProperties();
     private ConversationProperties conversation = new ConversationProperties();
     private CrawlerProperties crawler = new CrawlerProperties();
 
     @Data
-    public static class DashScopeProperties {
-        private String apiKey = "";
-        private String baseUrl = "https://dashscope.aliyuncs.com/api/v1";
-        private String chatModel = "qwen-turbo";
-        private String embeddingModel = "text-embedding-v3";
-        private String imageModel = "qwen-vl-plus";
-        private String rerankModel = "gte-rerank-v2";
+    public static class VertexAiProperties {
+        private String projectId = "";
+        private String location = "us-central1";
+        private String modelName = "gemini-1.5-flash";
+        private String embeddingModel = "gemini-embedding-001";
+        private String credentialsPath = "";
+        private String rankingModel = "semantic-ranker-512@latest";
     }
+
 
     @Data
     public static class QdrantProperties {
@@ -38,12 +41,14 @@ public class AppConfig {
         private String sparseModel = "Qdrant/bm25";
         private int k = 6;
         private int hybridSearchLimit = 20;
+        private long hybridSearchTimeoutMs = 15_000;
         private int chunkSize = 800;
         private int chunkOverlap = 120;
         private String dataPath = "data/ukm_ftsm";
         private boolean autoStartLocal = true;
         private String localExecutable = "qdrant_local/qdrant.exe";
         private String localStoragePath = "qdrant_local/storage";
+        private String lexicalIndexPath = "lucene_local";
         private List<String> allowKnowledgeFileTypes = List.of("txt", "pdf", "png", "jpg", "jpeg", "webp", "gif");
     }
 

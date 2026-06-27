@@ -43,4 +43,12 @@ class VectorStoreServiceTest {
         assertTrue(terms.contains("机器"));
         assertTrue(terms.contains("学习"));
     }
+    @Test
+    void chunkIdsMatchPythonUuid5() {
+        assertEquals(
+                "912399f5-9bfa-568e-999a-f40564b03d81",
+                VectorStoreService.pythonCompatibleChunkId(
+                        "file:data/ukm_ftsm/example.txt", 0)
+        );
+    }
 }

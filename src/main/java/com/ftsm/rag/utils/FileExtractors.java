@@ -1,8 +1,11 @@
 package com.ftsm.rag.utils;
 
-import com.ftsm.rag.service.DashScopeHttpClient;
+import com.ftsm.rag.service.ModelFactory;
 import dev.langchain4j.data.document.Document;
 import dev.langchain4j.data.document.Metadata;
+import dev.langchain4j.data.message.ImageContent;
+import dev.langchain4j.data.message.TextContent;
+import dev.langchain4j.data.message.UserMessage;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.pdfbox.Loader;
@@ -29,15 +32,15 @@ import java.util.*;
 @Component
 public class FileExtractors {
 
-    private final DashScopeHttpClient dashScopeHttpClient;
+    private final ModelFactory modelFactory;
 
     private static final String[] TEXT_ENCODINGS = {"UTF-8", "GB18030", "BIG5"};
     private static final String[] MOJIBAKE_MARKERS = {
-            "锛", "鐨", "璇", "绋", "鈹", "鉁", "�"
+            "锛", "鐨", "璇", "绋", "鈹", "鉁", ""
     };
 
-    public FileExtractors(DashScopeHttpClient dashScopeHttpClient) {
-        this.dashScopeHttpClient = dashScopeHttpClient;
+    public FileExtractors(ModelFactory modelFactory) {
+        this.modelFactory = modelFactory;
     }
 
     public static String getFileSha256Hex(Path path) {
@@ -205,9 +208,15 @@ public class FileExtractors {
                 log.error("Failed to read image {}", path, e);
                 throw new RuntimeException(e);
             }
-        }).flatMap(ctx -> dashScopeHttpClient.extractTextFromImage(ctx.base64Image, ctx.promptText)
+        }).flatMap(ctx -> Mono.fromCallable(() -> {
+                    UserMessage userMessage = UserMessage.from(
+                            ImageContent.from(ctx.base64Image, "image/jpeg"),
+                            TextContent.from(ctx.promptText)
+                    );
+                    return modelFactory.getChatModel().generate(userMessage).content().text();
+                }).subscribeOn(reactor.core.scheduler.Schedulers.boundedElastic())
                 .map(extractedText -> {
-                    if (extractedText.isEmpty()) {
+                    if (extractedText == null || extractedText.isEmpty()) {
                         return Collections.<Document>emptyList();
                     }
                     Metadata metadata = new Metadata();

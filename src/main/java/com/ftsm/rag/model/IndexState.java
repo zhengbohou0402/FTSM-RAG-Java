@@ -30,4 +30,13 @@ public class IndexState {
     @JsonProperty("pipeline_fingerprint")
     @JsonAlias("pipelineFingerprint")
     private String pipelineFingerprint;
+    @JsonProperty("qdrant_collection")
+    @JsonAlias("qdrantCollection")
+    private String qdrantCollection;
+    @JsonProperty("lexical_generation")
+    @JsonAlias("lexicalGeneration")
+    private String lexicalGeneration;
+    @JsonProperty("schema_version")
+    @JsonAlias("schemaVersion")
+    private int schemaVersion = 0;
 }

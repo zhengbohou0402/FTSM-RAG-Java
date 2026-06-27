@@ -1,26 +1,57 @@
 package com.ftsm.rag.service;
 
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ftsm.rag.model.ConversationMessage;
+import dev.langchain4j.agent.tool.JsonSchemaProperty;
+import dev.langchain4j.agent.tool.ToolExecutionRequest;
+import dev.langchain4j.agent.tool.ToolSpecification;
 import dev.langchain4j.data.message.AiMessage;
+import dev.langchain4j.data.message.ChatMessage;
 import dev.langchain4j.data.message.SystemMessage;
 import dev.langchain4j.data.message.UserMessage;
-import dev.langchain4j.memory.ChatMemory;
-import dev.langchain4j.memory.chat.MessageWindowChatMemory;
-import dev.langchain4j.service.AiServices;
-import dev.langchain4j.service.TokenStream;
+import dev.langchain4j.model.StreamingResponseHandler;
+import dev.langchain4j.model.output.Response;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
+import reactor.core.publisher.Mono;
+import reactor.core.scheduler.Schedulers;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @Slf4j
 @Service
 public class ReactAgent {
 
+    private static final ToolSpecification RAG_TOOL = ToolSpecification.builder()
+            .name("rag_search")
+            .description("Search the local UKM FTSM knowledge base. Use this for factual questions "
+                    + "about FTSM or UKM programmes, admission, calendars, timetables, courses, "
+                    + "facilities, staff, student systems, visas, campus services, or prior retrieved facts.")
+            .addParameter(
+                    "query",
+                    JsonSchemaProperty.STRING,
+                    JsonSchemaProperty.description(
+                            "A standalone retrieval query containing any context needed from chat history."))
+            .build();
+
+    private static final String ROUTER_PROMPT = """
+            You are the tool-decision step of an assistant.
+            Decide whether the user's latest message needs the rag_search tool.
+            Call rag_search whenever the answer depends on UKM or FTSM facts, including a follow-up
+            to an earlier UKM/FTSM question. Put a complete standalone search query in the tool call.
+            Do not rely on model memory for institution-specific facts.
+            Do not call the tool for greetings, thanks, casual conversation, writing help,
+            translation, or general knowledge that is unrelated to UKM/FTSM.
+            If no tool is needed, respond briefly so the next streaming phase can answer directly.
+            """;
+
     private final ModelFactory modelFactory;
     private final RagService ragService;
     private final SystemPromptService systemPromptService;
+    private final ObjectMapper objectMapper = new ObjectMapper();
 
     public ReactAgent(ModelFactory modelFactory, RagService ragService,
                       SystemPromptService systemPromptService) {
@@ -29,59 +60,111 @@ public class ReactAgent {
         this.systemPromptService = systemPromptService;
     }
 
-    public interface SimpleStreamingAgent {
-        TokenStream chat(String message);
+    public Flux<String> executeStream(String query, List<ConversationMessage> history) {
+        List<ConversationMessage> safeHistory = history == null ? List.of() : history;
+        return decide(query, safeHistory)
+                .flatMapMany(decision -> {
+                    if (decision.useRag()) {
+                        return Flux.concat(
+                                Flux.just("__THINK__Searching knowledge base...__ENDTHINK__"),
+                                ragService.streamAnswer(decision.query()));
+                    }
+                    return streamDirectAnswer(query, safeHistory);
+                });
     }
 
-    public Flux<String> executeStream(String query, List<ConversationMessage> history) {
-        if (!isCasualMessage(query)) {
-            String retrievalQuery = contextualizeQuery(query, history);
-            return Flux.concat(
-                    Flux.just("__THINK__Searching knowledge base...__ENDTHINK__"),
-                    ragService.ragSummarize(retrievalQuery).flux()
-            );
+    private Mono<AgentDecision> decide(String query, List<ConversationMessage> history) {
+        return Mono.fromCallable(() -> {
+            List<ChatMessage> messages = new ArrayList<>();
+            messages.add(SystemMessage.from(ROUTER_PROMPT));
+            addHistory(messages, history);
+            messages.add(UserMessage.from(query));
+
+            Response<AiMessage> response = modelFactory.getChatModel().generate(messages, RAG_TOOL);
+            AiMessage message = response.content();
+            if (message != null && message.hasToolExecutionRequests()) {
+                for (ToolExecutionRequest request : message.toolExecutionRequests()) {
+                    if ("rag_search".equals(request.name())) {
+                        return new AgentDecision(true, toolQuery(request, query, history));
+                    }
+                }
+            }
+            return new AgentDecision(false, query);
+        }).subscribeOn(Schedulers.boundedElastic()).onErrorResume(error -> {
+            log.warn("Agent tool decision failed, using conservative fallback: {}", error.getMessage());
+            return Mono.just(new AgentDecision(
+                    !isCasualMessage(query),
+                    contextualizeQuery(query, history)));
+        });
+    }
+
+    private String toolQuery(ToolExecutionRequest request, String original,
+                             List<ConversationMessage> history) {
+        try {
+            JsonNode arguments = objectMapper.readTree(request.arguments());
+            String query = arguments.path("query").asText("").trim();
+            if (!query.isEmpty()) {
+                return query;
+            }
+        } catch (Exception error) {
+            log.warn("Could not parse rag_search arguments: {}", error.getMessage());
         }
+        return contextualizeQuery(original, history);
+    }
+
+    private Flux<String> streamDirectAnswer(String query, List<ConversationMessage> history) {
+        List<ChatMessage> messages = new ArrayList<>();
+        messages.add(SystemMessage.from(systemPromptService.getPrompt()));
+        addHistory(messages, history);
+        messages.add(UserMessage.from(query));
 
         return Flux.<String>create(sink -> {
             try {
-                ChatMemory chatMemory = MessageWindowChatMemory.withMaxMessages(20);
-                chatMemory.add(SystemMessage.from(systemPromptService.getPrompt()));
+                modelFactory.getStreamingChatModel().generate(
+                        messages,
+                        new StreamingResponseHandler<AiMessage>() {
+                            @Override
+                            public void onNext(String token) {
+                                sink.next(token);
+                            }
 
-                // Add conversation history
-                for (ConversationMessage msg : history) {
-                    if ("user".equalsIgnoreCase(msg.getRole())) {
-                        chatMemory.add(UserMessage.from(msg.getContent()));
-                    } else {
-                        chatMemory.add(AiMessage.from(msg.getContent()));
-                    }
-                }
+                            @Override
+                            public void onComplete(Response<AiMessage> response) {
+                                sink.complete();
+                            }
 
-                SimpleStreamingAgent agent = AiServices.builder(SimpleStreamingAgent.class)
-                        .streamingChatLanguageModel(modelFactory.getStreamingChatModel())
-                        .chatMemory(chatMemory)
-                        .build();
-
-                agent.chat(query)
-                        .onNext(sink::next)
-                        .onComplete(response -> sink.complete())
-                        .onError(sink::error)
-                        .start();
-
-            } catch (Exception e) {
-                log.error("Failed in ReactAgent executeStream", e);
-                sink.error(e);
+                            @Override
+                            public void onError(Throwable error) {
+                                sink.error(error);
+                            }
+                        });
+            } catch (Exception error) {
+                sink.error(error);
             }
-        }).subscribeOn(reactor.core.scheduler.Schedulers.boundedElastic());
+        }).subscribeOn(Schedulers.boundedElastic());
     }
 
-    private boolean isCasualMessage(String query) {
+    private void addHistory(List<ChatMessage> messages, List<ConversationMessage> history) {
+        int start = Math.max(0, history.size() - 20);
+        for (int i = start; i < history.size(); i++) {
+            ConversationMessage message = history.get(i);
+            if ("user".equalsIgnoreCase(message.getRole())) {
+                messages.add(UserMessage.from(message.getContent()));
+            } else if ("assistant".equalsIgnoreCase(message.getRole())) {
+                messages.add(AiMessage.from(message.getContent()));
+            }
+        }
+    }
+
+    static boolean isCasualMessage(String query) {
         String normalized = query == null ? "" : query.trim().toLowerCase();
         return normalized.matches(
-                "^(hi|hello|hey|good morning|good afternoon|good evening|thanks|thank you|你好|您好|谢谢)[!.。！ ]*$"
+                "^(hi|hello|hey|good morning|good afternoon|good evening|thanks|thank you|"
+                        + "你好|您好|谢谢|多谢)[!.。！ ]*$"
         );
     }
 
-    private String contextualizeQuery(String query, List<ConversationMessage> history) {
+    static String contextualizeQuery(String query, List<ConversationMessage> history) {
         if (history == null || history.isEmpty()) {
             return query;
         }
@@ -99,5 +182,8 @@ public class ReactAgent {
             }
         }
         return query;
+    }
+
+    private record AgentDecision(boolean useRag, String query) {
     }
 }

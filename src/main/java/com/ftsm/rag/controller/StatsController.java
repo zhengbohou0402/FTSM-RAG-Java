@@ -6,6 +6,7 @@ import com.ftsm.rag.model.ManifestData;
 import com.ftsm.rag.store.DocumentManifestManager;
 import com.ftsm.rag.service.CrawlScheduler;
 import com.ftsm.rag.service.SemanticCacheService;
+import com.ftsm.rag.service.VectorStoreService;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Mono;
 import reactor.core.scheduler.Schedulers;
@@ -25,13 +26,16 @@ public class StatsController {
     private final DocumentManifestManager manifestManager;
     private final SemanticCacheService semanticCacheService;
     private final CrawlScheduler crawlScheduler;
+    private final VectorStoreService vectorStoreService;
 
     public StatsController(AppConfig appConfig, DocumentManifestManager manifestManager,
-                           SemanticCacheService semanticCacheService, CrawlScheduler crawlScheduler) {
+                           SemanticCacheService semanticCacheService, CrawlScheduler crawlScheduler,
+                           VectorStoreService vectorStoreService) {
         this.appConfig = appConfig;
         this.manifestManager = manifestManager;
         this.semanticCacheService = semanticCacheService;
         this.crawlScheduler = crawlScheduler;
+        this.vectorStoreService = vectorStoreService;
     }
 
     @GetMapping("/cache/stats")
@@ -83,7 +87,7 @@ public class StatsController {
         Path dataDir = Paths.get(appConfig.getQdrant().getDataPath());
         List<String> allowedTypes = appConfig.getQdrant().getAllowKnowledgeFileTypes();
         if (Files.exists(dataDir)) {
-            try (var stream = Files.walk(dataDir)) {
+            try (var stream = Files.list(dataDir)) {
                 documentCount = (int) stream
                         .filter(Files::isRegularFile)
                         .filter(p -> {
@@ -105,6 +109,7 @@ public class StatsController {
         stats.put("index_updated_at", indexState != null ? indexState.getUpdatedAt() : null);
         stats.put("index_last_error", indexState != null ? indexState.getLastError() : null);
         stats.put("source_type_counts", indexState != null ? indexState.getSourceTypeCounts() : new HashMap<>());
+        stats.putAll(vectorStoreService.getIndexHealth());
 
         return stats;
     }

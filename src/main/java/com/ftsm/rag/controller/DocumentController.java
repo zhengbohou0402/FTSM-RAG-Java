@@ -75,7 +75,7 @@ public class DocumentController {
 
             List<Map<String, Object>> docList = new ArrayList<>();
             
-            try (var stream = Files.walk(dataDir)) {
+            try (var stream = Files.list(dataDir)) {
                 List<Path> files = stream
                         .filter(Files::isRegularFile)
                         .filter(path -> {

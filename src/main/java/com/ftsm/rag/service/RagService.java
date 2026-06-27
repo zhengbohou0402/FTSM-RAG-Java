@@ -3,12 +3,15 @@ package com.ftsm.rag.service;
 import com.ftsm.rag.config.AppConfig;
 import com.ftsm.rag.utils.QueryPreprocessor;
 import dev.langchain4j.data.document.Document;
+import dev.langchain4j.data.message.AiMessage;
+import dev.langchain4j.model.StreamingResponseHandler;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StreamUtils;
 import reactor.core.publisher.Mono;
+import reactor.core.publisher.Flux;
 import reactor.core.scheduler.Schedulers;
 
 import java.io.IOException;
@@ -26,7 +29,7 @@ public class RagService {
 
     private final AppConfig appConfig;
     private final VectorStoreService vectorStoreService;
-    private final DashScopeHttpClient dashScopeHttpClient;
+    private final VertexAiRankingClient vertexAiRankingClient;
     private final ModelFactory modelFactory;
     private final QueryPreprocessor queryPreprocessor;
     private final SystemPromptService systemPromptService;
@@ -64,12 +67,12 @@ public class RagService {
     );
 
     public RagService(AppConfig appConfig, VectorStoreService vectorStoreService,
-                       DashScopeHttpClient dashScopeHttpClient, ModelFactory modelFactory,
+                       VertexAiRankingClient vertexAiRankingClient, ModelFactory modelFactory,
                        QueryPreprocessor queryPreprocessor,
                        SystemPromptService systemPromptService) {
         this.appConfig = appConfig;
         this.vectorStoreService = vectorStoreService;
-        this.dashScopeHttpClient = dashScopeHttpClient;
+        this.vertexAiRankingClient = vertexAiRankingClient;
         this.modelFactory = modelFactory;
         this.queryPreprocessor = queryPreprocessor;
         this.systemPromptService = systemPromptService;
@@ -343,32 +346,30 @@ public class RagService {
     }
 
     private Mono<List<Document>> retrieveDocs(String query) {
-        return Mono.fromCallable(() -> {
-            List<String> queries = queryPreprocessor.process(query);
-            
-            // Concurrent Qdrant searches
-            List<Document> allDocs = new ArrayList<>();
-            Set<String> seen = new HashSet<>();
-            int hybridSearchLimit = appConfig.getQdrant().getHybridSearchLimit();
-            
-            for (String q : queries) {
-                List<Document> singleResult = vectorStoreService.search(q, hybridSearchLimit);
-                for (Document doc : singleResult) {
-                    String key = doc.text().substring(0, Math.min(doc.text().length(), 100));
-                    if (!seen.contains(key)) {
-                        seen.add(key);
-                        allDocs.add(doc);
-                    }
-                }
-            }
-            return allDocs;
-        }).subscribeOn(Schedulers.boundedElastic()).flatMap(hybridRanked -> {
+        List<String> queries = queryPreprocessor.process(query);
+        int hybridSearchLimit = appConfig.getQdrant().getHybridSearchLimit();
+        return Flux.fromIterable(queries)
+                .flatMap(singleQuery -> Mono.fromCallable(
+                                () -> vectorStoreService.search(singleQuery, hybridSearchLimit))
+                        .subscribeOn(Schedulers.boundedElastic())
+                        .onErrorResume(error -> {
+                            log.warn("Retrieval failed for query expansion '{}': {}",
+                                    singleQuery, error.getMessage());
+                            return Mono.just(Collections.emptyList());
+                        }), Math.min(Math.max(queries.size(), 1), 4))
+                .flatMapIterable(documents -> documents)
+                .collect(
+                        LinkedHashMap<String, Document>::new,
+                        (documents, document) ->
+                                documents.putIfAbsent(documentKey(document), document))
+                .map(documents -> new ArrayList<>(documents.values()))
+                .flatMap(hybridRanked -> {
             if (hybridRanked.isEmpty()) {
                 return Mono.just(hybridRanked);
             }
             List<String> docTexts = hybridRanked.stream().map(Document::text).collect(Collectors.toList());
             
-            return dashScopeHttpClient.rerank(query, docTexts, RERANK_TOP_N)
+            return vertexAiRankingClient.rerank(query, docTexts, RERANK_TOP_N)
                     .map(sortedIndices -> {
                         List<Document> reranked = new ArrayList<>();
                         for (int idx : sortedIndices) {
@@ -387,6 +388,14 @@ public class RagService {
                         return applySourceWeight(boosted);
                     });
         });
+    }
+
+    private String documentKey(Document document) {
+        String chunkId = document.metadata().getString("chunk_id");
+        if (chunkId != null && !chunkId.isBlank()) {
+            return chunkId;
+        }
+        return document.text().substring(0, Math.min(document.text().length(), 100));
     }
 
     private String buildContext(List<Document> docs) {
@@ -489,36 +498,88 @@ public class RagService {
         return String.join("\n", lines);
     }
 
-    public Mono<String> ragSummarize(String query) {
+    public Mono<PreparedRagAnswer> prepareAnswer(String query) {
         return retrieveDocs(query)
-                .flatMap(contextDocs -> {
+                .map(contextDocs -> {
                     if (!hasRetrievalSignal(query, contextDocs)) {
-                        return Mono.just(NO_ANSWER_MESSAGE);
+                        return new PreparedRagAnswer(query, null, "", "", false);
                     }
                     String context = buildContext(contextDocs);
-                    
-                    // Render prompt
                     String promptText = "## Assistant Persona\n"
                             + systemPromptService.getPrompt()
                             + "\n\n## Mandatory Retrieval Instructions\n"
                             + getRagPromptTemplate()
                             .replace("{input}", query)
                             .replace("{context}", context);
-
-                    // Call LLM
-                    return Mono.fromCallable(() -> modelFactory.getChatModel().generate(promptText))
-                            .subscribeOn(Schedulers.boundedElastic())
-                            .map(response -> {
-                                String answer = response.trim();
-                                String reliability = formatSourceReliability(contextDocs);
-                                String sources = formatSources(contextDocs);
-                                
-                                if (!sources.isEmpty()) {
-                                    String reliabilityBlock = !reliability.isEmpty() ? "\n\n" + reliability : "";
-                                    return answer + reliabilityBlock + "\n\nSources:\n" + sources;
-                                }
-                                return answer;
-                            });
+                    return new PreparedRagAnswer(
+                            query,
+                            promptText,
+                            formatSourceReliability(contextDocs),
+                            formatSources(contextDocs),
+                            true);
                 });
+    }
+
+    public Flux<String> streamAnswer(String query) {
+        return prepareAnswer(query).flatMapMany(prepared -> {
+            if (!prepared.hasRetrievalSignal()) {
+                return Flux.just(NO_ANSWER_MESSAGE);
+            }
+            Flux<String> generated = streamModel(prepared.prompt());
+            String suffix = sourceSuffix(prepared.reliability(), prepared.sources());
+            return suffix.isEmpty() ? generated : Flux.concat(generated, Flux.just(suffix));
+        });
+    }
+
+    public Mono<String> ragSummarize(String query) {
+        return streamAnswer(query)
+                .collectList()
+                .map(parts -> String.join("", parts).trim());
+    }
+
+    private Flux<String> streamModel(String prompt) {
+        return Flux.<String>create(sink -> {
+            try {
+                modelFactory.getStreamingChatModel().generate(
+                        prompt,
+                        new StreamingResponseHandler<AiMessage>() {
+                            @Override
+                            public void onNext(String token) {
+                                sink.next(token);
+                            }
+
+                            @Override
+                            public void onComplete(
+                                    dev.langchain4j.model.output.Response<AiMessage> response) {
+                                sink.complete();
+                            }
+
+                            @Override
+                            public void onError(Throwable error) {
+                                sink.error(error);
+                            }
+                        });
+            } catch (Exception error) {
+                sink.error(error);
+            }
+        }).subscribeOn(Schedulers.boundedElastic());
+    }
+
+    private String sourceSuffix(String reliability, String sources) {
+        if (sources == null || sources.isEmpty()) {
+            return "";
+        }
+        String reliabilityBlock = reliability == null || reliability.isEmpty()
+                ? ""
+                : "\n\n" + reliability;
+        return reliabilityBlock + "\n\nSources:\n" + sources;
+    }
+
+    public record PreparedRagAnswer(
+            String query,
+            String prompt,
+            String reliability,
+            String sources,
+            boolean hasRetrievalSignal) {
     }
 }
