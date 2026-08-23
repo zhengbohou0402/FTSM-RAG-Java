@@ -1,17 +1,14 @@
-# FTSM-RAG Java
+# FTSM-RAG (Java)
 
-A full-stack Retrieval-Augmented Generation (RAG) system implemented in Java.
-It provides hybrid document retrieval, streaming AI chat, knowledge management,
-website crawling, and an optional Windows desktop application.
+A full-stack **Retrieval-Augmented Generation (RAG)** system implemented in Java — the Java migration of the original [FTSM-RAG Python project](https://github.com/zhengbohou0402/FTSM-RAG). It provides hybrid document retrieval, streaming AI chat, knowledge management, website crawling, and an optional Windows desktop application.
 
-This repository is the Java migration of the original
-[FTSM-RAG Python project](https://github.com/zhengbohou0402/FTSM-RAG).
+> Sister repositories: [`GraphRAG-Java`](https://github.com/zhengbohou0402/GraphRAG-Java) (adds a knowledge-graph layer), [`RAG-Java-MultiAgent`](https://github.com/zhengbohou0402/RAG-MultiAgent) and [`RAG-Java-MultiAgent-SpringAI`](https://github.com/zhengbohou0402/RAG-Java-MultiAgent-SpringAI) (multi-agent editions).
 
 ## Highlights
 
-- Spring Boot 3 and WebFlux backend
+- Spring Boot 3 and WebFlux reactive backend
 - React 19 and Ant Design frontend
-- DashScope chat, embedding, vision, and reranking models
+- DashScope chat, embedding, vision, and reranking models (OpenAI-compatible protocol)
 - Qdrant vector storage with dense and BM25-style lexical retrieval
 - Reciprocal Rank Fusion (RRF) hybrid search
 - Incremental indexing with stable document and chunk identifiers
@@ -38,13 +35,11 @@ flowchart LR
 
 - JDK 17 or newer
 - A DashScope API key
-- Git LFS
+- Git LFS (the Windows Qdrant 1.10.0 executable is shipped via LFS)
 - Node.js 20 or newer for frontend development
 - Microsoft Edge or Google Chrome for browser-based crawling
 
-The repository includes the Windows Qdrant 1.10.0 executable through Git LFS.
-You can also connect to an external Qdrant instance through environment
-variables.
+You can also connect to an external Qdrant instance through environment variables.
 
 ## Quick Start
 
@@ -61,11 +56,9 @@ Set `DASHSCOPE_API_KEY` in `.env`, then start the application:
 .\mvnw.cmd spring-boot:run
 ```
 
-Open [http://127.0.0.1:8000](http://127.0.0.1:8000).
+Open <http://127.0.0.1:8000>.
 
-On Windows, the application automatically starts
-`qdrant_local/qdrant.exe` when port `6334` is not already in use. After the
-first launch, open the knowledge management page and start indexing, or call:
+On Windows, the app automatically starts `qdrant_local/qdrant.exe` when port `6334` is not already in use. After the first launch, open the knowledge management page and start indexing, or call:
 
 ```powershell
 Invoke-RestMethod -Method Post http://127.0.0.1:8000/api/training/start
@@ -73,7 +66,7 @@ Invoke-RestMethod -Method Post http://127.0.0.1:8000/api/training/start
 
 ## Configuration
 
-Copy `.env.example` to `.env`. The most important settings are:
+Copy `.env.example` to `.env`. The most important settings:
 
 | Variable | Default | Purpose |
 | --- | --- | --- |
@@ -91,14 +84,14 @@ Secrets and runtime state are intentionally excluded from Git.
 
 ## Development
 
-Run backend tests and create the executable JAR:
+Run backend tests and build the executable JAR:
 
 ```powershell
 .\mvnw.cmd clean package
 java -jar target\rag-java-0.0.1-SNAPSHOT.jar
 ```
 
-Develop and rebuild the frontend:
+Develop and rebuild the frontend (Vite writes to `src/main/resources/static`, served by Spring Boot):
 
 ```powershell
 cd frontend
@@ -106,9 +99,6 @@ npm ci
 npm run lint
 npm run build
 ```
-
-The Vite build writes the production frontend to
-`src/main/resources/static`, where Spring Boot serves it.
 
 ## Retrieval Pipeline
 
@@ -119,17 +109,11 @@ The Vite build writes the production frontend to
 5. Reciprocal Rank Fusion combines both result lists.
 6. Source metadata and trust labels are included in the model context.
 
-The index fingerprint includes the embedding model, collection, chunk size,
-chunk overlap, splitter, and supported file types. Incompatible index settings
-trigger a full rebuild instead of mixing vectors from different pipelines.
+The index fingerprint includes the embedding model, collection, chunk size, chunk overlap, splitter, and supported file types. Incompatible index settings trigger a full rebuild instead of mixing vectors from different pipelines.
 
 ## Java Website Crawler
 
-The crawler uses Playwright Java to render JavaScript pages and lazy-loaded
-content. It blocks images, media, and fonts to reduce traffic. If no supported
-browser is available, it can fall back to Jsoup for static pages.
-
-Relevant settings are available in `.env.example`:
+The crawler uses Playwright Java to render JavaScript pages and lazy-loaded content; it blocks images, media, and fonts to reduce traffic. If no supported browser is available, it falls back to Jsoup for static pages.
 
 ```dotenv
 CRAWLER_ENABLED=false
@@ -140,39 +124,15 @@ CRAWLER_STATIC_TLS_FALLBACK=true
 CRAWLER_HEADLESS=true
 ```
 
-TLS fallback is restricted to explicitly allowed hosts and does not change the
-global JVM certificate policy.
+TLS fallback is restricted to explicitly allowed hosts and does not change the global JVM certificate policy.
 
 ## Windows Desktop Build
 
-The desktop package contains the backend JAR, a minimized Java runtime,
-Qdrant, and seed knowledge files. Building the installer requires:
-
-- Rust stable
-- Visual Studio Build Tools
-- The "Desktop development with C++" workload
-- Windows 10 or Windows 11 SDK
-- WebView2
-
-See the official
-[Tauri Windows prerequisites](https://v2.tauri.app/start/prerequisites/).
-
-Build the NSIS installer:
+The desktop package bundles the backend JAR, a minimized Java runtime, Qdrant, and seed knowledge files. Building the NSIS installer requires Rust stable, Visual Studio Build Tools (Desktop development with C++), Windows 10/11 SDK, and WebView2. See the [Tauri Windows prerequisites](https://v2.tauri.app/start/prerequisites/).
 
 ```powershell
-.\scripts\build_windows_installer.ps1
-```
-
-The installer is written to:
-
-```text
-dist\FTSM-RAG-0.2.0-windows-x64-setup.exe
-```
-
-Prepare and validate desktop resources without compiling the installer:
-
-```powershell
-.\scripts\build_windows_installer.ps1 -SkipInstaller
+.\scripts\build_windows_installer.ps1        # full installer -> dist\FTSM-RAG-0.2.0-windows-x64-setup.exe
+.\scripts\build_windows_installer.ps1 -SkipInstaller   # prepare resources only
 ```
 
 ## Main API Endpoints
@@ -210,6 +170,5 @@ scripts/                       Packaging scripts
 - The server listens on `127.0.0.1` by default.
 - Browser API requests are limited to approved local and Tauri origins.
 - Uploaded filenames are normalized and checked against path traversal.
-- API keys, conversations, local accounts, caches, logs, and vector storage are
-  not committed.
+- API keys, conversations, local accounts, caches, logs, and vector storage are not committed.
 - Knowledge content should still be reviewed before public deployment.
