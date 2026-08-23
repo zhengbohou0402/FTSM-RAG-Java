@@ -206,20 +206,25 @@ fn start_backend(
 
     let data_dir = app_data_dir.join("data").join("ukm_ftsm");
     let qdrant_storage = app_data_dir.join("qdrant").join("storage");
+    let lexical_index = app_data_dir.join("lucene");
     let has_existing_data = directory_has_entries(&data_dir);
     let has_existing_qdrant = directory_has_entries(&qdrant_storage);
-    let existing_install = has_existing_data || has_existing_qdrant;
+    let has_existing_lexical = directory_has_entries(&lexical_index);
+    let existing_install = has_existing_data || has_existing_qdrant || has_existing_lexical;
     fs::create_dir_all(&data_dir).map_err(|error| error.to_string())?;
     fs::create_dir_all(&qdrant_storage).map_err(|error| error.to_string())?;
+    fs::create_dir_all(&lexical_index).map_err(|error| error.to_string())?;
 
     let seed_refresh_required = if existing_install {
         sync_seed_data(backend_dir, app_data_dir, &data_dir)?
-            || (has_existing_data && !has_existing_qdrant)
+            || (has_existing_data && (!has_existing_qdrant || !has_existing_lexical))
     } else {
         copy_missing_tree(&backend_dir.join("seed-data"), &data_dir)
             .map_err(|error| format!("Failed to initialize knowledge files: {error}"))?;
         copy_missing_tree(&backend_dir.join("seed-qdrant-storage"), &qdrant_storage)
             .map_err(|error| format!("Failed to initialize vector storage: {error}"))?;
+        copy_missing_tree(&backend_dir.join("seed-lucene-storage"), &lexical_index)
+            .map_err(|error| format!("Failed to initialize lexical storage: {error}"))?;
         let packaged_manifest = read_seed_manifest(&backend_dir.join("seed-manifest.json"))?;
         write_seed_manifest(&app_data_dir.join("seed-state.json"), &packaged_manifest)?;
         false
@@ -260,6 +265,10 @@ fn start_backend(
         .arg(format!(
             "--app.qdrant.local-storage-path={}",
             qdrant_storage.display()
+        ))
+        .arg(format!(
+            "--app.qdrant.lexical-index-path={}",
+            lexical_index.display()
         ))
         .env("PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD", "1")
         .env("FTSM_DESKTOP_SHUTDOWN_TOKEN", shutdown_token)

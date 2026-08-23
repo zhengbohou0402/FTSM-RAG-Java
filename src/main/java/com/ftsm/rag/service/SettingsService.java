@@ -126,9 +126,67 @@ public class SettingsService {
         return model != null ? model.trim() : appConfig.getDashscope().getChatModel();
     }
 
+    public String getLlmProvider() {
+        String provider = runtimeEnv.get("LLM_PROVIDER");
+        if (provider == null || provider.trim().isEmpty()) {
+            provider = System.getenv("LLM_PROVIDER");
+        }
+        return provider != null ? provider.trim() : appConfig.getLlmProvider();
+    }
+
+    public String getVertexProjectId() {
+        String id = runtimeEnv.get("VERTEX_PROJECT_ID");
+        if (id == null || id.trim().isEmpty()) {
+            id = System.getenv("VERTEX_PROJECT_ID");
+        }
+        return id != null ? id.trim() : appConfig.getVertexai().getProjectId();
+    }
+
+    public String getVertexLocation() {
+        String loc = runtimeEnv.get("VERTEX_LOCATION");
+        if (loc == null || loc.trim().isEmpty()) {
+            loc = System.getenv("VERTEX_LOCATION");
+        }
+        return loc != null ? loc.trim() : appConfig.getVertexai().getLocation();
+    }
+
+    public String getVertexModelName() {
+        String name = runtimeEnv.get("VERTEX_MODEL_NAME");
+        if (name == null || name.trim().isEmpty()) {
+            name = System.getenv("VERTEX_MODEL_NAME");
+        }
+        return name != null ? name.trim() : appConfig.getVertexai().getModelName();
+    }
+
+    public String getVertexEmbeddingModelName() {
+        String name = runtimeEnv.get("VERTEX_EMBEDDING_MODEL_NAME");
+        if (name == null || name.trim().isEmpty()) {
+            name = System.getenv("VERTEX_EMBEDDING_MODEL_NAME");
+        }
+        return name != null ? name.trim() : appConfig.getVertexai().getEmbeddingModel();
+    }
+
+    public String getVertexCredentialsPath() {
+        String path = runtimeEnv.get("VERTEX_CREDENTIALS_PATH");
+        if (path == null || path.trim().isEmpty()) {
+            path = System.getenv("VERTEX_CREDENTIALS_PATH");
+        }
+        return path != null ? path.trim() : appConfig.getVertexai().getCredentialsPath();
+    }
+
     public boolean isDashScopeConfigured() {
         String key = getApiKey();
         return key != null && !key.trim().isEmpty();
+    }
+
+    public boolean isLlmConfigured() {
+        String provider = getLlmProvider();
+        if ("vertexai".equalsIgnoreCase(provider)) {
+            String projectId = getVertexProjectId();
+            return projectId != null && !projectId.trim().isEmpty();
+        } else {
+            return isDashScopeConfigured();
+        }
     }
 
     public synchronized void saveSettings(String apiKey, String baseUrl, String chatModelName) {

@@ -225,7 +225,7 @@ export default function Dashboard() {
           <div className="admin-panel">
             <div className="panel-title-row">
               <Text strong>Index Version State</Text>
-              <StatusBadge status={kb?.index_last_error ? "error" : "success"} />
+              <StatusBadge status={kb?.index_last_error || kb?.index_consistent === false ? "error" : "success"} />
             </div>
             <div className="info-grid">
               <div>
@@ -235,6 +235,14 @@ export default function Dashboard() {
               <div>
                 <Text type="secondary">Last Error</Text>
                 <strong>{kb?.index_last_error || "-"}</strong>
+              </div>
+              <div>
+                <Text type="secondary">Dense / Lexical</Text>
+                <strong>{kb ? `${kb.dense_points} / ${kb.lexical_documents}` : "-"}</strong>
+              </div>
+              <div>
+                <Text type="secondary">Generation</Text>
+                <strong>{kb?.index_generation || "Legacy"}</strong>
               </div>
             </div>
           </div>

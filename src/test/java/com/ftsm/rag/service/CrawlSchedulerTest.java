@@ -1,6 +1,8 @@
 package com.ftsm.rag.service;
 
 import com.ftsm.rag.config.AppConfig;
+import io.micrometer.core.instrument.MeterRegistry;
+import io.micrometer.core.instrument.simple.SimpleMeterRegistry;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
 
@@ -48,7 +50,8 @@ class CrawlSchedulerTest {
             return new FtsmWebsiteCrawler.CrawlResult(output, 2, 3, 0, 1, "msedge");
         });
 
-        CrawlScheduler scheduler = new CrawlScheduler(config, indexing, cache, crawler);
+        MeterRegistry meterRegistry = new SimpleMeterRegistry();
+        CrawlScheduler scheduler = new CrawlScheduler(config, indexing, cache, crawler, meterRegistry);
         Map<String, Object> started = scheduler.triggerManualCrawl(3, true);
         assertTrue((Boolean) started.get("started"));
 

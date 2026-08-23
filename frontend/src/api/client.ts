@@ -81,6 +81,13 @@ export interface KnowledgeStats {
   index_updated_at: string | null;
   index_last_error: string | null;
   source_type_counts: Record<string, number>;
+  dense_points: number;
+  lexical_documents: number;
+  manifest_chunks: number;
+  qdrant_collection: string;
+  lexical_generation: string | null;
+  index_generation: string | null;
+  index_consistent: boolean;
 }
 
 export interface CacheStats {

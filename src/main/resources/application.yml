@@ -1,5 +1,5 @@
 server:
-  address: ${SERVER_ADDRESS:127.0.0.1}
+  address: ${SERVER_ADDRESS:0.0.0.0}
   port: 8000
 
 spring:
@@ -10,8 +10,24 @@ spring:
       max-in-memory-size: 1MB
       max-disk-usage-per-part: 50MB
       max-parts: 20
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,prometheus,metrics
+  metrics:
+    tags:
+      application: ftsm-rag-java
 
 app:
+  project-root: ${PROJECT_ROOT:}
+  max-context-tokens: 4000
+  llm-provider: ${LLM_PROVIDER:dashscope}
   dashscope:
     api-key: ${DASHSCOPE_API_KEY:}
     base-url: ${DASHSCOPE_BASE_URL:https://dashscope.aliyuncs.com/api/v1}
@@ -19,6 +35,11 @@ app:
     embedding-model: ${EMBEDDING_MODEL_NAME:text-embedding-v3}
     image-model: qwen-vl-plus
     rerank-model: gte-rerank-v2
+  vertexai:
+    project-id: ${VERTEX_PROJECT_ID:}
+    location: ${VERTEX_LOCATION:us-central1}
+    model-name: ${VERTEX_MODEL_NAME:gemini-1.5-flash}
+    credentials-path: ${VERTEX_CREDENTIALS_PATH:}
   qdrant:
     host: ${QDRANT_HOST:localhost}
     port: ${QDRANT_PORT:6334}
@@ -35,6 +56,7 @@ app:
     auto-start-local: ${QDRANT_AUTO_START:true}
     local-executable: ${QDRANT_LOCAL_EXECUTABLE:qdrant_local/qdrant.exe}
     local-storage-path: ${QDRANT_LOCAL_STORAGE:qdrant_local/storage}
+    lexical-index-path: ${LEXICAL_INDEX_PATH:lucene_local}
   cache:
     threshold: 0.92
     ttl-days: 7

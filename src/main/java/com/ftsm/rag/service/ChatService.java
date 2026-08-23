@@ -21,17 +21,17 @@ public class ChatService {
     private final AppConfig appConfig;
     private final ConversationStore conversationStore;
     private final SemanticCacheService semanticCacheService;
-    private final ReactAgent reactAgent;
+    private final ToolRoutingAgent toolRoutingAgent;
     private final DocumentManifestManager manifestManager;
     private final SettingsService settingsService;
 
     public ChatService(AppConfig appConfig, ConversationStore conversationStore,
-                       SemanticCacheService semanticCacheService, ReactAgent reactAgent,
+                       SemanticCacheService semanticCacheService, ToolRoutingAgent toolRoutingAgent,
                        DocumentManifestManager manifestManager, SettingsService settingsService) {
         this.appConfig = appConfig;
         this.conversationStore = conversationStore;
         this.semanticCacheService = semanticCacheService;
-        this.reactAgent = reactAgent;
+        this.toolRoutingAgent = toolRoutingAgent;
         this.manifestManager = manifestManager;
         this.settingsService = settingsService;
     }
@@ -81,7 +81,7 @@ public class ChatService {
             List<String> resultChunks = new ArrayList<>();
             AtomicBoolean hadError = new AtomicBoolean(false);
 
-            return reactAgent.executeStream(message, recentHistory)
+            return toolRoutingAgent.executeStream(message, recentHistory)
                     .doOnNext(chunk -> {
                         if (chunk != null && !chunk.startsWith("__THINK__")) {
                             resultChunks.add(chunk);

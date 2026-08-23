@@ -3,6 +3,8 @@ package com.ftsm.rag.service;
 import com.ftsm.rag.config.AppConfig;
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
+import io.micrometer.core.instrument.Gauge;
+import io.micrometer.core.instrument.MeterRegistry;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
@@ -27,6 +29,7 @@ public class CrawlScheduler {
     private final IndexingService indexingService;
     private final SemanticCacheService semanticCacheService;
     private final FtsmWebsiteCrawler crawler;
+    private final MeterRegistry meterRegistry;
     private final ScheduledExecutorService executor = Executors.newSingleThreadScheduledExecutor(runnable -> {
         Thread thread = new Thread(runnable, "ftsm-java-crawler");
         thread.setDaemon(true);
@@ -40,11 +43,13 @@ public class CrawlScheduler {
             AppConfig appConfig,
             IndexingService indexingService,
             SemanticCacheService semanticCacheService,
-            FtsmWebsiteCrawler crawler) {
+            FtsmWebsiteCrawler crawler,
+            MeterRegistry meterRegistry) {
         this.appConfig = appConfig;
         this.indexingService = indexingService;
         this.semanticCacheService = semanticCacheService;
         this.crawler = crawler;
+        this.meterRegistry = meterRegistry;
         this.lastRunFile = Paths.get(
                 appConfig.getQdrant().getDataPath(), ".last_crawl"
         ).toAbsolutePath().normalize();
@@ -63,6 +68,20 @@ public class CrawlScheduler {
         state.put("pages_failed", 0);
         state.put("crawler_engine", null);
         state.put("current_url", null);
+
+        // Register Metrics
+        Gauge.builder("rag.crawler.pages.crawled", state, s -> (Integer) s.getOrDefault("pages_crawled", 0))
+                .description("Number of pages successfully crawled")
+                .register(meterRegistry);
+        Gauge.builder("rag.crawler.pages.visited", state, s -> (Integer) s.getOrDefault("pages_visited", 0))
+                .description("Number of pages visited by the crawler")
+                .register(meterRegistry);
+        Gauge.builder("rag.crawler.pages.skipped", state, s -> (Integer) s.getOrDefault("pages_skipped", 0))
+                .description("Number of pages skipped by the crawler")
+                .register(meterRegistry);
+        Gauge.builder("rag.crawler.pages.failed", state, s -> (Integer) s.getOrDefault("pages_failed", 0))
+                .description("Number of pages failed during crawling")
+                .register(meterRegistry);
     }
 
     @PostConstruct

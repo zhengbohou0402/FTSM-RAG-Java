@@ -29,9 +29,9 @@ public class ChatController {
 
     @PostMapping(value = "/chat", produces = MediaType.TEXT_PLAIN_VALUE + ";charset=UTF-8")
     public ResponseEntity<Flux<String>> chat(@RequestBody ChatRequest payload) {
-        if (!settingsService.isDashScopeConfigured()) {
+        if (!settingsService.isLlmConfigured()) {
             throw new ResponseStatusException(HttpStatus.BAD_REQUEST, 
-                    "DASHSCOPE_API_KEY is not configured. Please set it in /settings.");
+                    "LLM model or key is not configured. Please set it in .env file.");
         }
 
         String message = payload.getMessage();
