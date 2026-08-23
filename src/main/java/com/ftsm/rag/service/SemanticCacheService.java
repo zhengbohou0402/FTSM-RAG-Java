@@ -3,23 +3,17 @@ package com.ftsm.rag.service;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.ftsm.rag.config.AppConfig;
-import com.ftsm.rag.model.CacheData;
 import com.ftsm.rag.model.CacheEntry;
 import dev.langchain4j.data.embedding.Embedding;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.time.Instant;
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.CopyOnWriteArrayList;
-import java.util.concurrent.locks.ReentrantLock;
-import java.util.stream.Collectors;
+import java.util.concurrent.atomic.AtomicInteger;
 
 @Slf4j
 @Service
@@ -28,20 +22,19 @@ public class SemanticCacheService {
     private final AppConfig appConfig;
     private final ModelFactory modelFactory;
     private final ObjectMapper objectMapper;
-    private final Path cacheFile;
-    private final ReentrantLock lock = new ReentrantLock();
+    private final StringRedisTemplate redisTemplate;
 
-    private final List<CacheEntry> entries = new CopyOnWriteArrayList<>();
-    private int hitCount = 0;
-    private int missCount = 0;
+    private static final String CACHE_KEY = "semantic_cache:entries";
+    
+    // Track stats in-memory per node (or could be in Redis, but simple atomic counters are fine for simple stats)
+    private final AtomicInteger hitCount = new AtomicInteger(0);
+    private final AtomicInteger missCount = new AtomicInteger(0);
 
-    public SemanticCacheService(AppConfig appConfig, ModelFactory modelFactory) {
+    public SemanticCacheService(AppConfig appConfig, ModelFactory modelFactory, StringRedisTemplate redisTemplate) {
         this.appConfig = appConfig;
         this.modelFactory = modelFactory;
+        this.redisTemplate = redisTemplate;
         this.objectMapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
-        
-        this.cacheFile = Paths.get(appConfig.getQdrant().getDataPath(), "semantic_cache.json");
-        loadCache();
     }
 
     public static double cosineSimilarity(List<Double> a, List<Double> b) {
@@ -69,6 +62,19 @@ public class SemanticCacheService {
         return list;
     }
 
+    private List<CacheEntry> loadEntries() {
+        List<Object> values = redisTemplate.opsForHash().values(CACHE_KEY);
+        List<CacheEntry> entries = new ArrayList<>();
+        for (Object val : values) {
+            try {
+                entries.add(objectMapper.readValue((String) val, CacheEntry.class));
+            } catch (IOException e) {
+                log.warn("Failed to parse semantic cache entry", e);
+            }
+        }
+        return entries;
+    }
+
     public CacheResult get(String question, String namespace) {
         List<Double> qVec;
         try {
@@ -84,50 +90,37 @@ public class SemanticCacheService {
         double bestScore = 0.0;
         String bestAnswer = null;
 
-        lock.lock();
-        try {
-            for (CacheEntry entry : entries) {
-                if (!Objects.equals(
-                        Optional.ofNullable(entry.getNamespace()).orElse(""),
-                        Optional.ofNullable(namespace).orElse("")
-                )) {
-                    continue;
-                }
-                // Skip expired entries
-                if (now - entry.getCreatedAt() > ttlSeconds) {
-                    continue;
-                }
-                double score = cosineSimilarity(qVec, entry.getVector());
-                if (score > bestScore) {
-                    bestScore = score;
-                    bestAnswer = entry.getAnswer();
-                }
+        List<CacheEntry> entries = loadEntries();
+
+        for (CacheEntry entry : entries) {
+            if (!Objects.equals(
+                    Optional.ofNullable(entry.getNamespace()).orElse(""),
+                    Optional.ofNullable(namespace).orElse("")
+            )) {
+                continue;
             }
-        } finally {
-            lock.unlock();
+            // Skip expired entries
+            if (now - entry.getCreatedAt() > ttlSeconds) {
+                continue;
+            }
+            double score = cosineSimilarity(qVec, entry.getVector());
+            if (score > bestScore) {
+                bestScore = score;
+                bestAnswer = entry.getAnswer();
+            }
         }
 
         double threshold = appConfig.getCache().getThreshold();
         if (bestScore >= threshold && bestAnswer != null) {
-            log.info("[SemanticCache] HIT similarity={}}, q={}", String.format("%.4f", bestScore), 
+            log.info("[SemanticCache] HIT similarity={}, q={}", String.format("%.4f", bestScore), 
                     question.substring(0, Math.min(question.length(), 60)));
-            lock.lock();
-            try {
-                hitCount++;
-            } finally {
-                lock.unlock();
-            }
+            hitCount.incrementAndGet();
             return new CacheResult(true, bestAnswer);
         }
 
         log.info("[SemanticCache] MISS similarity={}, q={}", String.format("%.4f", bestScore), 
                 question.substring(0, Math.min(question.length(), 60)));
-        lock.lock();
-        try {
-            missCount++;
-        } finally {
-            lock.unlock();
-        }
+        missCount.incrementAndGet();
         return new CacheResult(false, null);
     }
 
@@ -147,104 +140,84 @@ public class SemanticCacheService {
         entry.setVector(qVec);
         entry.setCreatedAt(Instant.now().getEpochSecond());
 
-        lock.lock();
+        String id = UUID.randomUUID().toString();
+
         try {
-            entries.add(entry);
+            String json = objectMapper.writeValueAsString(entry);
+            redisTemplate.opsForHash().put(CACHE_KEY, id, json);
+            
+            // Prune if exceeds max entries
+            Long size = redisTemplate.opsForHash().size(CACHE_KEY);
             int maxEntries = appConfig.getCache().getMaxEntries();
-            if (entries.size() > maxEntries) {
-                // Remove oldest entries
-                int toRemove = entries.size() - maxEntries;
-                for (int i = 0; i < toRemove; i++) {
-                    entries.remove(0);
+            
+            if (size != null && size > maxEntries) {
+                Map<Object, Object> allEntries = redisTemplate.opsForHash().entries(CACHE_KEY);
+                List<Map.Entry<Object, Object>> sorted = new ArrayList<>(allEntries.entrySet());
+                
+                // Sort by createdAt ascending (oldest first)
+                sorted.sort((a, b) -> {
+                    try {
+                        CacheEntry ea = objectMapper.readValue((String) a.getValue(), CacheEntry.class);
+                        CacheEntry eb = objectMapper.readValue((String) b.getValue(), CacheEntry.class);
+                        return Long.compare(ea.getCreatedAt(), eb.getCreatedAt());
+                    } catch (IOException ex) {
+                        return 0;
+                    }
+                });
+                
+                int toRemove = sorted.size() - maxEntries;
+                Object[] keysToDelete = sorted.subList(0, toRemove).stream().map(Map.Entry::getKey).toArray();
+                if (keysToDelete.length > 0) {
+                    redisTemplate.opsForHash().delete(CACHE_KEY, keysToDelete);
                 }
             }
-            saveCache();
-        } finally {
-            lock.unlock();
+        } catch (IOException e) {
+            log.error("[SemanticCache] Failed to save entry", e);
         }
 
         log.info("[SemanticCache] SET q={}", question.substring(0, Math.min(question.length(), 60)));
     }
 
     public Map<String, Object> stats() {
-        lock.lock();
-        try {
-            int total = entries.size();
-            long now = Instant.now().getEpochSecond();
-            long ttlSeconds = (long) appConfig.getCache().getTtlDays() * 24 * 3600;
-            
-            long validCount = entries.stream()
-                    .filter(e -> (now - e.getCreatedAt()) <= ttlSeconds)
-                    .count();
+        List<CacheEntry> entries = loadEntries();
+        int total = entries.size();
+        long now = Instant.now().getEpochSecond();
+        long ttlSeconds = (long) appConfig.getCache().getTtlDays() * 24 * 3600;
+        
+        long validCount = entries.stream()
+                .filter(e -> (now - e.getCreatedAt()) <= ttlSeconds)
+                .count();
 
-            Map<String, Integer> namespaceDistribution = new HashMap<>();
-            for (CacheEntry entry : entries) {
-                String namespace = entry.getNamespace();
-                String ns = namespace == null || namespace.isEmpty() ? "legacy" : namespace;
-                namespaceDistribution.put(ns, namespaceDistribution.getOrDefault(ns, 0) + 1);
-            }
-
-            int totalQueries = hitCount + missCount;
-            double hitRate = totalQueries > 0 ? (double) hitCount / totalQueries : 0.0;
-            // Round to 4 decimal places
-            hitRate = Math.round(hitRate * 10000.0) / 10000.0;
-
-            Map<String, Object> stats = new LinkedHashMap<>();
-            stats.put("size", total);
-            stats.put("valid", validCount);
-            stats.put("threshold", appConfig.getCache().getThreshold());
-            stats.put("hit_count", hitCount);
-            stats.put("miss_count", missCount);
-            stats.put("hit_rate", hitRate);
-            stats.put("namespaces", namespaceDistribution);
-            return stats;
-        } finally {
-            lock.unlock();
+        Map<String, Integer> namespaceDistribution = new HashMap<>();
+        for (CacheEntry entry : entries) {
+            String namespace = entry.getNamespace();
+            String ns = namespace == null || namespace.isEmpty() ? "legacy" : namespace;
+            namespaceDistribution.put(ns, namespaceDistribution.getOrDefault(ns, 0) + 1);
         }
+
+        int h = hitCount.get();
+        int m = missCount.get();
+        int totalQueries = h + m;
+        double hitRate = totalQueries > 0 ? (double) h / totalQueries : 0.0;
+        // Round to 4 decimal places
+        hitRate = Math.round(hitRate * 10000.0) / 10000.0;
+
+        Map<String, Object> stats = new LinkedHashMap<>();
+        stats.put("size", total);
+        stats.put("valid", validCount);
+        stats.put("threshold", appConfig.getCache().getThreshold());
+        stats.put("hit_count", h);
+        stats.put("miss_count", m);
+        stats.put("hit_rate", hitRate);
+        stats.put("namespaces", namespaceDistribution);
+        return stats;
     }
 
     public void clear() {
-        lock.lock();
-        try {
-            entries.clear();
-            hitCount = 0;
-            missCount = 0;
-            saveCache();
-            log.info("[SemanticCache] CLEARED");
-        } finally {
-            lock.unlock();
-        }
-    }
-
-    // --- File Storage ---
-
-    private void loadCache() {
-        if (!Files.exists(cacheFile)) {
-            return;
-        }
-        lock.lock();
-        try {
-            CacheData data = objectMapper.readValue(cacheFile.toFile(), CacheData.class);
-            if (data != null && data.getEntries() != null) {
-                entries.addAll(data.getEntries());
-                log.info("[SemanticCache] Loaded {} entries from disk", entries.size());
-            }
-        } catch (IOException e) {
-            log.warn("[SemanticCache] Failed to load cache file: {}", e.getMessage());
-        } finally {
-            lock.unlock();
-        }
-    }
-
-    private void saveCache() {
-        try {
-            Files.createDirectories(cacheFile.getParent());
-            CacheData data = new CacheData();
-            data.setEntries(new ArrayList<>(entries));
-            objectMapper.writeValue(cacheFile.toFile(), data);
-        } catch (IOException e) {
-            log.error("[SemanticCache] Failed to save cache file", e);
-        }
+        redisTemplate.delete(CACHE_KEY);
+        hitCount.set(0);
+        missCount.set(0);
+        log.info("[SemanticCache] CLEARED");
     }
 
     @Data

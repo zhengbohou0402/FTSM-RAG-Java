@@ -19,6 +19,7 @@ public class AppConfig {
     private CacheProperties cache = new CacheProperties();
     private ConversationProperties conversation = new ConversationProperties();
     private CrawlerProperties crawler = new CrawlerProperties();
+    private int maxContextTokens = 4000;
 
     @Data
     public static class VertexAiProperties {
@@ -36,6 +37,7 @@ public class AppConfig {
         private String baseUrl = "https://dashscope.aliyuncs.com/compatible-mode/v1";
         private String chatModel = "qwen-plus";
         private String embeddingModel = "text-embedding-v1";
+        private String imageModel = "qwen-vl-plus";
     }
 
 

@@ -396,6 +396,12 @@ public class VectorStoreService {
         String text = payload.containsKey("page_content")
                 ? payload.get("page_content").getStringValue()
                 : payload.getOrDefault("text", Value.getDefaultInstance()).getStringValue();
+        
+        // If parent_content is present, use it as the main text to provide broader context
+        if (payload.containsKey("parent_content") && !payload.get("parent_content").getStringValue().isBlank()) {
+            text = payload.get("parent_content").getStringValue();
+        }
+
         Metadata metadata = new Metadata();
         for (Map.Entry<String, Value> entry : payload.entrySet()) {
             Value value = entry.getValue();
@@ -885,8 +891,8 @@ public class VectorStoreService {
             } catch (Exception e) {
                 errors.add(p.getFileName() + ": " + e.getMessage());
                 log.error("Failed to load document {}", p, e);
-                rollbackPerFileTransaction(tx, manifest, targetCollection, lexicalGeneration);
-                if (tx.manifestCommitted || tx.qdrantUpserted || tx.lexicalUpdated) {
+                boolean rollbackSuccess = rollbackPerFileTransaction(tx, manifest, targetCollection, lexicalGeneration);
+                if (!rollbackSuccess) {
                     anyInconsistent = true;
                 }
             }
@@ -915,10 +921,10 @@ public class VectorStoreService {
         boolean manifestCommitted = false;
     }
 
-    private void rollbackPerFileTransaction(PerFileTransaction tx, ManifestData manifest,
+    private boolean rollbackPerFileTransaction(PerFileTransaction tx, ManifestData manifest,
                                             String targetCollection, String lexicalGeneration) {
         if (tx.docId == null) {
-            return;
+            return true;
         }
         List<String> rollbackErrors = new ArrayList<>();
 
@@ -968,7 +974,9 @@ public class VectorStoreService {
                 manifestManager.saveManifest(manifest);
             } catch (Exception ignored) {
             }
+            return false;
         }
+        return true;
     }
 
     // ==================== FULL REBUILD ====================
@@ -1059,10 +1067,6 @@ public class VectorStoreService {
                 }
             }
 
-            if (!errors.isEmpty()) {
-                throw new IllegalStateException(String.join("; ", errors));
-            }
-
             lexicalIndexService.rebuild(generation, lexicalDocuments);
             validateRebuiltIndex(stagedManifest, targetCollection, generation);
 
@@ -1084,11 +1088,11 @@ public class VectorStoreService {
             long manifestChunks = stagedManifest.getDocuments().values().stream()
                     .mapToLong(record -> record.getChunkIds().size())
                     .sum();
-            result.put("success", true);
+            result.put("success", errors.isEmpty());
             result.put("modified", true);
             result.put("consistent", true);
-            result.put("errors", Collections.emptyList());
-            result.put("error_summary", null);
+            result.put("errors", errors);
+            result.put("error_summary", errors.isEmpty() ? null : "部分成功，以下文件失败：" + String.join("; ", errors));
             result.put("document_count", stagedManifest.getDocuments().size());
             result.put("total_chunks", manifestChunks);
             result.put("qdrant_collection", targetCollection);
@@ -1395,8 +1399,16 @@ public class VectorStoreService {
         payload.put("source_trust_label", ValueFactory.value(classification.getLabel()));
         payload.put("source_trust_note", ValueFactory.value(classification.getNote()));
         payload.put("source_priority", ValueFactory.value(classification.getPriority()));
-        chunk.metadata().asMap().forEach((key, value) ->
-                payload.put("loader_" + key, ValueFactory.value(value)));
+        
+        if (chunk.metadata().containsKey("parent_content")) {
+            payload.put("parent_content", ValueFactory.value(chunk.metadata().getString("parent_content")));
+        }
+
+        chunk.metadata().asMap().forEach((key, value) -> {
+            if (!key.equals("parent_content")) {
+                payload.put("loader_" + key, ValueFactory.value(value));
+            }
+        });
         return payload;
     }
 
@@ -1465,21 +1477,72 @@ public class VectorStoreService {
         if (filename.endsWith(".txt")) {
             return Mono.just(fileExtractors.txtLoader(path));
         } else if (filename.endsWith(".pdf")) {
-            return Mono.just(fileExtractors.pdfLoader(path));
+            return fileExtractors.structuredPdfLoader(path);
         } else if (List.of("png", "jpg", "jpeg", "webp", "gif").stream().anyMatch(filename::endsWith)) {
             return fileExtractors.imageLoader(path);
         }
         return Mono.just(Collections.emptyList());
     }
 
+    public List<Document> mergeChildHitsToParents(List<Document> childHits) {
+        Map<String, List<Document>> groupedByParent = new LinkedHashMap<>();
+        for (Document hit : childHits) {
+            String parentContent = hit.metadata().getString("parent_content");
+            if (parentContent != null) {
+                groupedByParent.computeIfAbsent(parentContent, k -> new ArrayList<>()).add(hit);
+            } else {
+                groupedByParent.computeIfAbsent(hit.text(), k -> new ArrayList<>()).add(hit);
+            }
+        }
+
+        List<Document> merged = new ArrayList<>();
+        for (Map.Entry<String, List<Document>> entry : groupedByParent.entrySet()) {
+            String parentContent = entry.getKey();
+            List<Document> hits = entry.getValue();
+            
+            Document firstHit = hits.get(0);
+            Metadata meta = firstHit.metadata().copy();
+            if (hits.size() > 1) {
+                meta.put("auto_merged", "true");
+            }
+            merged.add(Document.from(parentContent, meta));
+        }
+        return merged;
+    }
+
     private List<Document> splitDocuments(List<Document> rawDocs) {
         List<Document> chunks = new ArrayList<>();
-        PythonCompatibleTextSplitter splitter = new PythonCompatibleTextSplitter(
-                appConfig.getQdrant().getChunkSize(),
-                appConfig.getQdrant().getChunkOverlap()
-        );
+        
+        int parentChunkSize = 2000;
+        int parentChunkOverlap = 200;
+        int childChunkSize = appConfig.getQdrant().getChunkSize();
+        int childChunkOverlap = appConfig.getQdrant().getChunkOverlap();
+
+        PythonCompatibleTextSplitter defaultParentSplitter = new PythonCompatibleTextSplitter(
+                parentChunkSize, parentChunkOverlap);
+        HeaderTextSplitter headerParentSplitter = new HeaderTextSplitter(parentChunkSize);
+        PythonCompatibleTextSplitter childSplitter = new PythonCompatibleTextSplitter(
+                childChunkSize, childChunkOverlap);
+
         for (Document doc : rawDocs) {
-            chunks.addAll(splitter.split(doc));
+            String source = doc.metadata().getString("source");
+            boolean isPdf = source != null && source.toLowerCase().endsWith(".pdf");
+            
+            List<Document> parentChunks;
+            if (isPdf) {
+                parentChunks = headerParentSplitter.split(doc);
+            } else {
+                parentChunks = defaultParentSplitter.split(doc);
+            }
+            
+            for (Document parentChunk : parentChunks) {
+                List<Document> childChunks = childSplitter.split(parentChunk);
+                for (Document childChunk : childChunks) {
+                    Metadata meta = childChunk.metadata().copy();
+                    meta.put("parent_content", parentChunk.text());
+                    chunks.add(Document.from(childChunk.text(), meta));
+                }
+            }
         }
         return chunks;
     }

@@ -67,6 +67,71 @@ function Copy-Tree([string]$Source, [string]$Destination) {
     Copy-Item -Path (Join-Path $Source "*") -Destination $Destination -Recurse -Force
 }
 
+function Assert-SeedIndex {
+    $dataRoot = Join-Path $Root "data\ukm_ftsm"
+    $manifestPath = Join-Path $dataRoot "ingestion_manifest.json"
+    if (-not (Test-Path $manifestPath)) {
+        throw "Seed ingestion manifest is missing: $manifestPath"
+    }
+
+    $manifest = Get-Content $manifestPath -Raw | ConvertFrom-Json
+    $documents = @($manifest.documents.PSObject.Properties)
+    $allowedExtensions = @(".txt", ".pdf", ".png", ".jpg", ".jpeg", ".webp", ".gif")
+    $sourceFiles = @(Get-ChildItem $dataRoot -File |
+        Where-Object { $allowedExtensions -contains $_.Extension.ToLowerInvariant() })
+    $transcriptStems = @{}
+    $sourceFiles |
+        Where-Object { $_.Extension.Equals(".txt", [StringComparison]::OrdinalIgnoreCase) } |
+        ForEach-Object {
+            $transcriptStems[[IO.Path]::ChangeExtension($_.FullName, $null).ToLowerInvariant()] = $true
+        }
+    $effectiveFiles = @($sourceFiles | Where-Object {
+        $_.Extension.Equals(".txt", [StringComparison]::OrdinalIgnoreCase) -or
+        -not $transcriptStems.ContainsKey(
+            [IO.Path]::ChangeExtension($_.FullName, $null).ToLowerInvariant()
+        )
+    })
+
+    if ($documents.Count -ne $effectiveFiles.Count) {
+        throw "Seed manifest coverage mismatch: documents=$($documents.Count), effective files=$($effectiveFiles.Count)"
+    }
+
+    $chunkCount = 0
+    foreach ($document in $documents) {
+        $chunkCount += @($document.Value.chunk_ids).Count
+    }
+    if ($chunkCount -le 0) {
+        throw "Seed manifest contains no chunks."
+    }
+
+    $websiteId = "file:data/ukm_ftsm/ftsm_official_website.txt"
+    $website = $documents | Where-Object { $_.Name -eq $websiteId } | Select-Object -First 1
+    if (-not $website -or @($website.Value.chunk_ids).Count -le 0) {
+        throw "The required FTSM website seed document is not indexed."
+    }
+
+    $qdrantCollection = [string]$manifest.index.qdrant_collection
+    $lexicalGeneration = [string]$manifest.index.lexical_generation
+    if ([string]::IsNullOrWhiteSpace($qdrantCollection) -or
+        [string]::IsNullOrWhiteSpace($lexicalGeneration)) {
+        throw "Seed manifest does not identify the active Qdrant and Lucene generations."
+    }
+
+    $lexicalPath = Join-Path (Join-Path $Root "lucene_local") $lexicalGeneration
+    if (-not (Test-Path $lexicalPath) -or
+        -not (Get-ChildItem $lexicalPath -File -ErrorAction SilentlyContinue)) {
+        throw "Lucene seed generation is missing or empty: $lexicalPath"
+    }
+    $qdrantStorage = Join-Path $Root "qdrant_local\storage"
+    if (-not (Test-Path $qdrantStorage) -or
+        -not (Get-ChildItem $qdrantStorage -Recurse -File -ErrorAction SilentlyContinue |
+            Select-Object -First 1)) {
+        throw "Qdrant seed storage is missing or empty: $qdrantStorage"
+    }
+
+    Write-Host "Validated seed index: $($documents.Count) documents, $chunkCount chunks."
+}
+
 function Initialize-MsvcEnvironment {
     if (Get-Command "link.exe" -ErrorAction SilentlyContinue) {
         return
@@ -213,7 +278,9 @@ if ($runningProjectQdrant) {
     throw "The project Qdrant process is running. Stop the application before packaging its storage."
 }
 
+Assert-SeedIndex
 Copy-Tree (Join-Path $Root "qdrant_local\storage") (Join-Path $Stage "seed-qdrant-storage")
+Copy-Tree (Join-Path $Root "lucene_local") (Join-Path $Stage "seed-lucene-storage")
 
 $seedHashes = [ordered]@{}
 Get-ChildItem $SeedData -Recurse -File |

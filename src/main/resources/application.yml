@@ -1,5 +1,5 @@
 server:
-  address: ${SERVER_ADDRESS:127.0.0.1}
+  address: ${SERVER_ADDRESS:0.0.0.0}
   port: 8000
 
 spring:
@@ -10,9 +10,23 @@ spring:
       max-in-memory-size: 1MB
       max-disk-usage-per-part: 50MB
       max-parts: 20
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,prometheus,metrics
+  metrics:
+    tags:
+      application: ftsm-rag-java
 
 app:
   project-root: ${PROJECT_ROOT:}
+  max-context-tokens: 4000
   llm-provider: ${LLM_PROVIDER:dashscope}
   dashscope:
     api-key: ${DASHSCOPE_API_KEY:}

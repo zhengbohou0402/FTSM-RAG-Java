@@ -9,6 +9,10 @@ qdrant.zip
 qdrant_local/storage/
 qdrant_local/qdrant-java.log
 qdrant_local/.qdrant-initialized
+qdrant_local/app.err
+.qdrant-initialized
+storage/
+lucene_local/
 data/ukm_ftsm/.manifest.json
 data/ukm_ftsm/.last_crawl
 data/ukm_ftsm/chat_sessions.json

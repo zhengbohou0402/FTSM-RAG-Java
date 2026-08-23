@@ -1,6 +1,8 @@
 package com.ftsm.rag.service;
 
 import jakarta.annotation.PreDestroy;
+import io.micrometer.core.instrument.Gauge;
+import io.micrometer.core.instrument.MeterRegistry;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
@@ -23,6 +25,7 @@ public class IndexingService {
     private final VectorStoreService vectorStoreService;
     private final ModelFactory modelFactory;
     private final SemanticCacheService semanticCacheService;
+    private final MeterRegistry meterRegistry;
     private final ExecutorService executorService = Executors.newSingleThreadExecutor(runnable -> {
         Thread thread = new Thread(runnable, "ftsm-java-indexer");
         thread.setDaemon(true);
@@ -34,15 +37,24 @@ public class IndexingService {
     private boolean pendingFullIndex;
 
     public IndexingService(VectorStoreService vectorStoreService, ModelFactory modelFactory,
-                           SemanticCacheService semanticCacheService) {
+                           SemanticCacheService semanticCacheService, MeterRegistry meterRegistry) {
         this.vectorStoreService = vectorStoreService;
         this.modelFactory = modelFactory;
         this.semanticCacheService = semanticCacheService;
+        this.meterRegistry = meterRegistry;
         
         state.put("running", false);
         state.put("pending", false);
         state.put("last_result", null);
         state.put("last_error", null);
+
+        Gauge.builder("rag.indexing.running", state, s -> Boolean.TRUE.equals(s.get("running")) ? 1 : 0)
+                .description("Is indexing currently running (1 = true, 0 = false)")
+                .register(meterRegistry);
+        
+        Gauge.builder("rag.indexing.pending", state, s -> Boolean.TRUE.equals(s.get("pending")) ? 1 : 0)
+                .description("Is indexing pending (1 = true, 0 = false)")
+                .register(meterRegistry);
     }
 
     public synchronized Map<String, Object> getTrainingState() {

@@ -6,6 +6,7 @@ import com.ftsm.rag.model.ManifestData;
 import com.ftsm.rag.store.DocumentManifestManager;
 import com.ftsm.rag.service.CrawlScheduler;
 import com.ftsm.rag.service.SemanticCacheService;
+import com.ftsm.rag.service.TraceLogger;
 import com.ftsm.rag.service.VectorStoreService;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Mono;
@@ -27,15 +28,17 @@ public class StatsController {
     private final SemanticCacheService semanticCacheService;
     private final CrawlScheduler crawlScheduler;
     private final VectorStoreService vectorStoreService;
+    private final TraceLogger traceLogger;
 
     public StatsController(AppConfig appConfig, DocumentManifestManager manifestManager,
                            SemanticCacheService semanticCacheService, CrawlScheduler crawlScheduler,
-                           VectorStoreService vectorStoreService) {
+                           VectorStoreService vectorStoreService, TraceLogger traceLogger) {
         this.appConfig = appConfig;
         this.manifestManager = manifestManager;
         this.semanticCacheService = semanticCacheService;
         this.crawlScheduler = crawlScheduler;
         this.vectorStoreService = vectorStoreService;
+        this.traceLogger = traceLogger;
     }
 
     @GetMapping("/cache/stats")
@@ -62,6 +65,11 @@ public class StatsController {
     public Mono<Map<String, Object>> getKnowledgeStats() {
         return Mono.fromCallable(this::buildKnowledgeStats)
                 .subscribeOn(Schedulers.boundedElastic());
+    }
+
+    @GetMapping("/trace/recent")
+    public List<Map<String, Object>> getRecentTraces(@RequestParam(value = "limit", defaultValue = "20") int limit) {
+        return traceLogger.getRecentTraces(limit);
     }
 
     private Map<String, Object> buildKnowledgeStats() {
